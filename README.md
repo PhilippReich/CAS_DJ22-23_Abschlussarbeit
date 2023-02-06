@@ -33,4 +33,4 @@ Da bei watson.ch keine Spezialisten aus dem Bereich DataViz arbeiten, beschloss 
 - Daten-Analyse und Überdenken der These: 4 Std.
 - Visualisierung: 6 Std.
 - Texten: 4 Std.
-- TOTAL: 44 Std.
+- **TOTAL:** 44 Std.
