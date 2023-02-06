@@ -10,7 +10,6 @@ Dokumentation der Abschlussarbeit für den CAS Datenjournalismus 2022/23
 - These formulieren: **Die Super League ist keine echte Ausbildungsliga – nur ein Bruchteil aller Transfers haben eine Top-5-Liga als Ziel**
 - These checken: Relevanz? Neu? Aufwand/Ertrag? **Thema ist aktuell, das Wintertransferfenster schliesst Anfang Februar. Ähnliche Storys gab es bislang nur zu ausländischen Ligen. Aufwand ist machbar.**
 - Knackpunkt bestimmen. **Abgleichen der Zielvereine mit der jeweiligen Ligahöhe. Stimmt die These überhaupt? Was, wenn nicht?**
-- Briefing Person konsultieren: **War in meinem Fall nicht nötig.**
 - Daten beschaffen/reinigen/analysieren/visualisieren -> These justieren **Um einen int. Vergleich zu erhalten, müssen die Transfer-Daten von vergleichbaren Ligen beschafft werden.**
 - Dokumentieren Code und statistische Annahmen: **Siehe Github-Repository.**
 - Link auf Publikation: **Siehe weiter unten.**
