@@ -3,7 +3,6 @@ Dokumentation der Abschlussarbeit für den CAS Datenjournalismus 2022/23
 
 # Transfer-Analyse – so sehr Ausbildungsliga ist die Super League wirklich
 
-Analyse aller Super-League-Transfers (Abgänge) seit der Saison 2003/04 mithilfe von Daten von [transfermarkt.ch](https://www.transfermarkt.ch/).
 ![Teaserbild](https://github.com/PhilippReich/CAS_DJ22-23_Abschlussarbeit/blob/main/Teaserbild.jpg)
 
 ## 0 Checkliste
@@ -11,14 +10,14 @@ Analyse aller Super-League-Transfers (Abgänge) seit der Saison 2003/04 mithilfe
 - These formulieren: **Die Super League ist keine echte Ausbildungsliga – nur ein Bruchteil aller Tranfers haben eine Top-5-Liga als Ziel**
 - These checken: Relevanz? Neu? Aufwand/Ertrag? **Thema ist aktuell, das Wintertransferfenster schliesst Anfang Februar. Ähnliche Storys gab es bislang nur zu ausländischen Ligen. Aufwand ist machbar.**
 - Knackpunkt bestimmen. **Abgleichen der Zielvereine mit der jeweiligen Ligahöhe. Stimmt die These überhaupt? Was, wenn nicht?**
-- Briefing Person konsultieren **War nicht nötig.**
+- Briefing Person konsultieren: **War in meinem Fall nicht nötig.**
 - Daten beschaffen/reinigen/analysieren/visualisieren -> These justieren **Um einen int. Vergleich zu erhalten, müssen die Transfer-Daten von vergleichbaren Ligen beschafft werden.**
 - Dokumentieren Code und statistische Annahmen: **Siehe Github-Repository.**
-- Link auf Publikation: **
-- Aufwandslogbuch: **Siehe unten.**
+- Link auf Publikation: **Siehe weiter unten.**
+- Aufwandslogbuch: **Siehe weiter unten.**
 
 ## 1 Daten-Quelle
-
+Um an den benötigten Datensatz zu kommen, habe ich alle Super-League-Transfers (nur die Abgänge) seit der Saison 2003/04 auf [transfermarkt.ch]([https://www.transfermarkt.ch/](https://www.transfermarkt.de/super-league/transfers/wettbewerb/C1/plus/?saison_id=2003&s_w=&leihe=0&intern=0)) gescrapet. Warum gerade diese Saison? Seither besteht die oberste Schweizer Fussball-Liga konstant aus 10 Klubs, zuvor waren es jeweils 12. Ausserdem beträgt der Zeitraum der Analyse so genau 20 Saisons. Das grösste Problem bei der Datenbeschaffung ([Hier der Link zum kommentierten Python-Notebook](https://github.com/PhilippReich/CAS_DJ22-23_Abschlussarbeit/blob/main/2023_CAS_Abschlussarbeit_Transfers_Super_League.ipynb)) war, dass beim Scrapen der Transfers zwar ein Zielland eruiert werden konnte, nicht aber die genaue Ligahöhe, in welcher der Klub zum Transferzeitpunkt spielte. Über die Klub-IDs konnte ich allerdings die [historischen Ligaplatzierungen aller aufnehmenden Vereine bei transfermarkt.ch](https://www.transfermarkt.de/-/platzierungen/verein/79) scrapen und die so entstandenen Resultate mit dem ursprünglichen Dataframe mergen.
 
 ## 2 Daten-Analyse
 
