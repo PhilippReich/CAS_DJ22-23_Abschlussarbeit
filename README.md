@@ -28,9 +28,9 @@ Da bei watson.ch keine Spezialisten aus dem Bereich DataViz arbeiten, beschloss 
 [Publikation auf watson.ch vom 7. Februar 2023](https://www.watson.ch/!720904551/)
 
 ## 5 Aufwandslogbuch
-- Datenbeschaffung/Programmieren: 24 Std.
+- Datenbeschaffung/Programmieren: 30 Std.
 - Datenreinigung: 6 Std.
-- Daten-Analyse und Überdenken der These: 4 Std.
-- Visualisierung: 6 Std.
+- Daten-Analyse und Überdenken der These: 6 Std.
+- Visualisierung: 8 Std.
 - Texten: 4 Std.
-- **TOTAL:** 44 Std.
+- **TOTAL:** 54 Std.
