@@ -1,0 +1,1777 @@
+,Saison,Name,Player_ID,Alter,Nationalität,Abgebender Verein,ID_1,Aufnehmender Verein,ID_2,Zielland,Ablösesumme,Ligahöhe
+0,03/04,Martin Hasek,2941,33,Tschechien,FK Austria Wien,14,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1,03/04,Thomas Luttenberger,16486,23,Österreich,FK Austria Wien,14,SC Interwetten.com,1378,Österreich,0.0,2.Liga
+2,03/04,Volkan Kahraman,3017,24,Österreich,FK Austria Wien,14,Skoda Xanthi,128,Griechenland,0.0,1.Liga
+3,03/04,Joachim Parapatits,5052,22,Österreich,FK Austria Wien,14,SC Interwetten.com,1378,Österreich,0.0,2.Liga
+4,03/04,Júlio César,2943,24,Brasilien,FK Austria Wien,14,Real Valladolid,366,Spanien,0.0,1.Liga
+5,03/04,Petter Rudi,6641,30,Norwegen,FK Austria Wien,14,Molde FK,687,Norwegen,0.0,1.Liga
+6,03/04,Martin Hiden,2942,30,Österreich,FK Austria Wien,14,SK Rapid Wien,170,Österreich,0.0,1.Liga
+7,03/04,Raymond Kvisvik,2958,28,Norwegen,FK Austria Wien,14,SK Brann,1100,Norwegen,0.0,1.Liga
+8,03/04,Wolfgang Hopfer,2952,28,Österreich,FK Austria Wien,14,SV Mattersburg,856,Österreich,0.0,1.Liga
+9,03/04,Manfred Rothbauer,2949,27,Österreich,FK Austria Wien,14,FC Pasching,935,Österreich,0.0,1.Liga
+10,03/04,Paul Scharner,2953,23,Österreich,FK Austria Wien,14,SV Austria Salzburg,409,Österreich,0.0,1.Liga
+11,03/04,Richard Hastings,4992,26,Kanada,Grazer AK,316,MVV Maastricht,384,Niederlande,0.0,2.Liga
+12,03/04,Enrico Kulovits,3043,29,Österreich,Grazer AK,316,Skoda Xanthi,128,Griechenland,0.0,1.Liga
+13,03/04,Skelley Adu Tutu,27440,24,Ghana,Grazer AK,316,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+14,03/04,Fabrice Moreau,183078,35,Kamerun,Grazer AK,316,Partick Thistle FC ,2760,Schottland,0.0,
+15,03/04,Benedict Akwuegbu,5007,29,Nigeria,Grazer AK,316,FC Kärnten (- 2009),155,Österreich,0.0,1.Liga
+16,03/04,Ronald Brunmayr,5010,28,Österreich,Grazer AK,316,SK Sturm Graz,122,Österreich,0.0,1.Liga
+17,03/04,Sven Scheuer,216,32,Deutschland,Grazer AK,316,VfL Osnabrück,81,Deutschland,0.0,2.Liga
+18,03/04,Ales Ceh,4999,35,Slowenien,Grazer AK,316,NK Maribor,790,Slowenien,0.0,1.Liga
+19,03/04,Boban Dmitrovic,5000,31,Serbien,Grazer AK,316,SK Sturm Graz,122,Österreich,0.0,1.Liga
+20,03/04,Jones Kusi-Asare,6929,23,Schweden,Grazer AK,316,Landskrona BoIS,2294,Schweden,0.0,
+21,03/04,Péter Halmosi,5001,23,Ungarn,Grazer AK,316,Debreceni VSC,84,Ungarn,0.0,
+22,03/04,Albert Michael Yobo,4995,24,Frankreich,Grazer AK,316,FC Zwolle,1269,Niederlande,0.0,1.Liga
+23,03/04,Martin Kager,132234,17,Österreich,Grazer AK,316,USV Hartberg Umgebung,10230,Österreich,0.0,
+24,03/04,Roland Kirchler,2979,32,Österreich,SV Austria Salzburg,409,FC Pasching,935,Österreich,25000.0,1.Liga
+25,03/04,Szabolcs Sáfár,2964,28,Ungarn,SV Austria Salzburg,409,Spartak Moskau,232,Russland,0.0,1.Liga
+26,03/04,Kenan Kocak,9945,22,Deutschland,SV Austria Salzburg,409,SV Waldhof Mannheim,85,Deutschland,0.0,4.Liga
+27,03/04,Josko Bilic,14187,29,Kroatien,SV Austria Salzburg,409,Viator&amp;Vektor Ljubljana,4770,Slowenien,0.0,1.Liga
+28,03/04,Zeljko Pavlovic,6141,32,Kroatien,SV Austria Salzburg,409,FC Kärnten (- 2009),155,Österreich,0.0,1.Liga
+29,03/04,Dominic Hassler,2981,22,Österreich,SV Austria Salzburg,409,Grazer AK,316,Österreich,0.0,1.Liga
+30,03/04,Claudio Hassler,2966,25,Österreich,SV Austria Salzburg,409,BSV Juniors Villach,2277,Österreich,0.0,2.Liga
+31,03/04,Gábor Bukrán,13897,27,Ungarn,SV Austria Salzburg,409,Royal Antwerpen FC,1096,Belgien,0.0,1.Liga
+32,03/04,Manuel Rödl,8138,20,Österreich,SV Austria Salzburg,409,SC Interwetten.com,1378,Österreich,0.0,2.Liga
+33,03/04,Thomas Sobotzik,434,28,Deutschland,SK Rapid Wien,170,1.FC Union Berlin,89,Deutschland,0.0,2.Liga
+34,03/04,Ivan Knez,2928,28,Schweiz,SK Rapid Wien,170,BSC Young Boys,452,Schweiz,0.0,1.Liga
+35,03/04,Jacob Laursen,4253,31,Dänemark,SK Rapid Wien,170,Vejle Boldklub,443,Dänemark,0.0,
+36,03/04,Günter Schießwald,2921,29,Österreich,SK Rapid Wien,170,SC Interwetten.com,1378,Österreich,0.0,2.Liga
+37,03/04,Jürgen Saler,2922,25,Österreich,SK Rapid Wien,170,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+38,03/04,Andreas Wieland,18997,19,Österreich,SK Rapid Wien,170,SKN St. Pölten,2662,Österreich,0.0,3.Liga
+39,03/04,Jürgen Kauz,13923,29,Österreich,FC Pasching,935,SCR Altach,3551,Österreich,0.0,3.Liga
+40,03/04,Faruk Atalay,4962,22,Türkei,FC Pasching,935,Royal Antwerpen FC,1096,Belgien,0.0,1.Liga
+41,03/04,Dragan Sarac,3023,27,Serbien,FC Pasching,935,Roter Stern Belgrad,159,Serbien,0.0,
+42,03/04,Stefan Auer,3021,27,Österreich,FC Pasching,935,FC Blau-Weiß Linz,2157,Österreich,0.0,3.Liga
+43,03/04,Sascha Laschet,3019,25,Österreich,FC Pasching,935,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+44,03/04,Mario Kuttner,3009,20,Österreich,FC Pasching,935,FC Blau-Weiß Linz,2157,Österreich,0.0,3.Liga
+45,03/04,Roland Huspek,3024,32,Österreich,FC Pasching,935,SV Wallern,2232,Österreich,0.0,4.Liga
+46,03/04,Metin Aslan,3014,25,Türkei,FC Pasching,935,Manisaspor,1267,Türkei,0.0,
+47,03/04,Mario Mühlbauer,3018,26,Österreich,FC Pasching,935,FC Wacker Tirol,2444,Österreich,0.0,2.Liga
+48,03/04,Ramazan Eker,31187,20,Österreich,FC Pasching,935,SPG SK St. Magdalena/FC Pasching Amateure,20446,Österreich,0.0,4.Liga
+49,03/04,Andreas Saurer,2907,31,Österreich,FC Pasching,935,SPG SK St. Magdalena/FC Pasching Amateure,20446,Österreich,0.0,4.Liga
+50,03/04,Anto Petrovic,28460,28,Kroatien,SK Sturm Graz,122,NK Marsonia Slavonski Brod,2409,Kroatien,0.0,
+51,03/04,Charles Amoah,3068,28,Ghana,SK Sturm Graz,122,Okwawu United SC,1820,Ghana,0.0,
+52,03/04,Martin Hasek,2941,34,Tschechien,SK Sturm Graz,122,Dynamo Moskau,121,Russland,0.0,1.Liga
+53,03/04,Filip De Wilde,6165,39,Belgien,SK Sturm Graz,122,KSC Lokeren (- 2020),498,Belgien,0.0,1.Liga
+54,03/04,Heinz Weber,737,26,Österreich,SK Sturm Graz,122,SC Interwetten.com,1378,Österreich,0.0,2.Liga
+55,03/04,Martin Pregelj,3064,26,Slowenien,SK Sturm Graz,122,Enosis Neon Paralimniou,840,Zypern,0.0,
+56,03/04,Imre Szabics,3074,22,Ungarn,SK Sturm Graz,122,VfB Stuttgart,79,Deutschland,0.0,1.Liga
+57,03/04,Roman Mählich,3062,31,Österreich,SK Sturm Graz,122,SC Interwetten.com,1378,Österreich,0.0,2.Liga
+58,03/04,Jerzy Brzeczek,3058,32,Polen,SK Sturm Graz,122,FC Kärnten (- 2009),155,Österreich,0.0,1.Liga
+59,03/04,Jan-Pieter Martens,22740,28,Belgien,SK Sturm Graz,122,TuS FC Arnfels (- 2004),4469,Österreich,0.0,3.Liga
+60,03/04,Sebastian Olszar,2847,22,Polen,VfB Admira Wacker Mödling,503,FC Portsmouth,1020,England,200000.0,1.Liga
+61,03/04,Helmut Prenner,2831,24,Österreich,VfB Admira Wacker Mödling,503,1. Wiener Neustädter SC,2273,Österreich,50000.0,4.Liga
+62,03/04,Alexander Lex,81319,23,Österreich,VfB Admira Wacker Mödling,503,FC Waidhofen/Ybbs,2615,Österreich,0.0,3.Liga
+63,03/04,Georg Bardel,2846,28,Österreich,VfB Admira Wacker Mödling,503,ASK Kottingbrunn,4378,Österreich,0.0,3.Liga
+64,03/04,Christoph Knaller,2830,22,Österreich,VfB Admira Wacker Mödling,503,SKN St. Pölten,2662,Österreich,0.0,3.Liga
+65,03/04,Robert Holub,2835,26,Österreich,VfB Admira Wacker Mödling,503,FK White Star,4301,Österreich,0.0,
+66,03/04,Martin Cestnik,2850,29,Österreich,VfB Admira Wacker Mödling,503,SC/ESV Parndorf,4320,Österreich,0.0,3.Liga
+67,03/04,Christian Schilling,2827,21,Österreich,VfB Admira Wacker Mödling,503,SKN St. Pölten,2662,Österreich,0.0,3.Liga
+68,03/04,Pawel Sobczak,20830,25,Polen,VfB Admira Wacker Mödling,503,Anorthosis Famagusta,3899,Zypern,0.0,
+69,03/04,Christian Sablatnig,8140,23,Österreich,FC Kärnten (- 2009),155,BSV Juniors Villach,2277,Österreich,0.0,2.Liga
+70,03/04,Mario Steiner,4972,20,Österreich,FC Kärnten (- 2009),155,BSV Juniors Villach,2277,Österreich,0.0,2.Liga
+71,03/04,Arno Kozelsky,8121,21,Österreich,FC Kärnten (- 2009),155,DSV Leoben,307,Österreich,0.0,2.Liga
+72,03/04,Heimo Vorderegger,4961,37,Österreich,FC Kärnten (- 2009),155,BSV Juniors Villach,2277,Österreich,0.0,2.Liga
+73,03/04,Alexander Schenk,4956,25,Österreich,FC Kärnten (- 2009),155,BSV Juniors Villach,2277,Österreich,0.0,2.Liga
+74,03/04,Martin Morgenstern,8130,21,Österreich,FC Kärnten (- 2009),155,BSV Juniors Villach,2277,Österreich,0.0,2.Liga
+75,03/04,Thomas Ambrosius,4974,34,Dänemark,FC Kärnten (- 2009),155,BSV Juniors Villach,2277,Österreich,0.0,2.Liga
+76,03/04,Klaus Rohseano,4969,33,Österreich,FC Kärnten (- 2009),155,BSV Juniors Villach,2277,Österreich,0.0,2.Liga
+77,03/04,Roman Stary,4971,29,Österreich,FC Kärnten (- 2009),155,FC Wacker Tirol,2444,Österreich,0.0,2.Liga
+78,03/04,Johannes Lamprecht,4965,21,Österreich,FC Kärnten (- 2009),155,SV Ried,266,Österreich,0.0,2.Liga
+79,03/04,Faruk Atalay,4962,22,Türkei,FC Kärnten (- 2009),155,FC Pasching,935,Österreich,0.0,1.Liga
+80,03/04,Renato Pilipovic,4966,25,Kroatien,FC Kärnten (- 2009),155,NK Zagreb,5107,Kroatien,0.0,
+81,03/04,Axel Lawarée,3049,30,Belgien,Casino Schwarz-Weiss Bregenz,936,SK Rapid Wien,170,Österreich,150000.0,1.Liga
+82,03/04,Jiri Rosicky,3047,25,Tschechien,Casino Schwarz-Weiss Bregenz,936,AC Sparta Prag,197,Tschechien,0.0,1.Liga
+83,03/04,Emmanuel Akwuegbu,3895,24,Nigeria,Casino Schwarz-Weiss Bregenz,936,FC Waidhofen/Ybbs,2615,Österreich,0.0,3.Liga
+84,03/04,Florian Karasek,3035,27,Österreich,Casino Schwarz-Weiss Bregenz,936,SV Straßwalchen,3304,Österreich,0.0,4.Liga
+85,03/04,Johannes Grissmann,3033,20,Österreich,Casino Schwarz-Weiss Bregenz,936,FC Sachsen Leipzig II (- 2011),5237,Deutschland,0.0,
+86,03/04,Lars Unger,3038,30,Deutschland,Casino Schwarz-Weiss Bregenz,936,SV Werder Bremen Amateure,87,Deutschland,0.0,3.Liga
+87,03/04,Oliver Mattle,3044,24,Österreich,Casino Schwarz-Weiss Bregenz,936,SCR Altach,3551,Österreich,0.0,3.Liga
+88,03/04,Michael Mehlem,3036,26,Österreich,Casino Schwarz-Weiss Bregenz,936,SC Schwanenstadt,4319,Österreich,0.0,3.Liga
+89,03/04,Dietmar Kantauer,137690,32,Österreich,SV Mattersburg,856,SV Neuberg,4458,Österreich,0.0,3.Liga
+90,03/04,István Szekér,137695,32,Ungarn,SV Mattersburg,856,SV Neuberg,4458,Österreich,0.0,3.Liga
+91,03/04,Andreas Feurer,138527,21,Österreich,SV Mattersburg,856,SV Rohrbach,3554,Österreich,0.0,3.Liga
+92,03/04,Gerald Schneider,100375,21,Österreich,SV Mattersburg,856,SV St. Margarethen,14010,Österreich,0.0,4.Liga
+93,03/04,Hannes Reinmayr,79030,33,Österreich,SV Mattersburg,856,SK St. Andrä,12212,Österreich,0.0,3.Liga
+94,03/04,Andreas Strommer,56205,17,Österreich,SV Mattersburg,856,ASK Baumgarten (-2014),8573,Österreich,0.0,4.Liga
+95,03/04,Herfried Sabitzer,8167,33,Österreich,SV Mattersburg,856,SC Kalsdorf,2466,Österreich,0.0,
+96,03/04,Christoph Fröch,100705,22,Österreich,SV Mattersburg,856,SV Rohrbach,3554,Österreich,0.0,3.Liga
+97,04/05,Nikola Milinkovic,5002,36,Serbien,Grazer AK,316,ASK Schwadorf 1936,6158,Österreich,0.0,4.Liga
+98,04/05,Michaël Goossens,4830,30,Belgien,Grazer AK,316,VV St. Truiden,475,Belgien,0.0,1.Liga
+99,04/05,Michael Liendl,17057,18,Österreich,Grazer AK,316,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+100,04/05,Libor Sionko,9770,27,Tschechien,Grazer AK,316,FK Austria Wien,14,Österreich,0.0,1.Liga
+101,04/05,Thorstein Helstad,2955,27,Norwegen,FK Austria Wien,14,Rosenborg BK,195,Norwegen,650000.0,1.Liga
+102,04/05,Michael Koller,14826,21,Österreich,FK Austria Wien,14,SV Mattersburg,856,Österreich,0.0,1.Liga
+103,04/05,Sean Dundee,592,31,Deutschland,FK Austria Wien,14,Karlsruher SC,48,Deutschland,0.0,2.Liga
+104,04/05,Thomas Mandl,2940,25,Österreich,FK Austria Wien,14,FC Basel 1893,26,Schweiz,0.0,1.Liga
+105,04/05,Thomas Flögel,2945,33,Österreich,FK Austria Wien,14,FC Pasching,935,Österreich,0.0,1.Liga
+106,04/05,Éric Akoto,2957,23,Togo,FK Austria Wien,14,Rot-Weiß Erfurt,111,Deutschland,0.0,2.Liga
+107,04/05,Fernando,15450,24,Brasilien,FK Austria Wien,14,Flamengo Rio de Janeiro,614,Brasilien,0.0,
+108,04/05,Jürgen Panis,2948,29,Österreich,FK Austria Wien,14,SC Interwetten.com,1378,Österreich,0.0,2.Liga
+109,04/05,Wolfgang Mair,3027,24,Österreich,FC Pasching,935,FC Wacker Tirol,2444,Österreich,100000.0,1.Liga
+110,04/05,George Datoru,3029,27,Nigeria,FC Pasching,935,Skoda Xanthi,128,Griechenland,0.0,1.Liga
+111,04/05,Roman Wallner,2924,22,Österreich,SK Rapid Wien,170,Hannover 96,42,Deutschland,430000.0,1.Liga
+112,04/05,Mehdi Pashazadeh,5279,30,Iran,SK Rapid Wien,170,SK Sturm Graz,122,Österreich,360000.0,1.Liga
+113,04/05,Rene Wagner,2931,31,Tschechien,SK Rapid Wien,170,SV Mattersburg,856,Österreich,0.0,1.Liga
+114,04/05,Ante Jazic,2927,28,Kanada,SK Rapid Wien,170,Kuban Krasnodar (-2018),2439,Russland,0.0,2.Liga
+115,04/05,Mario Prisc,2936,30,Kroatien,SK Rapid Wien,170,HNK Rijeka,144,Kroatien,0.0,
+116,04/05,Jovica Vico,7418,26,Bosnien-Herzegowina,SK Rapid Wien,170,NK Smartno 1928,3566,Slowenien,0.0,
+117,04/05,Salmin Cehajic,13920,20,Österreich,SK Rapid Wien,170,SC Interwetten.com,1378,Österreich,0.0,2.Liga
+118,04/05,Jürgen Macho,3567,27,Österreich,SK Rapid Wien,170,1.FC Kaiserslautern,2,Deutschland,0.0,1.Liga
+119,04/05,Marcin Adamski,2919,29,Polen,SK Rapid Wien,170,Angers SCO,1420,Frankreich,0.0,2.Liga
+120,04/05,Patrick Ignjatovic,53326,21,Österreich,Casino Schwarz-Weiss Bregenz,936,FC Lustenau,2231,Österreich,0.0,3.Liga
+121,04/05,Jasmin Klapija,19128,19,Schweden,Casino Schwarz-Weiss Bregenz,936,Örgryte IS U19,7957,Schweden,0.0,
+122,04/05,Denis André Dasoul,13922,21,Belgien,Casino Schwarz-Weiss Bregenz,936,Royal Antwerpen FC,1096,Belgien,0.0,
+123,04/05,Thomas Eller,3040,23,Österreich,Casino Schwarz-Weiss Bregenz,936,FV Dresden 06 Laubegast,1405,Deutschland,0.0,4.Liga
+124,04/05,Peter Hlinka,3042,25,Slowakei,Casino Schwarz-Weiss Bregenz,936,SK Rapid Wien,170,Österreich,0.0,1.Liga
+125,04/05,Mario Konrad,3048,21,Österreich,Casino Schwarz-Weiss Bregenz,936,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+126,04/05,László Klausz,829,33,Ungarn,Casino Schwarz-Weiss Bregenz,936,SC/ESV Parndorf,4320,Österreich,0.0,3.Liga
+127,04/05,Serkan Aslan,3039,24,Türkei,Casino Schwarz-Weiss Bregenz,936,SSV Jahn Regensburg,109,Deutschland,0.0,3.Liga
+128,04/05,Dietmar Berchtold,932,29,Österreich,Casino Schwarz-Weiss Bregenz,936,SV Ried,266,Österreich,0.0,2.Liga
+129,04/05,Awudu Okocha,28291,19,Ghana,Casino Schwarz-Weiss Bregenz,936,FC Senec,8146,Slowakei,0.0,
+130,04/05,Vitalijs Astafjevs,6697,33,Lettland,VfB Admira Wacker Mödling,503,Rubin Kazan,2698,Russland,100000.0,1.Liga
+131,04/05,Dario Baldauf,17074,19,Österreich,VfB Admira Wacker Mödling,503,Casino Schwarz-Weiss Bregenz,936,Österreich,30000.0,1.Liga
+132,04/05,Vladimir Jugovic,5297,34,Serbien,VfB Admira Wacker Mödling,503,LR Ahlen,50,Deutschland,0.0,2.Liga
+133,04/05,Wolfgang Knaller,8069,42,Österreich,VfB Admira Wacker Mödling,503,LASK,413,Österreich,0.0,2.Liga
+134,04/05,Marijan Kovacevic,372,31,Kroatien,VfB Admira Wacker Mödling,503,Enosis Neon Paralimniou,840,Zypern,0.0,
+135,04/05,Johannes Studirach,20421,21,Österreich,VfB Admira Wacker Mödling,503,SC Interwetten.com,1378,Österreich,0.0,2.Liga
+136,04/05,Christian Banovits,2828,22,Österreich,VfB Admira Wacker Mödling,503,Szombathelyi Haladás,649,Ungarn,0.0,
+137,04/05,Marek Swierczewski,2837,37,Polen,VfB Admira Wacker Mödling,503,1. Simmeringer SC,9885,Österreich,0.0,
+138,04/05,Dejan Markovic,2834,31,Serbien,VfB Admira Wacker Mödling,503,ASD Manfredonia Calcio,8579,Italien,0.0,
+139,04/05,Kliton Bozgo,2833,32,Albanien,VfB Admira Wacker Mödling,503,NK Maribor,790,Slowenien,0.0,
+140,04/05,Zoran Barisic,2843,34,Österreich,VfB Admira Wacker Mödling,503,SC Eisenstadt,2474,Österreich,0.0,3.Liga
+141,04/05,Markus Katzer,2826,24,Österreich,VfB Admira Wacker Mödling,503,SK Rapid Wien,170,Österreich,0.0,1.Liga
+142,04/05,Dusan Popovic,16164,23,Serbien,VfB Admira Wacker Mödling,503,Volyn Lutsk,4482,Ukraine,0.0,1.Liga
+143,04/05,Paul Scharner,2953,24,Österreich,SV Austria Salzburg,409,SK Brann,1100,Norwegen,650000.0,1.Liga
+144,04/05,Andreas Ibertsberger,2970,22,Österreich,SV Austria Salzburg,409,SC Freiburg,60,Deutschland,300000.0,1.Liga
+145,04/05,Harald Unverdorben,7903,23,Österreich,SV Austria Salzburg,409,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+146,04/05,Roberto Brown,22744,27,Panama,SV Austria Salzburg,409,CA Peñarol,861,Uruguay,0.0,
+147,04/05,Mohammed Suleiman,9943,20,Nigeria,SV Austria Salzburg,409,Nasara FC,5240,Nigeria,0.0,
+148,04/05,Ewald Brenner,2984,29,Österreich,SV Austria Salzburg,409,SV Ried,266,Österreich,0.0,2.Liga
+149,04/05,Julio César Suazo,2971,25,Honduras,SV Austria Salzburg,409,CD Victoria La Ceiba,2445,Honduras,0.0,
+150,04/05,René Schicker,6143,19,Österreich,SV Austria Salzburg,409,FC St. Gallen 1879,257,Schweiz,0.0,1.Liga
+151,04/05,Roman Szewczyk,2968,39,Polen,SV Austria Salzburg,409,UFV Thalgau,32102,Österreich,0.0,
+152,04/05,Jan Koziak,6181,25,Slowakei,SV Mattersburg,856,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+153,04/05,Tibor Zatek,6183,33,Slowakei,SV Mattersburg,856,MFK Ruzomberok,7087,Slowakei,0.0,1.Liga
+154,04/05,Dalibor Dragic,6634,32,Bosnien-Herzegowina,SV Mattersburg,856,Marek Dupnitsa,5284,Bulgarien,0.0,
+155,04/05,Wolfgang Hopfer,2952,29,Österreich,SV Mattersburg,856,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+156,04/05,Michael Miksits,6189,22,Österreich,SV Mattersburg,856,First Vienna FC,2364,Österreich,0.0,3.Liga
+157,04/05,Roland Adler,56093,23,Österreich,SV Mattersburg,856,ASK Baumgarten (-2014),8573,Österreich,0.0,
+158,04/05,Abass Inusah,151937,21,Ghana,SV Mattersburg,856,SuperSport United,2891,Südafrika,0.0,
+159,04/05,Mario Haas,3069,30,Österreich,SK Sturm Graz,122,JEF United Chiba,672,Japan,350000.0,1.Liga
+160,04/05,György Korsós,3060,27,Ungarn,SK Sturm Graz,122,SK Rapid Wien,170,Österreich,0.0,1.Liga
+161,04/05,Gerald Strafner,3073,31,Österreich,SK Sturm Graz,122,FC Kärnten (- 2009),155,Österreich,0.0,2.Liga
+162,04/05,Robert Golemac,3054,28,Österreich,SK Sturm Graz,122,FC Kärnten (- 2009),155,Österreich,0.0,2.Liga
+163,04/05,Eddy Bosnar,3053,24,Australien,SK Sturm Graz,122,FC Everton,29,England,0.0,1.Liga
+164,04/05,Alain Masudi,3063,26,DR Kongo,SK Sturm Graz,122,Ihud Bnei Sachnin,4769,Israel,0.0,
+165,04/05,Mehdi Pashazadeh,5279,31,Iran,SK Sturm Graz,122,VfB Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+166,04/05,Javad Razzaghi,19134,22,Iran,SK Sturm Graz,122,VfB Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+167,04/05,Michael Zechner,1221,29,Österreich,SK Sturm Graz,122,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+168,04/05,Samuel Koejoe,17095,30,Niederlande,FC Wacker Tirol,2444,SC Freiburg,60,Deutschland,300000.0,1.Liga
+169,04/05,Roman Stary,4971,30,Österreich,FC Wacker Tirol,2444,FC Kärnten (- 2009),155,Österreich,0.0,2.Liga
+170,04/05,Herbert Ramsbacher,17098,23,Österreich,FC Wacker Tirol,2444,FC Südtirol-Alto Adige,4554,Italien,0.0,
+171,04/05,Akif Güclü,17022,22,Österreich,FC Wacker Tirol,2444,SV Hall,4452,Österreich,0.0,3.Liga
+172,04/05,Helmut Bischofer,17021,21,Österreich,FC Wacker Tirol,2444,SV Hall,4452,Österreich,0.0,3.Liga
+173,05/06,Andreas Ivanschitz,2923,22,Österreich,SK Rapid Wien,170,Red Bull Salzburg,409,Österreich,4000000.0,1.Liga
+174,05/06,Steffen Hofmann,2925,25,Deutschland,SK Rapid Wien,170,TSV 1860 München,72,Deutschland,700000.0,2.Liga
+175,05/06,Tomas Dosek,15301,26,Tschechien,SK Rapid Wien,170,FC Artmedia Bratislava,2781,Slowakei,0.0,1.Liga
+176,05/06,Roman Kienast,7416,21,Österreich,SK Rapid Wien,170,Hamarkameratene,4309,Norwegen,0.0,1.Liga
+177,05/06,Jiri Lenko,28961,20,Tschechien,SK Rapid Wien,170,1.FC Brünn,5225,Tschechien,0.0,1.Liga
+178,05/06,Vladimir Labant,5013,31,Slowakei,SK Rapid Wien,170,Spartak Trnava,365,Slowakei,0.0,1.Liga
+179,05/06,Helmut Prenner,2831,26,Österreich,SK Rapid Wien,170,SKN St. Pölten,2662,Österreich,0.0,3.Liga
+180,05/06,Eldar Topic,17892,22,Österreich,SK Rapid Wien,170,SKN St. Pölten,2662,Österreich,0.0,3.Liga
+181,05/06,Florian Sturm,2933,23,Österreich,SK Rapid Wien,170,SpVgg Greuther Fürth,65,Deutschland,0.0,2.Liga
+182,05/06,Ferdinand Feldhofer,2934,25,Österreich,SK Rapid Wien,170,FC Wacker Tirol,2444,Österreich,0.0,1.Liga
+183,05/06,Mario Bazina,4998,30,Kroatien,Grazer AK,316,SK Rapid Wien,170,Österreich,1500000.0,1.Liga
+184,05/06,René Aufhauser,4997,29,Österreich,Grazer AK,316,Red Bull Salzburg,409,Österreich,1200000.0,1.Liga
+185,05/06,Mario Tokic,4994,29,Kroatien,Grazer AK,316,FK Austria Wien,14,Österreich,900000.0,1.Liga
+186,05/06,Franz Almer,2906,34,Österreich,Grazer AK,316,SV Justiz Graz,41014,Österreich,0.0,
+187,05/06,Matthias Dollinger,6633,25,Österreich,Grazer AK,316,SK Rapid Wien,170,Österreich,0.0,1.Liga
+188,05/06,Stefan Erkinger,19048,23,Österreich,Grazer AK,316,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+189,05/06,David Sencar,16585,21,Österreich,Grazer AK,316,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+190,05/06,Ilco Naumoski,5008,21,Nordmazedonien,Grazer AK,316,SV Mattersburg,856,Österreich,0.0,1.Liga
+191,05/06,Igor Demo,794,30,Slowakei,Grazer AK,316,FC Nitra,1562,Slowakei,0.0,1.Liga
+192,05/06,Imants Bleidelis,15387,30,Lettland,Grazer AK,316,FK Jurmala,6181,Lettland,0.0,1.Liga
+193,05/06,Rabiu Afolabi,4829,25,Nigeria,FK Austria Wien,14,FC Sochaux-Montbéliard,750,Frankreich,2000000.0,1.Liga
+194,05/06,Patrick Pircher,3037,23,Österreich,FK Austria Wien,14,FC Augsburg,167,Deutschland,20000.0,3.Liga
+195,05/06,Krzysztof Ratajczyk,2951,31,Polen,FK Austria Wien,14,SV Mattersburg,856,Österreich,0.0,1.Liga
+196,05/06,Ivica Vastic,3683,35,Österreich,FK Austria Wien,14,LASK,413,Österreich,0.0,2.Liga
+197,05/06,Michael Wagner,2946,29,Österreich,FK Austria Wien,14,VfB Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+198,05/06,Frank Verlaat,541,37,Niederlande,FK Austria Wien,14,SK Sturm Graz,122,Österreich,0.0,1.Liga
+199,05/06,Radoslaw Gilewicz,1553,34,Polen,FK Austria Wien,14,FC Pasching,935,Österreich,0.0,1.Liga
+200,05/06,Richard Kitzbichler,1556,31,Österreich,FK Austria Wien,14,Melbourne Victory,7006,Australien,0.0,1.Liga
+201,05/06,Marc Ziegler,162,29,Deutschland,FK Austria Wien,14,1.FC Saarbrücken,1,Deutschland,0.0,2.Liga
+202,05/06,Patrik Jezek,2813,28,Tschechien,FC Pasching,935,Red Bull Salzburg,409,Österreich,500000.0,1.Liga
+203,05/06,Christian Mayrleb,6728,33,Österreich,FC Pasching,935,Red Bull Salzburg,409,Österreich,500000.0,1.Liga
+204,05/06,Nino Bule,18262,29,Kroatien,FC Pasching,935,VfB Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+205,05/06,Eduard Glieder,3030,37,Österreich,FC Pasching,935,FC Kärnten (- 2009),155,Österreich,0.0,2.Liga
+206,05/06,Fausto Budicin,29045,24,Kroatien,FC Pasching,935,HNK Rijeka,144,Kroatien,0.0,
+207,05/06,Thomas Flögel,2945,34,Österreich,FC Pasching,935,VfB Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+208,05/06,Thomas Grumser,17078,25,Österreich,FC Pasching,935,WSG Wattens,2446,Österreich,0.0,3.Liga
+209,05/06,Torsten Knabel,3016,25,Österreich,FC Pasching,935,FC Wacker Tirol,2444,Österreich,0.0,1.Liga
+210,05/06,Roland Kirchler,2979,34,Österreich,FC Pasching,935,Red Bull Salzburg,409,Österreich,0.0,1.Liga
+211,05/06,Michael Wojtanowicz,13927,20,Österreich,FC Pasching,935,TSV 1860 München II,73,Deutschland,0.0,3.Liga
+212,05/06,Michael Horvath,3020,23,Österreich,FC Pasching,935,VfB Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+213,05/06,Albin Kajtezovic,35638,19,Österreich,FC Pasching,935,FC Lustenau,2231,Österreich,0.0,3.Liga
+214,05/06,Raimund Hedl,6180,30,Österreich,SV Mattersburg,856,SK Rapid Wien,170,Österreich,0.0,1.Liga
+215,05/06,Jürgen Rauchbauer,17973,21,Österreich,SV Mattersburg,856,SC Ritzing,7445,Österreich,0.0,3.Liga
+216,05/06,Michael Koller,14826,22,Österreich,SV Mattersburg,856,FK Austria Wien II,4383,Österreich,0.0,2.Liga
+217,05/06,Sergey Mandreko,345,33,Russland,SV Mattersburg,856,SC/ESV Parndorf,4320,Österreich,0.0,3.Liga
+218,05/06,Zoltán Fülöp,6179,28,Ungarn,SV Mattersburg,856,FC Sopron,2952,Ungarn,0.0,
+219,05/06,Jabu Mahlangu,18264,24,Südafrika,SV Mattersburg,856,SuperSport United,2891,Südafrika,0.0,1.Liga
+220,05/06,Frantisek Hanc,20376,31,Slowakei,SV Mattersburg,856,HFC Humenne,2686,Slowakei,0.0,
+221,05/06,Wolfgang Mair,3027,25,Österreich,FC Wacker Tirol,2444,Red Bull Salzburg,409,Österreich,800000.0,1.Liga
+222,05/06,Ned Zelic,573,33,Australien,FC Wacker Tirol,2444,Newcastle United Jets,5551,Australien,150000.0,1.Liga
+223,05/06,Andreas Schrott,17100,23,Österreich,FC Wacker Tirol,2444,Grazer AK,316,Österreich,0.0,1.Liga
+224,05/06,Benedict Akwuegbu,5007,31,Nigeria,FC Wacker Tirol,2444,Sportfreunde Siegen,63,Deutschland,0.0,2.Liga
+225,05/06,Harald Schroll,17073,33,Österreich,FC Wacker Tirol,2444,WSG Wattens,2446,Österreich,0.0,3.Liga
+226,05/06,Christian Seewald,18404,20,Österreich,FC Wacker Tirol,2444,Völser SV,12618,Österreich,0.0,
+227,05/06,Robert Wazinger,17101,38,Österreich,FC Wacker Tirol,2444,WSG Wattens,2446,Österreich,0.0,3.Liga
+228,05/06,Mario Mühlbauer,3018,28,Österreich,FC Wacker Tirol,2444,LASK,413,Österreich,0.0,2.Liga
+229,05/06,Ousséni Zongo,17103,20,Burkina Faso,FC Wacker Tirol,2444,Msida St. Joseph FC,8280,Malta,0.0,
+230,05/06,Ronald Gercaliu,15308,19,Österreich,SK Sturm Graz,122,Red Bull Salzburg,409,Österreich,1000000.0,1.Liga
+231,05/06,Ronald Brunmayr,5010,30,Österreich,SK Sturm Graz,122,SV Ried,266,Österreich,0.0,1.Liga
+232,05/06,Boban Dmitrovic,5000,33,Serbien,SK Sturm Graz,122,FK Borac Cacak,2209,Serbien,0.0,
+233,05/06,Ekrem Dag,3059,24,Österreich,SK Sturm Graz,122,Gaziantepspor,524,Türkei,0.0,1.Liga
+234,05/06,Mario Karner,3055,22,Österreich,SK Sturm Graz,122,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+235,05/06,Francisco Rojas,3065,30,Chile,SK Sturm Graz,122,Unión Española,4321,Chile,0.0,
+236,05/06,Nikolaus Stühlinger,29585,21,Österreich,SK Sturm Graz,122,TSV Hartberg,4467,Österreich,0.0,3.Liga
+237,05/06,Franck Silvestre,7446,38,Frankreich,SK Sturm Graz,122,FC Sète 34,3520,Frankreich,0.0,2.Liga
+238,05/06,Davit Mujiri,3070,27,Georgien,SK Sturm Graz,122,Krylya Sovetov Samara,2696,Russland,0.0,1.Liga
+239,05/06,Radovan Radakovic,10284,34,Serbien,SK Sturm Graz,122,FK Zemun,3521,Serbien,0.0,
+240,05/06,Marc Janko,8073,22,Österreich,VfB Admira Wacker Mödling,503,Red Bull Salzburg,409,Österreich,350000.0,1.Liga
+241,05/06,Thomas Zingler,2841,34,Österreich,VfB Admira Wacker Mödling,503,ASK Schwadorf 1936,6158,Österreich,0.0,4.Liga
+242,05/06,Martin Dorner,6698,19,Österreich,VfB Admira Wacker Mödling,503,DSV Leoben,307,Österreich,0.0,2.Liga
+243,05/06,Harald Suchard,2840,28,Österreich,VfB Admira Wacker Mödling,503,FK Austria Wien II,4383,Österreich,0.0,2.Liga
+244,05/06,Oliver Lederer,16342,27,Österreich,VfB Admira Wacker Mödling,503,ASK Schwadorf 1936,6158,Österreich,0.0,4.Liga
+245,05/06,Pascal Ortner,16163,24,Österreich,VfB Admira Wacker Mödling,503,LASK,413,Österreich,0.0,2.Liga
+246,05/06,Patrick Wunderbaldinger,2836,22,Österreich,VfB Admira Wacker Mödling,503,ASK Schwadorf 1936,6158,Österreich,0.0,4.Liga
+247,05/06,Miroslav Hyll,31550,32,Slowakei,VfB Admira Wacker Mödling,503,Zob Ahan Isfahan,6081,Iran,0.0,
+248,05/06,Javad Razzaghi,19134,22,Iran,VfB Admira Wacker Mödling,503,PAS Hamedan,54,Iran,0.0,
+249,05/06,Ákos Füzi,31211,27,Ungarn,VfB Admira Wacker Mödling,503,Újpest FC,708,Ungarn,0.0,
+250,05/06,Marcus Pürk,564,30,Österreich,VfB Admira Wacker Mödling,503,First Vienna FC,2364,Österreich,0.0,3.Liga
+251,05/06,Enrico Kulovits,3043,30,Österreich,VfB Admira Wacker Mödling,503,SV Mattersburg,856,Österreich,0.0,1.Liga
+252,05/06,Vladimir Labant,5013,31,Slowakei,VfB Admira Wacker Mödling,503,SK Rapid Wien,170,Österreich,0.0,1.Liga
+253,05/06,Grzegorz Szamotulski,18392,29,Polen,VfB Admira Wacker Mödling,503,SK Sturm Graz,122,Österreich,0.0,1.Liga
+254,05/06,Adam Ledwon,2848,31,Polen,VfB Admira Wacker Mödling,503,SK Sturm Graz,122,Österreich,0.0,1.Liga
+255,05/06,Mate Brajkovic,18384,24,Kroatien,VfB Admira Wacker Mödling,503,NK Kamen Ingrad Velika,2776,Kroatien,0.0,
+256,05/06,Tomasz Iwan,2838,34,Polen,VfB Admira Wacker Mödling,503,Lech Posen,238,Polen,0.0,1.Liga
+257,05/06,János Mátyus,176,30,Ungarn,VfB Admira Wacker Mödling,503,ETO FC Győr ,6055,Ungarn,0.0,
+258,05/06,Stefan Kogler,6695,24,Österreich,VfB Admira Wacker Mödling,503,FC Waidhofen/Ybbs,2615,Österreich,0.0,3.Liga
+259,05/06,Martin Krenn,17026,24,Österreich,VfB Admira Wacker Mödling,503,1. SC Sollenau,8086,Österreich,0.0,
+260,05/06,Bosko Peraica,20420,27,Bosnien-Herzegowina,VfB Admira Wacker Mödling,503,FK Baku,10693,Aserbaidschan,0.0,
+261,05/06,Tomas Oravec,18405,24,Slowakei,VfB Admira Wacker Mödling,503,Panionios Athen,169,Griechenland,0.0,1.Liga
+262,05/06,Dávid Mohl,19073,20,Ungarn,VfB Admira Wacker Mödling,503,Videoton FC,11107,Ungarn,0.0,
+263,05/06,Damir Milinovic,631,32,Kroatien,Red Bull Salzburg,409,NK Pomorac Kostrena,1520,Kroatien,0.0,
+264,05/06,Alexander Schriebl,2983,26,Österreich,Red Bull Salzburg,409,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+265,05/06,Serkan Aslan,3039,25,Türkei,Red Bull Salzburg,409,Diyarbakirspor,845,Türkei,0.0,1.Liga
+266,05/06,Goran Tomic,2982,28,Kroatien,Red Bull Salzburg,409,Lierse SK (- 2018),204,Belgien,0.0,1.Liga
+267,05/06,Mihael Rajic,6140,20,Österreich,Red Bull Salzburg,409,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+268,05/06,Jung-won Seo,29470,35,Südkorea,Red Bull Salzburg,409,SV Ried,266,Österreich,0.0,1.Liga
+269,05/06,Daniel Kastner,18403,23,Österreich,Red Bull Salzburg,409,SV Ried,266,Österreich,0.0,1.Liga
+270,05/06,Miljan Mrdakovic,13748,23,Serbien,Red Bull Salzburg,409,Metalist Kharkiv (- 2016),6414,Ukraine,0.0,1.Liga
+271,05/06,Ricardo Villar,18698,25,Brasilien,Red Bull Salzburg,409,Chunnam Dragons,6503,Südkorea,0.0,
+272,05/06,Kai Schoppitsch,2973,25,Österreich,Red Bull Salzburg,409,FC Pasching,935,Österreich,0.0,1.Liga
+273,05/06,Gernot Messner,2974,24,Österreich,Red Bull Salzburg,409,FC Kärnten (- 2009),155,Österreich,0.0,2.Liga
+274,05/06,Nikola Gjosevski,29345,26,Nordmazedonien,Red Bull Salzburg,409,FC Midtjylland,865,Dänemark,0.0,1.Liga
+275,05/06,Sebastián Miranda,31471,25,Chile,Red Bull Salzburg,409,Unión Española,4321,Chile,0.0,
+276,05/06,Franz Schiemer,6304,19,Österreich,SV Ried,266,FK Austria Wien,14,Österreich,400000.0,1.Liga
+277,05/06,Muhammet Akagündüz,6299,27,Österreich,SV Ried,266,SK Rapid Wien,170,Österreich,200000.0,1.Liga
+278,05/06,Günter Friesenbichler,12887,26,Österreich,SV Ried,266,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+279,05/06,Darko Karapetrovic,28783,29,Slowenien,SV Ried,266,SC Schwanenstadt,4319,Österreich,0.0,2.Liga
+280,05/06,Ibrahima Sidibé,2808,24,Senegal,SV Ried,266,Debreceni VSC,84,Ungarn,0.0,
+281,05/06,Florian Hirsch,18946,21,Österreich,SV Ried,266,SC Schwanenstadt,4319,Österreich,0.0,2.Liga
+282,05/06,Michael Gruber,6302,22,Österreich,SV Ried,266,SC Schwanenstadt,4319,Österreich,0.0,2.Liga
+283,05/06,Thomas Nentwich,6313,29,Österreich,SV Ried,266,SKN St. Pölten,2662,Österreich,0.0,3.Liga
+284,05/06,Christoph Cemernjak,6319,23,Österreich,SV Ried,266,SC Schwanenstadt,4319,Österreich,0.0,2.Liga
+285,05/06,Andreas Lasnik,6301,21,Österreich,SV Ried,266,FK Austria Wien,14,Österreich,0.0,1.Liga
+286,06/07,György Garics,2926,22,Österreich,SK Rapid Wien,170,SSC Neapel,6195,Italien,700000.0,2.Liga
+287,06/07,Muhammet Akagündüz,6299,28,Österreich,SK Rapid Wien,170,Kayserispor,3205,Türkei,30000.0,1.Liga
+288,06/07,György Korsós,3060,29,Ungarn,SK Rapid Wien,170,Skoda Xanthi,128,Griechenland,0.0,1.Liga
+289,06/07,Marcin Adamski,2919,31,Polen,SK Rapid Wien,170,FC Erzgebirge Aue,94,Deutschland,0.0,2.Liga
+290,06/07,Sebastián Martínez,4142,28,Österreich,SK Rapid Wien,170,SV Ried,266,Österreich,0.0,1.Liga
+291,06/07,Axel Lawarée,3049,32,Belgien,SK Rapid Wien,170,FC Augsburg,167,Deutschland,0.0,2.Liga
+292,06/07,Markus Hiden,2932,28,Österreich,SK Rapid Wien,170,AEL Limassol,786,Zypern,0.0,
+293,06/07,Matthias Dollinger,6633,27,Österreich,SK Rapid Wien,170,LASK,413,Österreich,0.0,2.Liga
+294,06/07,James Obiorah,2823,27,Nigeria,Grazer AK,316,Chamois Niortais FC,1161,Frankreich,0.0,2.Liga
+295,06/07,Michael Horvath,3020,24,Österreich,Grazer AK,316,VfB Admira Wacker Mödling,503,Österreich,0.0,2.Liga
+296,06/07,Joachim Standfest,5005,26,Österreich,Grazer AK,316,FK Austria Wien,14,Österreich,0.0,1.Liga
+297,06/07,Andreas Lienhart,32394,20,Österreich,Grazer AK,316,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+298,06/07,Jürgen Rindler,17122,20,Österreich,Grazer AK,316,SV Oberwart,4376,Österreich,0.0,
+299,06/07,Anton Ehmann,4990,33,Österreich,Grazer AK,316,LASK,413,Österreich,0.0,2.Liga
+300,06/07,Dominik Sobl,31656,19,Österreich,Grazer AK,316,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+301,06/07,Gernot Plassnegger,1004,28,Österreich,Grazer AK,316,SK Rapid Wien,170,Österreich,0.0,1.Liga
+302,06/07,Andreas Schrott,17100,24,Österreich,Grazer AK,316,FC Wacker Tirol,2444,Österreich,0.0,1.Liga
+303,06/07,Mario Hieblinger,4957,28,Österreich,Grazer AK,316,GS Ergotelis,5220,Griechenland,0.0,1.Liga
+304,06/07,Manfred Razenböck,18804,27,Österreich,Grazer AK,316,SC Schwanenstadt,4319,Österreich,0.0,2.Liga
+305,06/07,Heinz Lienhart,8120,27,Österreich,Grazer AK,316,Berlin Ankaraspor Külübü,584,Deutschland,0.0,4.Liga
+306,06/07,Filip Sebo,2518,22,Slowakei,FK Austria Wien,14,Glasgow Rangers,124,Schottland,2500000.0,1.Liga
+307,06/07,Joey Didulica,4309,28,Kroatien,FK Austria Wien,14,AZ Alkmaar,1090,Niederlande,1500000.0,1.Liga
+308,06/07,Tosin Dosunmu,13303,25,Nigeria,FK Austria Wien,14,AS Nancy-Lorraine,1159,Frankreich,1500000.0,1.Liga
+309,06/07,Sebastian Mila,16300,24,Polen,FK Austria Wien,14,Vålerenga Fotball,76,Norwegen,840000.0,1.Liga
+310,06/07,Sasa Papac,4960,26,Bosnien-Herzegowina,FK Austria Wien,14,Glasgow Rangers,124,Schottland,500000.0,1.Liga
+311,06/07,Mikael Antonsson,19083,25,Schweden,FK Austria Wien,14,Panathinaikos Athen,265,Griechenland,500000.0,1.Liga
+312,06/07,Sigurd Rushfeldt,2959,33,Norwegen,FK Austria Wien,14,Tromsø IL,1293,Norwegen,0.0,1.Liga
+313,06/07,Roland Linz,2956,24,Österreich,FK Austria Wien,14,Boavista Porto FC,2503,Portugal,0.0,1.Liga
+314,06/07,Libor Sionko,9770,29,Tschechien,FK Austria Wien,14,Glasgow Rangers,124,Schottland,0.0,1.Liga
+315,06/07,Vladimir Janocko,2947,29,Slowakei,FK Austria Wien,14,Red Bull Salzburg,409,Österreich,0.0,1.Liga
+316,06/07,Ernst Dospel,2944,29,Österreich,FK Austria Wien,14,SK Sturm Graz,122,Österreich,0.0,1.Liga
+317,06/07,Didier Dheedene,838,34,Belgien,FK Austria Wien,14,Germinal Beerschot Antwerpen,566,Belgien,0.0,1.Liga
+318,06/07,Delano Hill,839,31,Niederlande,FK Austria Wien,14,Willem II Tilburg,403,Niederlande,0.0,1.Liga
+319,06/07,Tomasz Wisio,3013,24,Polen,FC Pasching,935,Skoda Xanthi,128,Griechenland,100000.0,1.Liga
+320,06/07,Mark Prey,47239,20,Österreich,FC Pasching,935,ASKÖ Donau Linz,2471,Österreich,0.0,4.Liga
+321,06/07,Manuel Hartl,31189,20,Österreich,FC Pasching,935,SC Schwanenstadt,4319,Österreich,0.0,2.Liga
+322,06/07,Bozo Kovacevic,3012,27,Österreich,FC Pasching,935,SV Ried,266,Österreich,0.0,1.Liga
+323,06/07,Michael Gspurning,17029,25,Österreich,FC Pasching,935,Skoda Xanthi,128,Griechenland,0.0,1.Liga
+324,06/07,Osa Guobadia,38792,19,Nigeria,FC Pasching,935,SC Schwanenstadt,4319,Österreich,0.0,2.Liga
+325,06/07,Markus Hermes,37890,23,Österreich,FC Pasching,935,1.FC Vöcklabruck,7695,Österreich,0.0,3.Liga
+326,06/07,Josip Balatinac,27528,27,Kroatien,FC Pasching,935,HNK Hajduk Split,447,Kroatien,0.0,
+327,06/07,Erich Brabec,15671,29,Tschechien,FC Pasching,935,FC Aarau,116,Schweiz,0.0,1.Liga
+328,06/07,Thomas Pichlmann,13925,25,Österreich,FC Pasching,935,FK Austria Wien,14,Österreich,0.0,1.Liga
+329,06/07,Patrice M'Bock,2257,23,Kamerun,FC Pasching,935,SV Horn,10044,Österreich,0.0,4.Liga
+330,06/07,Artashes Baghdasaryan,41408,22,Armenien,FC Pasching,935,FC Kilikia Erewan,10199,Armenien,0.0,
+331,06/07,Clemens Ivanschitz,31470,25,Österreich,SV Mattersburg,856,SC Ritzing,7445,Österreich,0.0,3.Liga
+332,06/07,Bernd Kaintz,6182,26,Österreich,SV Mattersburg,856,SC/ESV Parndorf,4320,Österreich,0.0,2.Liga
+333,06/07,Martin Lang,6188,30,Österreich,SV Mattersburg,856,SC/ESV Parndorf,4320,Österreich,0.0,2.Liga
+334,06/07,Markus Böcskör,6178,23,Österreich,SV Mattersburg,856,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+335,06/07,Marek Kausich,6185,30,Slowakei,SV Mattersburg,856,Slovan Bratislava,540,Slowakei,0.0,1.Liga
+336,06/07,Rene Wagner,2931,33,Tschechien,SV Mattersburg,856,1.FC Brünn,5225,Tschechien,0.0,1.Liga
+337,06/07,Christian Pfeiffer,31118,20,Österreich,SV Mattersburg,856,ASV Draßburg,10323,Österreich,0.0,
+338,06/07,Lukas Mössner,11325,22,Österreich,SV Mattersburg,856,FC Pasching,935,Österreich,0.0,1.Liga
+339,06/07,Julian Leidl,6638,21,Österreich,SV Mattersburg,856,UFC Purbach,10324,Österreich,0.0,
+340,06/07,Enrico Kulovits,3043,31,Österreich,SV Mattersburg,856,FC Lustenau,2231,Österreich,0.0,2.Liga
+341,06/07,Theodor Koch,53125,22,Österreich,SV Mattersburg,856,SC Ritzing,7445,Österreich,0.0,3.Liga
+342,06/07,Hannes Aigner,17090,25,Österreich,FC Wacker Tirol,2444,FK Austria Wien,14,Österreich,300000.0,1.Liga
+343,06/07,Hannes Eder,3720,23,Österreich,FC Wacker Tirol,2444,SK Rapid Wien,170,Österreich,50000.0,1.Liga
+344,06/07,Florian Sturm,2933,24,Österreich,FC Wacker Tirol,2444,FC Vaduz,163,Schweiz,0.0,2.Liga
+345,06/07,Alexander Hörtnagl,3022,26,Österreich,FC Wacker Tirol,2444,WSG Wattens,2446,Österreich,0.0,3.Liga
+346,06/07,Gottfried Janisch,16581,24,Österreich,SK Sturm Graz,122,FC Gratkorn,5192,Österreich,0.0,2.Liga
+347,06/07,Günther Neukirchner,3056,34,Österreich,SK Sturm Graz,122,FC Gratkorn,5192,Österreich,0.0,2.Liga
+348,06/07,Ernst Dospel,2944,30,Österreich,SK Sturm Graz,122,FC Pasching,935,Österreich,0.0,1.Liga
+349,06/07,Johannes Ertl,16578,23,Österreich,SK Sturm Graz,122,FK Austria Wien,14,Österreich,0.0,1.Liga
+350,06/07,Christoph Jank,2967,32,Österreich,Red Bull Salzburg,409,SV Ried,266,Österreich,0.0,1.Liga
+351,06/07,Alexander Manninger,5278,29,Österreich,Red Bull Salzburg,409,AC Siena,1387,Italien,0.0,1.Liga
+352,06/07,Roland Kirchler,2979,36,Österreich,Red Bull Salzburg,409,SCR Altach,3551,Österreich,0.0,1.Liga
+353,06/07,Jürgen Pichorner,2976,29,Österreich,Red Bull Salzburg,409,SV Ried,266,Österreich,0.0,1.Liga
+354,06/07,Pascal Grünwald,2882,23,Österreich,Red Bull Salzburg,409,FC Pasching,935,Österreich,0.0,1.Liga
+355,06/07,Thomas Eder,2978,25,Österreich,Red Bull Salzburg,409,SV Ried,266,Österreich,0.0,1.Liga
+356,06/07,Markus Schopp,5971,32,Österreich,Red Bull Salzburg,409,New York Red Bulls,623,Vereinigte Staaten,0.0,1.Liga
+357,06/07,Markus Schopp,5971,32,Österreich,Red Bull Salzburg,409,New York Red Bulls,623,Vereinigte Staaten,0.0,1.Liga
+358,06/07,Markus Scharrer,6142,32,Österreich,Red Bull Salzburg,409,VfB Admira Wacker Mödling,503,Österreich,0.0,2.Liga
+359,06/07,Álex von Schwedler,17397,26,Chile,Red Bull Salzburg,409,CS Marítimo,1301,Portugal,0.0,1.Liga
+360,06/07,Wolfgang Mair,3027,26,Österreich,Red Bull Salzburg,409,FK Austria Wien,14,Österreich,0.0,1.Liga
+361,06/07,Maynor Suazo,14188,26,Honduras,Red Bull Salzburg,409,Antalyaspor,589,Türkei,0.0,1.Liga
+362,06/07,Christian Mayrleb,6728,34,Österreich,Red Bull Salzburg,409,FC Pasching,935,Österreich,0.0,1.Liga
+363,06/07,Sanel Kuljic,3026,28,Österreich,SV Ried,266,FC Sion,321,Schweiz,450000.0,1.Liga
+364,06/07,Dario Dabac,1922,28,Kroatien,SV Ried,266,Sanfrecce Hiroshima,2697,Japan,200000.0,1.Liga
+365,06/07,Henrique,33717,28,Brasilien,SV Ried,266,Jiangsu Sainty,22219,China,0.0,
+366,06/07,Daniel Kastner,18403,25,Österreich,SV Ried,266,ASK Schwadorf 1936,6158,Österreich,0.0,3.Liga
+367,06/07,Davorin Kablar,29347,29,Kroatien,SV Ried,266,LASK,413,Österreich,0.0,2.Liga
+368,06/07,Patrick Wolf,18816,25,Österreich,SV Ried,266,FC Kärnten (- 2009),155,Österreich,0.0,2.Liga
+369,06/07,Dubravko Tesevic,33230,24,Österreich,SV Ried,266,SC/ESV Parndorf,4320,Österreich,0.0,2.Liga
+370,06/07,Patrick Hamader,27477,20,Österreich,SV Ried,266,SV Grieskirchen,4509,Österreich,0.0,3.Liga
+371,06/07,Thomas Stadler,27484,20,Österreich,SV Ried,266,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+372,06/07,Andreas Bammer,6307,22,Österreich,SV Ried,266,SC Schwanenstadt,4319,Österreich,0.0,2.Liga
+373,06/07,Milan Rasinger,17062,29,Österreich,SV Ried,266,FC Gratkorn,5192,Österreich,0.0,2.Liga
+374,06/07,Andreas Michl,6308,26,Österreich,SV Ried,266,FC Blau-Weiß Linz,2157,Österreich,0.0,3.Liga
+375,06/07,Dietmar Berchtold,932,31,Österreich,SV Ried,266,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+376,06/07,Matthias Lahninger,27480,18,Österreich,SV Ried,266,SV Gmunden,10119,Österreich,0.0,4.Liga
+377,06/07,Michael Mehlem,3036,29,Österreich,SV Ried,266,SK Vorwärts Steyr,1521,Österreich,,
+378,06/07,Alexander Jank,17080,31,Österreich,SCR Altach,3551,ASK Schwadorf 1936,6158,Österreich,0.0,3.Liga
+379,06/07,Mario Sara,3015,24,Österreich,SCR Altach,3551,SK Rapid Wien,170,Österreich,0.0,1.Liga
+380,06/07,Marko Türtscher,18752,26,Österreich,SCR Altach,3551,FC Dornbirn,7448,Österreich,0.0,3.Liga
+381,06/07,Werner Grabherr,18742,20,Österreich,SCR Altach,3551,FC Hard,3473,Österreich,0.0,3.Liga
+382,06/07,Ueverton,29343,20,Brasilien,SCR Altach,3551,Rot-Weiß Rankweil,4427,Österreich,0.0,3.Liga
+383,06/07,Hakan Duran,29344,21,Österreich,SCR Altach,3551,Rot-Weiß Rankweil,4427,Österreich,0.0,3.Liga
+384,06/07,Bernhard Muhr,16487,29,Österreich,SCR Altach,3551,DSV Leoben,307,Österreich,0.0,2.Liga
+385,07/08,Christian Tiffert,613,25,Deutschland,Red Bull Salzburg,409,MSV Duisburg,52,Deutschland,600000.0,1.Liga
+386,07/08,Thomas Linke,209,37,Deutschland,Red Bull Salzburg,409,FC Bayern München II,28,Deutschland,0.0,3.Liga
+387,07/08,Alexander Pöllhuber,18727,22,Österreich,Red Bull Salzburg,409,SV Mattersburg,856,Österreich,0.0,1.Liga
+388,07/08,Péter Orosz,32132,25,Ungarn,Red Bull Salzburg,409,FC Wacker Innsbruck,2444,Österreich,0.0,1.Liga
+389,07/08,Jovan Damjanovic,35981,24,Serbien,SV Ried,266,SC Paderborn 07,127,Deutschland,150000.0,2.Liga
+390,07/08,Miron Muslic,17008,25,Österreich,SV Ried,266,SV Gmunden,10119,Österreich,0.0,3.Liga
+391,07/08,Thomas Lechner,17056,22,Österreich,SV Ried,266,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+392,07/08,Florian Berger,53855,22,Österreich,SV Ried,266,SC Zwettl,11560,Österreich,0.0,3.Liga
+393,07/08,Emin Sulimani,18948,20,Österreich,SV Ried,266,FK Austria Wien,14,Österreich,0.0,1.Liga
+394,07/08,Zoran Rendulic,36058,23,Serbien,SV Ried,266,FK Borac Cacak,2209,Serbien,0.0,1.Liga
+395,07/08,Rastislav Michalik,9712,33,Slowakei,SV Ried,266,Spartak Trnava,365,Slowakei,0.0,1.Liga
+396,07/08,Ronald Brunmayr,5010,32,Österreich,SV Ried,266,FC Kärnten (- 2009),155,Österreich,0.0,2.Liga
+397,07/08,Markus Berger,4678,22,Österreich,SV Ried,266,Académica Coimbra,2990,Portugal,0.0,1.Liga
+398,07/08,Thomas Eder,2978,26,Österreich,SV Ried,266,FC Wacker Innsbruck,2444,Österreich,0.0,1.Liga
+399,07/08,Stefan Stichlberger,53454,19,Österreich,SV Ried,266,SPG Reichenau/Innsbruck,4466,Österreich,0.0,3.Liga
+400,07/08,Krzysztof Ratajczyk,2951,34,Polen,SV Mattersburg,856,SC Schwanenstadt,4319,Österreich,0.0,2.Liga
+401,07/08,Jürgen Patocka,16511,29,Österreich,SV Mattersburg,856,SK Rapid Wien,170,Österreich,0.0,1.Liga
+402,07/08,Miroslav Holenak,21030,31,Tschechien,SV Mattersburg,856,FC Slovan Liberec,697,Tschechien,0.0,1.Liga
+403,07/08,Marcus Hanikel,17079,24,Österreich,SV Mattersburg,856,VfB Admira Wacker Mödling,503,Österreich,0.0,3.Liga
+404,07/08,Mate Bilic,7977,27,Kroatien,SK Rapid Wien,170,Sporting Gijón,2448,Spanien,200000.0,2.Liga
+405,07/08,Peter Hlinka,3042,28,Slowakei,SK Rapid Wien,170,FC Augsburg,167,Deutschland,0.0,2.Liga
+406,07/08,Marek Kincl,9693,34,Tschechien,SK Rapid Wien,170,ASK Schwadorf 1936,6158,Österreich,0.0,2.Liga
+407,07/08,Gernot Plassnegger,1004,29,Österreich,SK Rapid Wien,170,SK Austria Kärnten (-2010),11609,Österreich,0.0,1.Liga
+408,07/08,Jozef Valachovic,21364,31,Slowakei,SK Rapid Wien,170,ASK Schwadorf 1936,6158,Österreich,0.0,2.Liga
+409,07/08,Radek Bejbl,3421,34,Tschechien,SK Rapid Wien,170,FC Slovan Liberec,697,Tschechien,0.0,1.Liga
+410,07/08,Thomas Burgstaller,6294,27,Österreich,SK Rapid Wien,170,FC Lustenau,2231,Österreich,0.0,2.Liga
+411,07/08,Thierry Fidjeu-Tazemeta,41491,25,Äquatorialguinea,SK Austria Kärnten (-2010),11609,Maccabi Netanya,5223,Israel,0.0,
+412,07/08,Jelle ten Rouwelaar,4334,26,Niederlande,FK Austria Wien,14,NAC Breda,132,Niederlande,0.0,1.Liga
+413,07/08,Andreas Schicker,14089,20,Österreich,FK Austria Wien,14,ASK Schwadorf 1936,6158,Österreich,0.0,2.Liga
+414,07/08,Roman Wallner,2924,25,Österreich,FK Austria Wien,14,Falkirk FC,1191,Schottland,0.0,1.Liga
+415,07/08,Markus Kiesenebner,2954,28,Österreich,FK Austria Wien,14,Lillestrøm SK,353,Norwegen,0.0,1.Liga
+416,07/08,Mario Tokic,4994,31,Kroatien,FK Austria Wien,14,SK Rapid Wien,170,Österreich,0.0,1.Liga
+417,07/08,Thomas Pichlmann,13925,26,Österreich,FK Austria Wien,14,US Grosseto FC,4333,Italien,0.0,2.Liga
+418,07/08,Christoph Leitgeb,29695,22,Österreich,SK Sturm Graz,122,Red Bull Salzburg,409,Österreich,1700000.0,1.Liga
+419,07/08,Mitja Mörec,20280,24,Slowenien,SK Sturm Graz,122,Maccabi Herzliya,8907,Israel,120000.0,
+420,07/08,Grzegorz Szamotulski,18392,31,Polen,SK Sturm Graz,122,Dundee United FC,1519,Schottland,0.0,1.Liga
+421,07/08,Olivier Nzuzi Niati Polo,3045,26,DR Kongo,SK Sturm Graz,122,UR Namur,3728,Belgien,0.0,2.Liga
+422,07/08,Bojan Filipovic,8110,31,Serbien,SK Sturm Graz,122,ASK Schwadorf 1936,6158,Österreich,0.0,2.Liga
+423,07/08,Adam Ledwon,2848,†34,Polen,SK Sturm Graz,122,SK Austria Kärnten (-2010),11609,Österreich,0.0,1.Liga
+424,07/08,Dragan Sarac,3023,31,Serbien,SK Sturm Graz,122,FK Vojvodina Novi Sad,448,Serbien,0.0,1.Liga
+425,07/08,Darius Kampa,776,30,Deutschland,SK Sturm Graz,122,SpVgg Unterhaching,66,Deutschland,0.0,3.Liga
+426,07/08,Diego Rottensteiner,29697,23,Österreich,SK Sturm Graz,122,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+427,07/08,Amadou Rabihou,15310,22,Österreich,SK Sturm Graz,122,Amiens SC,1416,Frankreich,0.0,2.Liga
+428,07/08,Cédric Tsimba,21339,23,Schweiz,SK Sturm Graz,122,FC Wil 1900,850,Schweiz,0.0,2.Liga
+429,07/08,Ulrich Winkler,14827,22,Österreich,SCR Altach,3551,FC Kärnten (- 2009),155,Österreich,0.0,2.Liga
+430,07/08,Tiago Bernardini,32439,28,Brasilien,SCR Altach,3551,Coritiba FC,776,Brasilien,0.0,1.Liga
+431,07/08,Christoph Cemernjak,6319,25,Österreich,SCR Altach,3551,DSV Leoben,307,Österreich,0.0,2.Liga
+432,07/08,Dominik Seiwald,31356,21,Österreich,SCR Altach,3551,SV Bad Aussee (-2010),6585,Österreich,0.0,2.Liga
+433,07/08,Alexandre Dorta Donizeti,41597,32,Brasilien,SCR Altach,3551,Wiener Sportklub,676,Österreich,0.0,3.Liga
+434,07/08,Rudolf Durkovic,40711,18,Österreich,SCR Altach,3551,SV Bad Aussee (-2010),6585,Österreich,0.0,2.Liga
+435,07/08,Jurica Puljiz,3832,27,Kroatien,SCR Altach,3551,Zorya Lugansk,10690,Ukraine,0.0,1.Liga
+436,07/08,Oliver Schnellrieder,18749,37,Österreich,SCR Altach,3551,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+437,07/08,Harald Unverdorben,7903,26,Österreich,SCR Altach,3551,FK Austria Wien II,4383,Österreich,0.0,2.Liga
+438,07/08,Froylán Ledezma,38011,29,Costa Rica,SCR Altach,3551,FC Augsburg,167,Deutschland,0.0,2.Liga
+439,07/08,Alexander Gruber,16999,31,Österreich,FC Wacker Innsbruck,2444,SPG Reichenau/Innsbruck,4466,Österreich,0.0,3.Liga
+440,07/08,Harald Planer,16988,28,Österreich,FC Wacker Innsbruck,2444,FC Kufstein,2235,Österreich,0.0,3.Liga
+441,07/08,Jerzy Brzeczek,3058,36,Polen,FC Wacker Innsbruck,2444,Górnik Zabrze,428,Polen,0.0,1.Liga
+442,07/08,Thomas Eder,2978,27,Österreich,FC Wacker Innsbruck,2444,SV Grödig,10131,Österreich,0.0,3.Liga
+443,07/08,Marco Hesina,50689,16,Österreich,FC Wacker Innsbruck,2444,SV Hall,4452,Österreich,0.0,3.Liga
+444,07/08,Anton Ehmann,4990,34,Österreich,LASK,413,ASK Schwadorf 1936,6158,Österreich,0.0,2.Liga
+445,07/08,Mihael Djukic,181492,20,Österreich,LASK,413,FC Puch,2009,Österreich,0.0,4.Liga
+446,07/08,Matthias Dollinger,6633,28,Österreich,LASK,413,SC Schwanenstadt,4319,Österreich,0.0,2.Liga
+447,07/08,Mersudin Jukic,32131,22,Österreich,LASK,413,SV Gmunden,10119,Österreich,0.0,3.Liga
+448,07/08,Pascal Ortner,16163,26,Österreich,LASK,413,First Vienna FC,2364,Österreich,0.0,3.Liga
+449,07/08,Sascha Laschet,3019,29,Österreich,LASK,413,FC Waidhofen/Ybbs,2615,Österreich,0.0,3.Liga
+450,07/08,Mario Mühlbauer,3018,30,Österreich,LASK,413,FC Waidhofen/Ybbs,2615,Österreich,0.0,3.Liga
+451,07/08,Mathias Nagel,3031,25,Österreich,LASK,413,FC Höchst,8323,Österreich,0.0,3.Liga
+452,07/08,Mario Konrad,3048,24,Österreich,LASK,413,SpVgg Unterhaching,66,Deutschland,0.0,3.Liga
+453,07/08,Gerhard Fellner,14780,37,Österreich,LASK,413,First Vienna FC,2364,Österreich,0.0,3.Liga
+454,07/08,Harald Ruckendorfer,16280,25,Österreich,LASK,413,1.FC Vöcklabruck,7695,Österreich,0.0,3.Liga
+455,08/09,Ümit Korkmaz,37977,22,Österreich,SK Rapid Wien,170,Eintracht Frankfurt,24,Deutschland,2300000.0,1.Liga
+456,08/09,Mario Sara,3015,26,Österreich,SK Rapid Wien,170,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+457,08/09,Mario Bazina,4998,32,Kroatien,SK Rapid Wien,170,FK Austria Wien,14,Österreich,0.0,1.Liga
+458,08/09,Andreas Ivanschitz,2923,24,Österreich,Red Bull Salzburg,409,Panathinaikos Athen,265,Griechenland,1600000.0,1.Liga
+459,08/09,Ramazan Özcan,16498,24,Österreich,Red Bull Salzburg,409,TSG 1899 Hoffenheim,533,Deutschland,1000000.0,1.Liga
+460,08/09,Jorge Vargas,6061,32,Chile,Red Bull Salzburg,409,Empoli FC ,749,Italien,0.0,2.Liga
+461,08/09,Vratislav Lokvenc,14,34,Tschechien,Red Bull Salzburg,409,FC Ingolstadt 04,4795,Deutschland,0.0,2.Liga
+462,08/09,Tsuneyasu Miyamoto,27517,31,Japan,Red Bull Salzburg,409,Vissel Kobe,3958,Japan,0.0,1.Liga
+463,08/09,Kevin Bobson,4458,28,Niederlande,Red Bull Salzburg,409,FC Wiltz 71,3905,Luxemburg,0.0,
+464,08/09,Ezequiel Carboni,31126,29,Argentinien,Red Bull Salzburg,409,Catania Calcio,1627,Italien,0.0,1.Liga
+465,08/09,Wolfgang Mair,3027,28,Österreich,FK Austria Wien,14,SK Austria Kärnten (-2010),11609,Österreich,0.0,1.Liga
+466,08/09,Johannes Ertl,16578,25,Österreich,FK Austria Wien,14,Crystal Palace,873,England,0.0,2.Liga
+467,08/09,Stepan Vachousek,6117,28,Tschechien,FK Austria Wien,14,FK Teplice,814,Tschechien,0.0,1.Liga
+468,08/09,Alexander Grünwald,34763,19,Österreich,FK Austria Wien,14,FC Magna Wiener Neustadt,17444,Österreich,0.0,2.Liga
+469,08/09,Yüksel Sariyar,16708,28,Österreich,FK Austria Wien,14,FC Magna Wiener Neustadt,17444,Österreich,0.0,2.Liga
+470,08/09,Sanel Kuljic,3026,30,Österreich,FK Austria Wien,14,FC Magna Wiener Neustadt,17444,Österreich,0.0,2.Liga
+471,08/09,Saso Fornezzi,22109,25,Slowenien,FK Austria Wien,14,FC Magna Wiener Neustadt,17444,Österreich,0.0,2.Liga
+472,08/09,Andreas Lasnik,6301,24,Österreich,FK Austria Wien,14,Alemannia Aachen,8,Deutschland,0.0,2.Liga
+473,08/09,Hannes Aigner,17090,27,Österreich,FK Austria Wien,14,FC Magna Wiener Neustadt,17444,Österreich,0.0,2.Liga
+474,08/09,Arkadiusz Radomski,4404,31,Polen,FK Austria Wien,14,NEC Nijmegen,467,Niederlande,0.0,1.Liga
+475,08/09,David Lafata,5077,26,Tschechien,FK Austria Wien,14,FK Jablonec 97,1322,Tschechien,0.0,1.Liga
+476,08/09,Sebastian Prödl,37981,21,Österreich,SK Sturm Graz,122,SV Werder Bremen,86,Deutschland,2500000.0,1.Liga
+477,08/09,Mark Prettenthaler,28949,25,Österreich,SK Sturm Graz,122,FC Augsburg,167,Deutschland,0.0,2.Liga
+478,08/09,Josef Schicklgruber,3010,41,Österreich,SK Sturm Graz,122,SCR Altach,3551,Österreich,0.0,1.Liga
+479,08/09,Jürgen Säumel,3066,23,Österreich,SK Sturm Graz,122,FC Turin,416,Italien,0.0,1.Liga
+480,08/09,Sandro Lindschinger,19637,22,Österreich,SK Sturm Graz,122,Grazer AK,316,Österreich,0.0,3.Liga
+481,08/09,Thomas Krammer,3061,25,Österreich,SK Sturm Graz,122,FK Austria Wien,14,Österreich,0.0,1.Liga
+482,08/09,Klaus Salmutter,3072,24,Österreich,SK Sturm Graz,122,LASK,413,Österreich,0.0,1.Liga
+483,08/09,Herbert Rauter,3071,26,Österreich,SK Sturm Graz,122,DSV Leoben,307,Österreich,0.0,2.Liga
+484,08/09,Gerald Säumel,29708,22,Österreich,SK Sturm Graz,122,DSV Leoben,307,Österreich,0.0,2.Liga
+485,08/09,Marko Stankovic,17042,22,Österreich,SK Sturm Graz,122,US Triestina,4271,Italien,0.0,2.Liga
+486,08/09,Christian Fuchs,6636,22,Österreich,SV Mattersburg,856,VfL Bochum,80,Deutschland,1200000.0,1.Liga
+487,08/09,Mattias Lindström,37223,28,Schweden,SV Mattersburg,856,GAIS Göteborg,7009,Schweden,0.0,1.Liga
+488,08/09,Csaba Csizmadia,46914,23,Ungarn,SV Mattersburg,856,US Grosseto FC,4333,Italien,0.0,2.Liga
+489,08/09,Patrick Kogler,75535,21,Österreich,SV Mattersburg,856,UFC St. Peter/Au,17819,Österreich,0.0,5.Liga
+490,08/09,Patrick Niklas,45457,20,Österreich,SV Mattersburg,856,ASK Baumgarten (-2014),8573,Österreich,0.0,4.Liga
+491,08/09,Patrick Bürger,28802,21,Österreich,SV Mattersburg,856,TSV Hartberg,4467,Österreich,0.0,3.Liga
+492,08/09,Harald Kauten,51313,23,Österreich,SV Mattersburg,856,SC/ESV Parndorf II,10222,Österreich,0.0,4.Liga
+493,08/09,Robert Almer,2950,24,Österreich,SV Mattersburg,856,FK Austria Wien,14,Österreich,0.0,1.Liga
+494,08/09,Almedin Hota,4964,32,Bosnien-Herzegowina,LASK,413,FC Admira Wacker Mödling,503,Österreich,0.0,2.Liga
+495,08/09,Wolfgang Klapf,15174,29,Österreich,LASK,413,FC Magna Wiener Neustadt,17444,Österreich,0.0,2.Liga
+496,08/09,Ralph Spirk,32399,22,Österreich,LASK,413,Grazer AK,316,Österreich,0.0,3.Liga
+497,08/09,Adi Rocha,50571,22,Brasilien,LASK,413,SK Austria Kärnten (-2010),11609,Österreich,0.0,1.Liga
+498,08/09,Andreas Ulmer,31196,23,Österreich,SV Ried,266,Red Bull Salzburg,409,Österreich,600000.0,1.Liga
+499,08/09,Harun Erbek,40196,22,Österreich,SV Ried,266,Kayserispor,3205,Türkei,300000.0,1.Liga
+500,08/09,Hans-Peter Berger,4679,26,Österreich,SV Ried,266,Leixões SC,3345,Portugal,100000.0,1.Liga
+501,08/09,Jürgen Pichorner,2976,30,Österreich,SV Ried,266,SK Austria Kärnten (-2010),11609,Österreich,0.0,1.Liga
+502,08/09,Daniel Hofer,18775,25,Österreich,SV Ried,266,1.FC Vöcklabruck,7695,Österreich,0.0,2.Liga
+503,08/09,Pawel Strak,14917,25,Polen,SV Ried,266,Górnik Zabrze,428,Polen,0.0,1.Liga
+504,08/09,Sebastián Martínez,4142,30,Österreich,SV Ried,266,FC Magna Wiener Neustadt,17444,Österreich,0.0,2.Liga
+505,08/09,Matej Markovic,27482,21,Österreich,SV Ried,266,ASV Steinbrunn,14516,Österreich,0.0,
+506,08/09,Aleksandar Stanisavljevic,60731,19,Serbien,SV Ried,266,WAC - St. Andrä,4441,Österreich,0.0,3.Liga
+507,08/09,Rade Djokic,31724,25,Bosnien-Herzegowina,SV Ried,266,1.FC Vöcklabruck,7695,Österreich,0.0,2.Liga
+508,08/09,Muhammet Akagündüz,6299,30,Österreich,SV Ried,266,Manisaspor,1267,Türkei,0.0,2.Liga
+509,08/09,Christoph Jank,2967,34,Österreich,SV Ried,266,SC/ESV Parndorf,4320,Österreich,0.0,3.Liga
+510,08/09,Ernst Dospel,2944,31,Österreich,SV Ried,266,FC Admira Wacker Mödling,503,Österreich,0.0,2.Liga
+511,08/09,Jan-Marc Riegler,34735,20,Österreich,SV Ried,266,Red Bull Juniors Salzburg (- 2012),6227,Österreich,0.0,2.Liga
+512,08/09,Daniel Toth,51097,21,Österreich,SV Ried,266,FC Admira Wacker Mödling,503,Österreich,0.0,2.Liga
+513,08/09,Mihael Rajic,6140,24,Österreich,SCR Altach,3551,1.FC Vöcklabruck,7695,Österreich,0.0,2.Liga
+514,08/09,Daniel Sereinig,19282,26,Schweiz,SCR Altach,3551,SC Freiburg II,245,Deutschland,0.0,4.Liga
+515,08/09,Modou Jagne,37764,25,Gambia,SCR Altach,3551,SK Austria Kärnten (-2010),11609,Österreich,0.0,1.Liga
+516,08/09,Mario Krassnitzer,16497,33,Österreich,SCR Altach,3551,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+517,08/09,Reinaldo Ribeiro,31125,27,Österreich,SCR Altach,3551,1.FC Vöcklabruck,7695,Österreich,0.0,2.Liga
+518,08/09,Leonardo,42005,28,Brasilien,SCR Altach,3551,SV Grödig,10131,Österreich,0.0,2.Liga
+519,08/09,Nate Jaqua,39275,26,Vereinigte Staaten,SCR Altach,3551,Houston Dynamo,9168,Vereinigte Staaten,0.0,1.Liga
+520,08/09,Roland Kirchler,2979,37,Österreich,SCR Altach,3551,WSG Wattens,2446,Österreich,0.0,3.Liga
+521,08/09,Bernd Winkler,7931,28,Österreich,SCR Altach,3551,1.FC Vöcklabruck,7695,Österreich,0.0,2.Liga
+522,08/09,Pablo Chinchilla Vega,38244,29,Österreich,SCR Altach,3551,Liberia Mía CF,18579,Costa Rica,0.0,
+523,08/09,Manuel Schmid,17046,26,Österreich,SCR Altach,3551,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+524,08/09,Vincenzo Zinnà,18755,26,Schweiz,SCR Altach,3551,FC Gossau,2148,Schweiz,0.0,2.Liga
+525,08/09,Mario Bolter,8203,24,Österreich,SCR Altach,3551,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+526,08/09,Müslüm Atav,30705,26,Österreich,SCR Altach,3551,FC Höchst,8323,Österreich,0.0,3.Liga
+527,08/09,Adi Rocha,50571,23,Brasilien,SK Austria Kärnten (-2010),11609,FC Energie Cottbus,25,Deutschland,350000.0,1.Liga
+528,08/09,Sandro Zakany,31380,20,Österreich,SK Austria Kärnten (-2010),11609,FC Admira Wacker Mödling,503,Österreich,0.0,2.Liga
+529,08/09,Gerhard Breitenberger,17893,29,Österreich,SK Austria Kärnten (-2010),11609,SV Grödig,10131,Österreich,0.0,2.Liga
+530,08/09,Stephan Stückler,4976,22,Österreich,SK Austria Kärnten (-2010),11609,FC St. Veit,4405,Österreich,0.0,3.Liga
+531,08/09,Gerald Krajic,16484,26,Österreich,SK Austria Kärnten (-2010),11609,FC Magna Wiener Neustadt,17444,Österreich,0.0,2.Liga
+532,08/09,Marcel Ketelaer,313,30,Deutschland,SK Austria Kärnten (-2010),11609,SK Rapid Wien,170,Österreich,0.0,1.Liga
+533,08/09,Aleksandar Saric,29400,34,Serbien,SK Austria Kärnten (-2010),11609,DAC Dunajska Streda,4529,Slowakei,0.0,1.Liga
+534,08/09,Joseph Ngwenya,27655,27,Simbabwe,SK Austria Kärnten (-2010),11609,Antalyaspor,589,Türkei,0.0,1.Liga
+535,08/09,Péter Kabát,7068,30,Ungarn,SK Austria Kärnten (-2010),11609,Újpest FC,708,Ungarn,0.0,
+536,08/09,Alexander Hauser,3041,24,Österreich,SK Austria Kärnten (-2010),11609,FC Magna Wiener Neustadt,17444,Österreich,0.0,2.Liga
+537,08/09,Roland Kollmann,5009,31,Österreich,SK Austria Kärnten (-2010),11609,Grazer AK,316,Österreich,0.0,3.Liga
+538,08/09,Lukas Mössner,11325,24,Österreich,SK Austria Kärnten (-2010),11609,FK Austria Wien,14,Österreich,0.0,1.Liga
+539,08/09,Gernot Plassnegger,1004,30,Österreich,SK Austria Kärnten (-2010),11609,GS Ergotelis,5220,Griechenland,0.0,1.Liga
+540,08/09,Patrick Wolf,18816,27,Österreich,SK Austria Kärnten (-2010),11609,FC Magna Wiener Neustadt,17444,Österreich,0.0,2.Liga
+541,08/09,Radoslav Kunzo,45586,33,Slowakei,SV Kapfenberg,2394,SK SFM Senec,20533,Slowakei,0.0,
+542,08/09,Thomas Lechner,17056,23,Österreich,SV Kapfenberg,2394,SV Pachern,7085,Österreich,0.0,
+543,08/09,Adrian Iencsi,16653,33,Rumänien,SV Kapfenberg,2394,Rapid Bukarest,455,Rumänien,0.0,1.Liga
+544,08/09,Philipp Seebacher,35861,21,Österreich,SV Kapfenberg,2394,SV Bad Aussee (-2010),6585,Österreich,0.0,3.Liga
+545,08/09,Peter Krakovsky,51906,29,Slowakei,SV Kapfenberg,2394,Zemplin Michalovce,13744,Slowakei,0.0,
+546,08/09,Jürgen Saler,2922,30,Österreich,SV Kapfenberg,2394,WAC - St. Andrä,4441,Österreich,0.0,3.Liga
+547,08/09,Markus Edler,40954,25,Österreich,SV Kapfenberg,2394,FC Gratkorn,5192,Österreich,0.0,2.Liga
+548,08/09,Diego Rottensteiner,29697,24,Österreich,SV Kapfenberg,2394,1.FC Vöcklabruck,7695,Österreich,0.0,2.Liga
+549,09/10,Manuel Pamic,27554,23,Kroatien,Red Bull Salzburg,409,AC Sparta Prag,197,Tschechien,400000.0,1.Liga
+550,09/10,Vladimir Janocko,2947,32,Slowakei,Red Bull Salzburg,409,FC Admira Wacker Mödling,503,Österreich,0.0,2.Liga
+551,09/10,Ronald Gercaliu,15308,23,Österreich,Red Bull Salzburg,409,SC Magna Wiener Neustadt,17444,Österreich,0.0,1.Liga
+552,09/10,László Bodnár,9783,30,Ungarn,Red Bull Salzburg,409,Debreceni VSC,84,Ungarn,0.0,
+553,09/10,Sasa Ilic,10298,32,Serbien,Red Bull Salzburg,409,FK Partizan Belgrad,669,Serbien,0.0,1.Liga
+554,09/10,Ernst Öbster,6144,25,Österreich,Red Bull Salzburg,409,New York Red Bulls,623,Vereinigte Staaten,0.0,1.Liga
+555,09/10,Mejdi Traoui,64370,26,Tunesien,Red Bull Salzburg,409,Esperance Tunis,3342,Tunesien,0.0,1.Liga
+556,09/10,Patrik Jezek,2813,33,Tschechien,Red Bull Salzburg,409,FC Admira Wacker Mödling,503,Österreich,0.0,2.Liga
+557,09/10,René Aufhauser,4997,33,Österreich,Red Bull Salzburg,409,LASK,413,Österreich,0.0,1.Liga
+558,09/10,Erwin Hoffer,25785,22,Österreich,SK Rapid Wien,170,SSC Neapel,6195,Italien,5000000.0,1.Liga
+559,09/10,Stefan Maierhofer,32660,27,Österreich,SK Rapid Wien,170,Wolverhampton Wanderers,543,England,2000000.0,1.Liga
+560,09/10,Georg Harding,17030,27,Österreich,SK Rapid Wien,170,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+561,09/10,Martin Hiden,2942,36,Österreich,SK Rapid Wien,170,SK Austria Kärnten (-2010),11609,Österreich,0.0,1.Liga
+562,09/10,Christopher Frank,49688,22,Österreich,SK Rapid Wien,170,FAC Team für Wien,7443,Österreich,0.0,3.Liga
+563,09/10,Franz Schiemer,6304,23,Österreich,FK Austria Wien,14,Red Bull Salzburg,409,Österreich,0.0,1.Liga
+564,09/10,Florian Metz,18387,23,Österreich,FK Austria Wien,14,LASK,413,Österreich,0.0,1.Liga
+565,09/10,Fernando Troyansky,2851,31,Argentinien,FK Austria Wien,14,SK Austria Kärnten (-2010),11609,Österreich,0.0,1.Liga
+566,09/10,Jocelyn Blanchard,5483,37,Frankreich,FK Austria Wien,14,SK Austria Kärnten (-2010),11609,Österreich,0.0,1.Liga
+567,09/10,Mario Majstorovic,8053,32,Österreich,FK Austria Wien,14,SV Kapfenberg,2394,Österreich,0.0,1.Liga
+568,09/10,Philipp Netzer,17084,23,Österreich,FK Austria Wien,14,SCR Altach,3551,Österreich,0.0,2.Liga
+569,09/10,Lukas Mössner,11325,25,Österreich,FK Austria Wien,14,SKN St. Pölten,2662,Österreich,0.0,2.Liga
+570,09/10,Thomas Krammer,3061,27,Österreich,FK Austria Wien,14,FC Admira Wacker Mödling,503,Österreich,0.0,2.Liga
+571,09/10,Jürgen Prutsch,50521,20,Österreich,SK Sturm Graz,122,AS Livorno,1210,Italien,300000.0,1.Liga
+572,09/10,Zdenko Baotic,28550,24,Bosnien-Herzegowina,SK Sturm Graz,122,Otelul Galati,4959,Rumänien,0.0,1.Liga
+573,09/10,Mattias Sereinig,4970,24,Österreich,SK Sturm Graz,122,SCR Altach,3551,Österreich,0.0,2.Liga
+574,09/10,Gernot Suppan,31195,23,Österreich,SK Sturm Graz,122,SCR Altach,3551,Österreich,0.0,2.Liga
+575,09/10,Christoph Kröpfl,46055,19,Österreich,SK Sturm Graz,122,Red Bull Juniors Salzburg (- 2012),6227,Österreich,0.0,2.Liga
+576,09/10,Ozren Peric,34323,22,Bosnien-Herzegowina,SK Sturm Graz,122,FK Borac Banja Luka,3900,Bosnien-Herzegowina,0.0,1.Liga
+577,09/10,Leonhard Kaufmann,52272,20,Österreich,SK Sturm Graz,122,SK Austria Kärnten (-2010),11609,Österreich,0.0,1.Liga
+578,09/10,Giorgi Shashiashvili,24789,29,Georgien,SK Sturm Graz,122,GS Ergotelis,5220,Griechenland,0.0,1.Liga
+579,09/10,Martin Kobras,51719,23,Österreich,SK Sturm Graz,122,SCR Altach,3551,Österreich,0.0,2.Liga
+580,09/10,Mark Prettenthaler,28949,26,Österreich,SK Sturm Graz,122,LASK,413,Österreich,0.0,1.Liga
+581,09/10,Hamdi Salihi,29447,25,Albanien,SV Ried,266,SK Rapid Wien,170,Österreich,600000.0,1.Liga
+582,09/10,Yeray Ortega,72015,29,Spanien,SV Ried,266,UD Vecindario,10496,Spanien,0.0,3.Liga
+583,09/10,Bozo Kovacevic,3012,29,Österreich,SV Ried,266,FC Pasching,935,Österreich,0.0,3.Liga
+584,09/10,Denis Berger,14878,26,Österreich,SV Ried,266,SSV Jahn Regensburg,109,Deutschland,0.0,3.Liga
+585,09/10,Andreas Bammer,6307,24,Österreich,SV Ried,266,SCR Altach,3551,Österreich,0.0,2.Liga
+586,09/10,Pa Saikou Kujabi,28037,22,Gambia,SV Ried,266,FSV Frankfurt,293,Deutschland,0.0,2.Liga
+587,09/10,Manuel Schmidl,60337,20,Österreich,SV Ried,266,Union St. Florian,2472,Österreich,0.0,3.Liga
+588,09/10,Mario Illibauer,46453,24,Österreich,SV Ried,266,FC Pasching,935,Österreich,0.0,3.Liga
+589,09/10,Pirmin Strasser,77573,18,Österreich,SV Ried,266,FC Pasching,935,Österreich,0.0,3.Liga
+590,09/10,Roman Adunka,77972,19,Österreich,SK Austria Kärnten (-2010),11609,FC St. Veit,4405,Österreich,0.0,3.Liga
+591,09/10,Stephan Bürgler,50482,22,Österreich,SK Austria Kärnten (-2010),11609,SV Allerheiligen,10281,Österreich,0.0,3.Liga
+592,09/10,Martin Zivny,5086,28,Tschechien,SK Austria Kärnten (-2010),11609,FC Dinamo 1948,312,Rumänien,0.0,1.Liga
+593,09/10,Marc Sand,31381,21,Österreich,SK Austria Kärnten (-2010),11609,FC Pasching,935,Österreich,0.0,3.Liga
+594,09/10,Marco Miesenböck,74045,20,Österreich,SK Austria Kärnten (-2010),11609,SV Horn,10044,Österreich,0.0,3.Liga
+595,09/10,André Schembri,44122,23,Malta,SK Austria Kärnten (-2010),11609,Ferencváros Budapest,279,Ungarn,0.0,
+596,09/10,Haris Bukva,41331,21,Österreich,SK Austria Kärnten (-2010),11609,SK Sturm Graz,122,Österreich,0.0,1.Liga
+597,09/10,Lukas Königshofer,42483,20,Österreich,SK Austria Kärnten (-2010),11609,SK Rapid Wien,170,Österreich,0.0,1.Liga
+598,09/10,Thomas Pirker,37593,22,Österreich,SK Austria Kärnten (-2010),11609,WAC - St. Andrä,4441,Österreich,0.0,3.Liga
+599,09/10,Zé Adriano,75915,23,Brasilien,SK Austria Kärnten (-2010),11609,Al-Shamal SC,10775,Katar,0.0,
+600,09/10,Manuel Weber,16587,23,Österreich,SK Austria Kärnten (-2010),11609,SK Sturm Graz,122,Österreich,0.0,1.Liga
+601,09/10,Chiquinho,877,35,Deutschland,SK Austria Kärnten (-2010),11609,ASV Süchteln,34178,Deutschland,0.0,
+602,09/10,Jürgen Pichorner,2976,31,Österreich,SK Austria Kärnten (-2010),11609,SCR Altach,3551,Österreich,0.0,2.Liga
+603,09/10,Wolfgang Bubenik,6646,28,Österreich,SK Austria Kärnten (-2010),11609,LASK,413,Österreich,0.0,1.Liga
+604,09/10,Manuel Ortlechner,6316,29,Österreich,SK Austria Kärnten (-2010),11609,FK Austria Wien,14,Österreich,0.0,1.Liga
+605,09/10,Zlatko Junuzovic,31007,21,Österreich,SK Austria Kärnten (-2010),11609,FK Austria Wien,14,Österreich,0.0,1.Liga
+606,09/10,Christian Prawda,14088,27,Österreich,SK Austria Kärnten (-2010),11609,SK Sturm Graz,122,Österreich,0.0,1.Liga
+607,09/10,Niklas Hoheneder,19477,22,Österreich,LASK,413,AC Sparta Prag,197,Tschechien,0.0,1.Liga
+608,09/10,Gerald Gansterer,31482,26,Österreich,LASK,413,SV Kapfenberg,2394,Österreich,0.0,1.Liga
+609,09/10,Mario Mijatovic,27896,28,Kroatien,LASK,413,FC Lustenau,2231,Österreich,0.0,2.Liga
+610,09/10,Tomasz Wisio,3013,27,Polen,LASK,413,GS Ergotelis,5220,Griechenland,0.0,1.Liga
+611,09/10,Florian Klein,20276,22,Österreich,LASK,413,FK Austria Wien,14,Österreich,0.0,1.Liga
+612,09/10,Richard Wemmer,3075,28,Österreich,LASK,413,DAC Dunajska Streda,4529,Slowakei,0.0,1.Liga
+613,09/10,Ihsan Poyraz,37854,21,Österreich,LASK,413,SC Magna Wiener Neustadt,17444,Österreich,0.0,1.Liga
+614,09/10,Christopher Pinter,81684,18,Österreich,LASK,413,ASV Siegendorf,18291,Österreich,0.0,
+615,09/10,Klaus Salmutter,3072,25,Österreich,LASK,413,SK Sturm Graz,122,Österreich,0.0,1.Liga
+616,09/10,Dominique Taboga,17044,26,Österreich,SV Kapfenberg,2394,Tromsø IL,1293,Norwegen,80000.0,1.Liga
+617,09/10,Arno Kozelsky,8121,28,Österreich,SV Kapfenberg,2394,SV Horn,10044,Österreich,0.0,3.Liga
+618,09/10,Alexander Schachner,52372,18,Österreich,SV Kapfenberg,2394,DSV Leoben,307,Österreich,0.0,3.Liga
+619,09/10,Éric Akoto,2957,29,Togo,SV Kapfenberg,2394,Maccabi Ahi Nazareth,2828,Israel,0.0,1.Liga
+620,09/10,Daniel Hofer,18775,26,Österreich,SV Kapfenberg,2394,SV Allerheiligen,10281,Österreich,0.0,3.Liga
+621,09/10,Daniel Reiter,17063,25,Österreich,SV Kapfenberg,2394,FSC Pöls,25002,Österreich,0.0,
+622,09/10,Raphael Reifeltshammer,41537,22,Österreich,SV Kapfenberg,2394,TSV Neumarkt,2981,Österreich,0.0,3.Liga
+623,09/10,Bernd Bernsteiner,18402,28,Österreich,SV Kapfenberg,2394,FC Gratkorn,5192,Österreich,0.0,2.Liga
+624,09/10,Michael Liendl,17057,23,Österreich,SV Kapfenberg,2394,FK Austria Wien,14,Österreich,0.0,1.Liga
+625,09/10,Adnan Mravac,6639,27,Bosnien-Herzegowina,SV Mattersburg,856,KVC Westerlo,968,Belgien,0.0,1.Liga
+626,09/10,Stanislav Velicky,74902,28,Slowakei,SV Mattersburg,856,FK Senica,6163,Slowakei,0.0,1.Liga
+627,09/10,Yüksel Sariyar,16708,30,Österreich,SC Magna Wiener Neustadt,17444,DAC Dunajska Streda,4529,Slowakei,0.0,1.Liga
+628,09/10,Sanel Kuljic,3026,32,Österreich,SC Magna Wiener Neustadt,17444,Neuchâtel Xamax,625,Schweiz,0.0,1.Liga
+629,09/10,Taner Ari,59576,22,Türkei,SC Magna Wiener Neustadt,17444,Orduspor,2323,Türkei,0.0,2.Liga
+630,09/10,Sebastián Martínez,4142,32,Österreich,SC Magna Wiener Neustadt,17444,First Vienna FC,2364,Österreich,0.0,2.Liga
+631,09/10,Harun Erbek,40196,23,Österreich,SC Magna Wiener Neustadt,17444,FC Dornbirn,7448,Österreich,0.0,2.Liga
+632,09/10,Alexander Hauser,3041,25,Österreich,SC Magna Wiener Neustadt,17444,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+633,09/10,Matt Luzunaris,67558,20,Vereinigte Staaten,SC Magna Wiener Neustadt,17444,SK Rapid Wien II,7001,Österreich,0.0,3.Liga
+634,09/10,Udo Siebenhandl,38394,22,Österreich,SC Magna Wiener Neustadt,17444,FC Waidhofen/Ybbs,2615,Österreich,0.0,3.Liga
+635,09/10,Marco Perchtold,45459,20,Österreich,SC Magna Wiener Neustadt,17444,FC Gratkorn,5192,Österreich,0.0,2.Liga
+636,10/11,Aleksandar Dragovic,59032,19,Österreich,FK Austria Wien,14,FC Basel 1893,26,Schweiz,1000000.0,1.Liga
+637,10/11,Rubin Okotie,31493,23,Österreich,FK Austria Wien,14,1.FC Nürnberg,4,Deutschland,0.0,1.Liga
+638,10/11,Emin Sulimani,18948,23,Österreich,FK Austria Wien,14,LASK,413,Österreich,0.0,1.Liga
+639,10/11,Matthias Hattenberger,16160,31,Österreich,FK Austria Wien,14,SV Grödig,10131,Österreich,0.0,2.Liga
+640,10/11,Michael Madl,20381,22,Österreich,FK Austria Wien,14,SC Magna Wiener Neustadt,17444,Österreich,0.0,1.Liga
+641,10/11,Eldar Topic,17892,27,Österreich,FK Austria Wien,14,First Vienna FC,2364,Österreich,0.0,2.Liga
+642,10/11,Mamadou Diabang,715,31,Senegal,FK Austria Wien,14,VfL Osnabrück,81,Deutschland,0.0,2.Liga
+643,10/11,Joachim Standfest,5005,30,Österreich,FK Austria Wien,14,SK Sturm Graz,122,Österreich,0.0,1.Liga
+644,10/11,Jakob Jantscher,52269,21,Österreich,SK Sturm Graz,122,Red Bull Salzburg,409,Österreich,1300000.0,1.Liga
+645,10/11,Daniel Beichler,45405,21,Österreich,SK Sturm Graz,122,Hertha BSC,44,Deutschland,650000.0,2.Liga
+646,10/11,Mario Sonnleitner,18297,23,Österreich,SK Sturm Graz,122,SK Rapid Wien,170,Österreich,0.0,1.Liga
+647,10/11,Patrick Scherrer,30708,23,Österreich,SK Sturm Graz,122,SCR Altach,3551,Österreich,0.0,2.Liga
+648,10/11,Christian Prawda,14088,27,Österreich,SK Sturm Graz,122,SK Austria Klagenfurt,28760,Österreich,0.0,3.Liga
+649,10/11,Uwe Kropfhofer,52816,24,Österreich,SK Sturm Graz,122,SC Weiz,7141,Österreich,0.0,3.Liga
+650,10/11,Ilia Kandelaki,24778,28,Georgien,SK Sturm Graz,122,FK Inter Baku,8956,Aserbaidschan,0.0,
+651,10/11,Peter Hlinka,3042,31,Slowakei,SK Sturm Graz,122,FK Austria Wien,14,Österreich,0.0,1.Liga
+652,10/11,Edin Salkic,31502,21,Österreich,SK Sturm Graz,122,SC Magna Wiener Neustadt,17444,Österreich,0.0,1.Liga
+653,10/11,Nikica Jelavic,25742,24,Kroatien,SK Rapid Wien,170,Glasgow Rangers,124,Schottland,4900000.0,1.Liga
+654,10/11,Branko Boskovic,9090,30,Montenegro,SK Rapid Wien,170,D.C. United,2440,Vereinigte Staaten,0.0,1.Liga
+655,10/11,Milan Jovanovic,26668,26,Montenegro,SK Rapid Wien,170,Spartak Nalchik,8835,Russland,0.0,1.Liga
+656,10/11,Fabiano,52057,24,Brasilien,SK Rapid Wien,170,Aris Thessaloniki,605,Griechenland,0.0,1.Liga
+657,10/11,Thomas Schrammel,37648,22,Österreich,SK Rapid Wien,170,SV Ried,266,Österreich,0.0,1.Liga
+658,10/11,Atdhe Nuhiu,53436,20,Kosovo,SV Ried,266,SK Rapid Wien,170,Österreich,70000.0,1.Liga
+659,10/11,Jasmin Pllana,78483,21,Österreich,SV Ried,266,SKU Amstetten,12210,Österreich,0.0,4.Liga
+660,10/11,Jonathan Carril,71003,26,Spanien,SV Ried,266,SV Grödig,10131,Österreich,0.0,2.Liga
+661,10/11,Mihael Rajic,6140,25,Österreich,SV Ried,266,FC Pasching,935,Österreich,0.0,3.Liga
+662,10/11,Thomas Burgstaller,6294,30,Österreich,SV Ried,266,SK Sturm Graz,122,Österreich,0.0,1.Liga
+663,10/11,Herwig Drechsel,6303,36,Österreich,SV Ried,266,SV Grödig,10131,Österreich,0.0,2.Liga
+664,10/11,Florian Sturm,2933,28,Österreich,SV Ried,266,FC Vaduz,163,Schweiz,0.0,2.Liga
+665,10/11,Stefan Kirnbauer,154558,22,Österreich,SV Ried,266,Union Vöcklamarkt,771,Österreich,0.0,3.Liga
+666,10/11,Pirmin Strasser,77573,20,Österreich,SV Ried,266,UD Almería B ,11986,Spanien,0.0,
+667,10/11,Pascal Stöger,77574,19,Österreich,SV Ried,266,USK Anif,5469,Österreich,0.0,3.Liga
+668,10/11,Devid Stanisavljevic,27485,22,Serbien,SV Ried,266,Union Vöcklamarkt,771,Österreich,0.0,3.Liga
+669,10/11,Marc Janko,8073,27,Österreich,Red Bull Salzburg,409,FC Twente Enschede,317,Niederlande,7000000.0,1.Liga
+670,10/11,Somen Tchoyi,37058,27,Kamerun,Red Bull Salzburg,409,West Bromwich Albion,984,England,3000000.0,1.Liga
+671,10/11,Admir Vladavic,38887,28,Bosnien-Herzegowina,Red Bull Salzburg,409,MSK Zilina,1443,Slowakei,900000.0,1.Liga
+672,10/11,Djordje Rakic,37551,24,Serbien,Red Bull Salzburg,409,TSV 1860 München,72,Deutschland,400000.0,2.Liga
+673,10/11,Louis Ngwat-Mahop,32065,23,Kamerun,Red Bull Salzburg,409,Iraklis Thessaloniki,47,Griechenland,300000.0,1.Liga
+674,10/11,Thomas Augustinussen,15118,29,Dänemark,Red Bull Salzburg,409,Aalborg BK,1053,Dänemark,0.0,1.Liga
+675,10/11,Barry Opdam,4552,34,Niederlande,Red Bull Salzburg,409,FC Volendam,724,Niederlande,0.0,2.Liga
+676,10/11,Karel Pitak,21102,30,Tschechien,Red Bull Salzburg,409,FK Baumit Jablonec,1322,Tschechien,0.0,1.Liga
+677,10/11,Alexander Zickler,227,36,Deutschland,Red Bull Salzburg,409,LASK,413,Österreich,0.0,1.Liga
+678,10/11,Roman Wallner,2924,28,Österreich,LASK,413,Red Bull Salzburg,409,Österreich,1200000.0,1.Liga
+679,10/11,Christoph Saurer,18390,24,Österreich,LASK,413,SK Rapid Wien,170,Österreich,300000.0,1.Liga
+680,10/11,Markus Weissenberger,160,35,Österreich,LASK,413,Union Pregarten,24537,Österreich,0.0,
+681,10/11,Jürgen Macho,3567,32,Österreich,LASK,413,Panionios Athen,169,Griechenland,0.0,1.Liga
+682,10/11,Paul Bichelhuber,39504,23,Österreich,LASK,413,FC Admira Wacker Mödling,503,Österreich,0.0,2.Liga
+683,10/11,Sandro Zakany,31380,22,Österreich,LASK,413,WAC - St. Andrä,4441,Österreich,0.0,2.Liga
+684,10/11,Thomas Prager,21463,24,Österreich,LASK,413,FC Luzern,434,Schweiz,0.0,1.Liga
+685,10/11,Gardar Gunnlaugsson,37686,27,Island,LASK,413,SpVgg Unterhaching,66,Deutschland,0.0,3.Liga
+686,10/11,Georg Margreitter,51325,21,Österreich,LASK,413,FK Austria Wien,14,Österreich,0.0,1.Liga
+687,10/11,Siegfried Rasswalder,33889,23,Österreich,LASK,413,SV Horn,10044,Österreich,0.0,3.Liga
+688,10/11,Mark Prettenthaler,28949,27,Österreich,LASK,413,SV Ried,266,Österreich,0.0,1.Liga
+689,10/11,Marko Vujic,19351,26,Österreich,LASK,413,SV Austria Salzburg,11853,Österreich,0.0,3.Liga
+690,10/11,Vidas Alunderis,32576,31,Litauen,LASK,413,Baltika Kaliningrad,2741,Russland,0.0,
+691,10/11,Silvije Cavlina,27838,33,Kroatien,LASK,413,SK Sturm Graz,122,Österreich,0.0,1.Liga
+692,10/11,Thomas Krammer,3061,27,Österreich,LASK,413,SV Grödig,10131,Österreich,0.0,2.Liga
+693,10/11,Daniel Sobkova,19549,25,Österreich,LASK,413,SV Grödig,10131,Österreich,0.0,2.Liga
+694,10/11,Tomas Sedlak,41376,27,Slowakei,SV Mattersburg,856,MFK Ruzomberok,7087,Slowakei,0.0,1.Liga
+695,10/11,Josef Hamouz,21242,30,Tschechien,SV Mattersburg,856,FC Zbrojovka Brünn,5225,Tschechien,0.0,1.Liga
+696,10/11,Mario Lösch,65260,20,Österreich,SV Mattersburg,856,SC Ritzing,7445,Österreich,0.0,3.Liga
+697,10/11,Thomas Wagner,6184,33,Österreich,SV Mattersburg,856,SV Stegersbach,9128,Österreich,0.0,
+698,10/11,Cem Atan,36244,25,Österreich,SV Mattersburg,856,Genclerbirligi Ankara,820,Türkei,0.0,1.Liga
+699,10/11,Martin Eisl,18721,27,Österreich,SV Kapfenberg,2394,SV Grödig,10131,Österreich,0.0,2.Liga
+700,10/11,Patrick Osoinik,8070,25,Österreich,SV Kapfenberg,2394,First Vienna FC,2364,Österreich,0.0,2.Liga
+701,10/11,Andreas Lienhart,32394,24,Österreich,SV Kapfenberg,2394,SCR Altach,3551,Österreich,0.0,2.Liga
+702,10/11,Marek Heinz,306,32,Tschechien,SV Kapfenberg,2394,Ferencváros Budapest,279,Ungarn,0.0,
+703,10/11,Georg Krenn,52070,19,Österreich,SV Kapfenberg,2394,FC Admira Wacker Mödling II,4375,Österreich,0.0,3.Liga
+704,10/11,Patrik Siegl,16003,34,Tschechien,SV Kapfenberg,2394,FK Fotbal Trinec,804,Tschechien,0.0,2.Liga
+705,10/11,Robert Schellander,4968,27,Österreich,SV Kapfenberg,2394,LASK,413,Österreich,0.0,1.Liga
+706,10/11,Mario Majstorovic,8053,33,Österreich,SV Kapfenberg,2394,SC Columbia Floridsdorf,11878,Österreich,0.0,3.Liga
+707,10/11,Markus Scharrer,6142,36,Österreich,SV Kapfenberg,2394,SV Seekirchen,4463,Österreich,0.0,3.Liga
+708,10/11,Fabian Koch,59069,21,Österreich,FC Wacker Innsbruck,2444,FK Austria Wien,14,Österreich,300000.0,1.Liga
+709,10/11,Mario Sara,3015,28,Österreich,FC Wacker Innsbruck,2444,FC Vaduz,163,Schweiz,0.0,2.Liga
+710,10/11,Ulrich Winkler,14827,25,Österreich,FC Wacker Innsbruck,2444,LASK,413,Österreich,0.0,1.Liga
+711,10/11,Markus Unterrainer,31516,29,Österreich,FC Wacker Innsbruck,2444,FC Kufstein,2235,Österreich,0.0,3.Liga
+712,10/11,Mathias Gstrein,53005,22,Österreich,FC Wacker Innsbruck,2444,WSG Wattens,2446,Österreich,0.0,3.Liga
+713,10/11,Hannes Oberortner,41122,21,Österreich,FC Wacker Innsbruck,2444,SVG Reichenau,4466,Österreich,0.0,3.Liga
+714,10/11,Andreas Schrott,17100,29,Österreich,FC Wacker Innsbruck,2444,USK Anif,5469,Österreich,0.0,3.Liga
+715,10/11,Petr Johana,9709,34,Tschechien,SC Magna Wiener Neustadt,17444,FK Mlada Boleslav,5546,Tschechien,0.0,1.Liga
+716,10/11,Mensur Kurtisi,29623,24,Nordmazedonien,SC Magna Wiener Neustadt,17444,Al-Taawoun FC,28844,Saudi-Arabien,0.0,
+717,10/11,Ronald Gercaliu,15308,24,Österreich,SC Magna Wiener Neustadt,17444,FC Ingolstadt 04,4795,Deutschland,0.0,2.Liga
+718,10/11,Patrick Niklas,45457,22,Österreich,SC Magna Wiener Neustadt,17444,SC Ritzing,7445,Österreich,0.0,3.Liga
+719,10/11,Diego Viana,25111,27,Brasilien,SC Magna Wiener Neustadt,17444,SV Grödig,10131,Österreich,0.0,2.Liga
+720,10/11,Patrick Wolf,18816,29,Österreich,SC Magna Wiener Neustadt,17444,SK Sturm Graz,122,Österreich,0.0,1.Liga
+721,11/12,Nacer Barazite,44787,21,Niederlande,FK Austria Wien,14,AS Monaco,162,Frankreich,4500000.0,2.Liga
+722,11/12,Julian Baumgartlinger,34787,23,Österreich,FK Austria Wien,14,1.FSV Mainz 05,39,Deutschland,1100000.0,1.Liga
+723,11/12,Zlatko Junuzovic,31007,24,Österreich,FK Austria Wien,14,SV Werder Bremen,86,Deutschland,800000.0,1.Liga
+724,11/12,Szabolcs Sáfár,2964,36,Ungarn,FK Austria Wien,14,FC Wacker Innsbruck,2444,Österreich,0.0,1.Liga
+725,11/12,Robert Almer,2950,27,Österreich,FK Austria Wien,14,Fortuna Düsseldorf,38,Deutschland,0.0,2.Liga
+726,11/12,Gábor Márkus,72124,20,Ungarn,FK Austria Wien,14,SC/ESV Parndorf,4320,Österreich,0.0,3.Liga
+727,11/12,Fernando Troyansky,2851,33,Argentinien,FK Austria Wien,14,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+728,11/12,Petr Vorisek,16019,32,Tschechien,FK Austria Wien,14,SCR Altach,3551,Österreich,0.0,2.Liga
+729,11/12,Schumacher,44662,24,Brasilien,FK Austria Wien,14,Volyn Lutsk,4482,Ukraine,0.0,1.Liga
+730,11/12,Gordon Schildenfeld,38870,26,Kroatien,SK Sturm Graz,122,Eintracht Frankfurt,24,Deutschland,1000000.0,2.Liga
+731,11/12,Roman Kienast,7416,27,Österreich,SK Sturm Graz,122,FK Austria Wien,14,Österreich,300000.0,1.Liga
+732,11/12,Mario Kienzl,15309,27,Österreich,SK Sturm Graz,122,FC Vaduz,163,Schweiz,0.0,2.Liga
+733,11/12,Dominic Hassler,2981,30,Österreich,SK Sturm Graz,122,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+734,11/12,Daniel Bartosch,53850,21,Österreich,SK Sturm Graz,122,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+735,11/12,Tanju Kayhan,56026,21,Österreich,SK Rapid Wien,170,Besiktas JK,114,Türkei,1050000.0,1.Liga
+736,11/12,Yasin Pehlivan,64016,22,Österreich,SK Rapid Wien,170,Gaziantepspor,524,Türkei,1000000.0,1.Liga
+737,11/12,Veli Kavlak,29622,22,Österreich,SK Rapid Wien,170,Besiktas JK,114,Türkei,750000.0,1.Liga
+738,11/12,Hamdi Salihi,29447,28,Albanien,SK Rapid Wien,170,D.C. United,2440,Vereinigte Staaten,400000.0,1.Liga
+739,11/12,Hannes Eder,3720,27,Österreich,SK Rapid Wien,170,SCR Altach,3551,Österreich,0.0,2.Liga
+740,11/12,Mario Konrad,3048,28,Österreich,SK Rapid Wien,170,SV Horn,10044,Österreich,0.0,3.Liga
+741,11/12,Christoph Schösswendter,68379,22,Österreich,SK Rapid Wien,170,SCR Altach,3551,Österreich,0.0,2.Liga
+742,11/12,Thomas Hinum,35503,23,Österreich,SK Rapid Wien,170,SV Ried,266,Österreich,0.0,1.Liga
+743,11/12,Daniel Royer,74762,21,Österreich,SV Ried,266,Hannover 96,42,Deutschland,600000.0,1.Liga
+744,11/12,Florian Mader,2881,28,Österreich,SV Ried,266,FK Austria Wien,14,Österreich,300000.0,1.Liga
+745,11/12,Thomas Schrammel,37648,23,Österreich,SV Ried,266,SK Rapid Wien,170,Österreich,250000.0,1.Liga
+746,11/12,Samuel Sahin-Radlinger,77563,18,Österreich,SV Ried,266,Hannover 96,42,Deutschland,250000.0,1.Liga
+747,11/12,Ewald Brenner,2984,36,Österreich,SV Ried,266,Union Dietach,19538,Österreich,0.0,4.Liga
+748,11/12,Mark Prettenthaler,28949,28,Österreich,SV Ried,266,SV Kapfenberg,2394,Österreich,0.0,1.Liga
+749,11/12,Michael Sammer,110921,19,Österreich,SV Ried,266,Union Vöcklamarkt,771,Österreich,0.0,3.Liga
+750,11/12,Martin Stocklasa,19829,32,Liechtenstein,SV Ried,266,FC St. Gallen 1879,257,Schweiz,0.0,2.Liga
+751,11/12,Martin Grasegger,59043,23,Österreich,SV Ried,266,FC Pasching,935,Österreich,0.0,3.Liga
+752,11/12,Milan Dudic,19704,31,Serbien,Red Bull Salzburg,409,SK Sturm Graz,122,Österreich,0.0,1.Liga
+753,11/12,Jefferson,189163,25,Brasilien,Red Bull Salzburg,409,Ituano FC (SP),4773,Brasilien,0.0,
+754,11/12,Roman Wallner,2924,29,Österreich,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,0.0,4.Liga
+755,11/12,Alex Rafael,189174,24,Brasilien,Red Bull Salzburg,409,Red Bull Brasil (SP),22767,Brasilien,0.0,
+756,11/12,Nikola Pokrivac,27912,25,Kroatien,Red Bull Salzburg,409,GNK Dinamo Zagreb,419,Kroatien,0.0,1.Liga
+757,11/12,Wolfgang Schober,44516,21,Österreich,Red Bull Salzburg,409,SV Ried,266,Österreich,0.0,1.Liga
+758,11/12,Christoph Kröpfl,46055,21,Österreich,Red Bull Salzburg,409,SV Kapfenberg,2394,Österreich,0.0,1.Liga
+759,11/12,Johan Vonlanthen,4692,25,Schweiz,Red Bull Salzburg,409,Itagüí Ditaires,20590,Kolumbien,0.0,1.Liga
+760,11/12,Rabiu Afolabi,4829,31,Nigeria,Red Bull Salzburg,409,AS Monaco,162,Frankreich,0.0,2.Liga
+761,11/12,Gerhard Tremmel,488,32,Deutschland,Red Bull Salzburg,409,Swansea City,2288,England,0.0,1.Liga
+762,11/12,Mihret Topcagic,53522,23,Österreich,FC Admira Wacker Mödling,503,WAC - St. Andrä,4441,Österreich,0.0,2.Liga
+763,11/12,Froylán Ledezma,38011,33,Costa Rica,FC Admira Wacker Mödling,503,LD Alajuelense,6478,Costa Rica,0.0,1.Liga
+764,11/12,Froylán Ledezma,38011,33,Costa Rica,FC Admira Wacker Mödling,503,LD Alajuelense,6478,Costa Rica,0.0,1.Liga
+765,11/12,Paul Bichelhuber,39504,24,Österreich,FC Admira Wacker Mödling,503,FAC Team für Wien,7443,Österreich,0.0,3.Liga
+766,11/12,Daniel Wolf,8074,26,Österreich,FC Admira Wacker Mödling,503,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+767,11/12,Hans-Peter Berger,4679,30,Österreich,FC Admira Wacker Mödling,503,FC Pasching,935,Österreich,0.0,3.Liga
+768,11/12,Marcus Hanikel,17079,28,Österreich,FC Admira Wacker Mödling,503,SV Grödig,10131,Österreich,0.0,2.Liga
+769,11/12,Christoph Cemernjak,6319,29,Österreich,FC Admira Wacker Mödling,503,WAC - St. Andrä,4441,Österreich,0.0,2.Liga
+770,11/12,Matthias Lindner,45814,22,Österreich,SV Mattersburg,856,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+771,11/12,Peter Chrappan,113394,26,Slowakei,SV Mattersburg,856,FK Inter Baku,8956,Aserbaidschan,0.0,1.Liga
+772,11/12,Pascal Grünwald,2882,28,Österreich,FC Wacker Innsbruck,2444,FK Austria Wien,14,Österreich,250000.0,1.Liga
+773,11/12,Ernst Öbster,6144,27,Österreich,FC Wacker Innsbruck,2444,SV Grödig,10131,Österreich,0.0,2.Liga
+774,11/12,Markus Obernosterer,59105,21,Österreich,FC Wacker Innsbruck,2444,WSG Wattens,2446,Österreich,0.0,3.Liga
+775,11/12,Andreas Bammer,6307,27,Österreich,FC Wacker Innsbruck,2444,USK Anif,5469,Österreich,0.0,3.Liga
+776,11/12,Harald Pichler,37592,24,Österreich,FC Wacker Innsbruck,2444,SK Rapid Wien,170,Österreich,0.0,1.Liga
+777,11/12,Benjamin Pranter,58963,21,Österreich,FC Wacker Innsbruck,2444,WSG Wattens,2446,Österreich,0.0,3.Liga
+778,11/12,Hannes Aigner,17090,30,Österreich,SC Wiener Neustadt,17444,LASK,413,Österreich,0.0,2.Liga
+779,11/12,Guido Burgstaller,49239,22,Österreich,SC Wiener Neustadt,17444,SK Rapid Wien,170,Österreich,0.0,1.Liga
+780,11/12,Saso Fornezzi,22109,28,Slowenien,SC Wiener Neustadt,17444,Orduspor,2323,Türkei,0.0,1.Liga
+781,11/12,Pavel Kostal,21249,30,Tschechien,SC Wiener Neustadt,17444,FC Hansa Rostock,30,Deutschland,0.0,2.Liga
+782,11/12,Vaclav Kolousek,17105,35,Tschechien,SC Wiener Neustadt,17444,FC Zbrojovka Brünn,5225,Tschechien,0.0,2.Liga
+783,11/12,Alexander Grünwald,34763,22,Österreich,SC Wiener Neustadt,17444,FK Austria Wien,14,Österreich,0.0,1.Liga
+784,11/12,Tomas Simkovic,16586,24,Österreich,SC Wiener Neustadt,17444,FK Austria Wien,14,Österreich,0.0,1.Liga
+785,11/12,Deni Alar,42004,21,Österreich,SV Kapfenberg,2394,SK Rapid Wien,170,Österreich,800000.0,1.Liga
+786,11/12,Michael Gregoritsch,120205,17,Österreich,SV Kapfenberg,2394,TSG 1899 Hoffenheim,533,Deutschland,200000.0,1.Liga
+787,11/12,Boris Hüttenbrenner,17032,26,Österreich,SV Kapfenberg,2394,SK Austria Klagenfurt,28760,Österreich,0.0,3.Liga
+788,11/12,Srdjan Pavlov,75285,28,Serbien,SV Kapfenberg,2394,SK Sturm Graz,122,Österreich,0.0,1.Liga
+789,11/12,Roman Prokoph,18596,26,Deutschland,SV Kapfenberg,2394,SpVgg Unterhaching,66,Deutschland,0.0,3.Liga
+790,11/12,Christoph Kröpfl,46055,21,Österreich,SV Kapfenberg,2394,SK Sturm Graz,122,Österreich,0.0,1.Liga
+791,11/12,Milan Fukal,709,36,Tschechien,SV Kapfenberg,2394,FC Hradec Kralove,1897,Tschechien,0.0,1.Liga
+792,11/12,Umut Kocin,42358,23,Türkei,SV Kapfenberg,2394,RasenBallsport Leipzig,23826,Deutschland,0.0,4.Liga
+793,11/12,Franck Matondo,47305,26,Ungarn,SV Kapfenberg,2394,SC Melk,20426,Österreich,0.0,5.Liga
+794,12/13,Gonzalo Zárate,52731,28,Argentinien,Red Bull Salzburg,409,BSC Young Boys,452,Schweiz,200000.0,1.Liga
+795,12/13,Simon Cziommer,3170,31,Deutschland,Red Bull Salzburg,409,Vitesse Arnheim,499,Niederlande,0.0,1.Liga
+796,12/13,Petri Pasanen,4316,31,Finnland,Red Bull Salzburg,409,Aarhus GF,678,Dänemark,0.0,1.Liga
+797,12/13,Chema Antón,67086,23,Spanien,Red Bull Salzburg,409,Újpest FC,708,Ungarn,0.0,
+798,12/13,Niclas Heimann,48516,21,Deutschland,Red Bull Salzburg,409,VVV-Venlo,1426,Niederlande,0.0,1.Liga
+799,12/13,Stefan Maierhofer,32660,30,Österreich,Red Bull Salzburg,409,1.FC Köln,3,Deutschland,0.0,2.Liga
+800,12/13,Muhammed Ildiz,59059,21,Österreich,SK Rapid Wien,170,1.FC Nürnberg,4,Deutschland,500000.0,1.Liga
+801,12/13,Christopher Drazan,45419,22,Österreich,SK Rapid Wien,170,1.FC Kaiserslautern,2,Deutschland,400000.0,2.Liga
+802,12/13,Thomas Bergmann,75920,22,Österreich,SK Rapid Wien,170,FC Wacker Innsbruck,2444,Österreich,100000.0,1.Liga
+803,12/13,Helge Payer,2937,33,Österreich,SK Rapid Wien,170,AEL Kalloni,28956,Griechenland,0.0,2.Liga
+804,12/13,René Gartler,14825,26,Österreich,SK Rapid Wien,170,SV Ried,266,Österreich,0.0,1.Liga
+805,12/13,Christian Thonhofer,8071,27,Österreich,SK Rapid Wien,170,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+806,12/13,Jürgen Patocka,16511,34,Österreich,SK Rapid Wien,170,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+807,12/13,Boris Prokopic,48076,24,Österreich,SK Rapid Wien,170,SCR Altach,3551,Österreich,0.0,2.Liga
+808,12/13,Christoph Saurer,18390,26,Österreich,SK Rapid Wien,170,FC Wacker Innsbruck,2444,Österreich,0.0,1.Liga
+809,12/13,Thomas Dau,59160,21,Österreich,SK Rapid Wien,170,SV Mattersburg,856,Österreich,0.0,1.Liga
+810,12/13,Philipp Hosiner,37788,23,Österreich,FC Admira Wacker Mödling,503,FK Austria Wien,14,Österreich,650000.0,1.Liga
+811,12/13,Marcel Sabitzer,106987,18,Österreich,FC Admira Wacker Mödling,503,SK Rapid Wien,170,Österreich,350000.0,1.Liga
+812,12/13,Christopher Dibon,54607,21,Österreich,FC Admira Wacker Mödling,503,Red Bull Salzburg,409,Österreich,0.0,1.Liga
+813,12/13,Benjamin Freudenthaler,52180,23,Österreich,FC Admira Wacker Mödling,503,LASK,413,Österreich,0.0,3.Liga
+814,12/13,Ivan Laudanovic,82537,22,Serbien,FC Admira Wacker Mödling,503,Wiener Sportklub,676,Österreich,0.0,3.Liga
+815,12/13,Andreas Schrott,17100,31,Österreich,FC Admira Wacker Mödling,503,FC Liefering,37024,Österreich,0.0,3.Liga
+816,12/13,Thomas Hopfer,52195,22,Österreich,FC Admira Wacker Mödling,503,TSV Hartberg,4467,Österreich,0.0,2.Liga
+817,12/13,Georg Margreitter,51325,23,Österreich,FK Austria Wien,14,Wolverhampton Wanderers,543,England,2500000.0,2.Liga
+818,12/13,Patrick Salomon,51541,24,Österreich,FK Austria Wien,14,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+819,12/13,Andreas Tiffner,41221,21,Österreich,FK Austria Wien,14,Wiener Sportklub,676,Österreich,0.0,3.Liga
+820,12/13,Florian Klein,20276,25,Österreich,FK Austria Wien,14,Red Bull Salzburg,409,Österreich,0.0,1.Liga
+821,12/13,Michael Liendl,17057,26,Österreich,FK Austria Wien,14,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+822,12/13,Peter Hlinka,3042,33,Slowakei,FK Austria Wien,14,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+823,12/13,Manuel Wallner,51213,23,Österreich,FK Austria Wien,14,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+824,12/13,Dario Tadic,50860,22,Österreich,FK Austria Wien,14,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+825,12/13,Roland Linz,2956,31,Österreich,FK Austria Wien,14,SCG Muangthong United,21283,Thailand,0.0,1.Liga
+826,12/13,Silvije Cavlina,27838,35,Kroatien,SK Sturm Graz,122,NK Inter Zapresic,918,Kroatien,0.0,1.Liga
+827,12/13,Srdjan Pavlov,75285,28,Serbien,SK Sturm Graz,122,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+828,12/13,Giorgi Popkhadze,44457,25,Georgien,SK Sturm Graz,122,FK Baku,10693,Aserbaidschan,0.0,
+829,12/13,Joachim Standfest,5005,32,Österreich,SK Sturm Graz,122,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+830,12/13,Thomas Burgstaller,6294,32,Österreich,SK Sturm Graz,122,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+831,12/13,Marvin Weinberger,55577,23,Österreich,SK Sturm Graz,122,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+832,12/13,Luca Tauschmann,55576,21,Österreich,SK Sturm Graz,122,TSV Hartberg,4467,Österreich,0.0,2.Liga
+833,12/13,Samir Muratovic,15315,36,Bosnien-Herzegowina,SK Sturm Graz,122,FC Gratkorn,5192,Österreich,0.0,3.Liga
+834,12/13,Dean Maric,40983,22,Österreich,SK Sturm Graz,122,SC Buchschachen,27504,Österreich,0.0,4.Liga
+835,12/13,Sandro Foda,52265,22,Deutschland,SK Sturm Graz,122,TSV Hartberg,4467,Österreich,0.0,2.Liga
+836,12/13,Carlos Eduardo,192452,20,Brasilien,SK Sturm Graz,122,Futebol Clube Primeira Camisa (SP),34873,Brasilien,0.0,
+837,12/13,Dominic Pürcher,46068,24,Österreich,SK Sturm Graz,122,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+838,12/13,Darko Bodul,39373,24,Österreich,SK Sturm Graz,122,Odense Boldklub,173,Dänemark,0.0,1.Liga
+839,12/13,Stefan Lexa,1025,35,Österreich,SV Ried,266,SV Grödig,10131,Österreich,0.0,2.Liga
+840,12/13,Nacho Casanova,57872,25,Spanien,SV Ried,266,FC Pasching,935,Österreich,0.0,3.Liga
+841,12/13,Philipp Huspek,59057,21,Österreich,SV Ried,266,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+842,12/13,Lukas Gabriel,79581,20,Österreich,SV Ried,266,FC Pasching,935,Österreich,0.0,3.Liga
+843,12/13,Guillem Martí,149123,26,Spanien,SV Ried,266,CD Teneriffa,648,Spanien,0.0,3.Liga
+844,12/13,Georg Harding,17030,30,Österreich,FC Wacker Innsbruck,2444,LASK,413,Österreich,0.0,3.Liga
+845,12/13,Iñaki Bea,51714,34,Spanien,FC Wacker Innsbruck,2444,SV Kickers Pforzheim,36793,Deutschland,0.0,
+846,12/13,Mathias Perktold,56477,25,Österreich,FC Wacker Innsbruck,2444,First Vienna FC,2364,Österreich,0.0,2.Liga
+847,12/13,Konrad Gilewicz,171929,20,Polen,FC Wacker Innsbruck,2444,FC STK 1914 Samorin,34775,Slowakei,0.0,2.Liga
+848,12/13,Bülent Kaan Bilgen,29450,35,Österreich,FC Wacker Innsbruck,2444,SC Schwaz,17663,Österreich,0.0,4.Liga
+849,12/13,Stefan Ilsanker,40074,23,Österreich,SV Mattersburg,856,Red Bull Salzburg,409,Österreich,0.0,1.Liga
+850,12/13,Róbert Waltner,43391,34,Ungarn,SV Mattersburg,856,Kaposvári Rákóczi FC,6056,Ungarn,0.0,
+851,12/13,Ivan Parlov,34575,28,Kroatien,SV Mattersburg,856,Apollon Limassol,429,Zypern,0.0,1.Liga
+852,12/13,Thomas Salamon,50574,23,Österreich,SV Mattersburg,856,SV Grödig,10131,Österreich,0.0,2.Liga
+853,12/13,Mahmud Imamoglu,75923,21,Österreich,SC Wiener Neustadt,17444,SC Ritzing,7445,Österreich,10000.0,3.Liga
+854,12/13,Dániel Borsos,214644,23,Ungarn,SC Wiener Neustadt,17444,SV Rohrbach,3554,Österreich,0.0,
+855,12/13,Fernando Troyansky,2851,34,Argentinien,SC Wiener Neustadt,17444,FAC Team für Wien,7443,Österreich,0.0,3.Liga
+856,12/13,Edin Salkic,31502,23,Österreich,SC Wiener Neustadt,17444,FAC Team für Wien,7443,Österreich,0.0,3.Liga
+857,12/13,Christopher Tvrdy,85684,21,Österreich,SC Wiener Neustadt,17444,1. SC Sollenau,8086,Österreich,0.0,3.Liga
+858,12/13,Serkan Ciftci,57012,22,Österreich,SC Wiener Neustadt,17444,SK Sturm Graz,122,Österreich,0.0,1.Liga
+859,12/13,Ihsan Poyraz,37854,24,Österreich,SC Wiener Neustadt,17444,Manisaspor,1267,Türkei,0.0,2.Liga
+860,12/13,Michael Stanislaw,30295,25,Österreich,SC Wiener Neustadt,17444,Egri FC,27397,Ungarn,0.0,
+861,12/13,Michael Madl,20381,24,Österreich,SC Wiener Neustadt,17444,SK Sturm Graz,122,Österreich,0.0,1.Liga
+862,12/13,Wolfgang Klapf,15174,33,Österreich,SC Wiener Neustadt,17444,LASK,413,Österreich,0.0,3.Liga
+863,12/13,Andreas Schicker,14089,25,Österreich,SC Wiener Neustadt,17444,SV Ried,266,Österreich,0.0,1.Liga
+864,12/13,Danijel Prskalo,70638,21,Österreich,SC Wiener Neustadt,17444,SCR Altach,3551,Österreich,0.0,2.Liga
+865,12/13,Mario Reiter,22737,25,Österreich,SC Wiener Neustadt,17444,SV Ried,266,Österreich,0.0,1.Liga
+866,12/13,Rene Felix,61695,22,Österreich,SC Wiener Neustadt,17444,FC Lustenau,2231,Österreich,0.0,2.Liga
+867,12/13,Stefan Berndorfer,114830,20,Österreich,SC Wiener Neustadt,17444,SKU Amstetten,12210,Österreich,0.0,3.Liga
+868,12/13,Thomas Kral,66792,22,Österreich,SC Wiener Neustadt,17444,SC Ritzing,7445,Österreich,0.0,3.Liga
+869,12/13,Nico Nuhsbaumer,806753,17,Österreich,SC Wiener Neustadt,17444,FC Tulln,11472,Österreich,0.0,
+870,12/13,Matthias Lindner,45814,23,Österreich,SC Wiener Neustadt,17444,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+871,12/13,Markus Kreuz,42,35,Deutschland,Wolfsberger AC,4441,TSV Schott Mainz,9695,Deutschland,0.0,
+872,12/13,René Gsellmann,18771,27,Österreich,Wolfsberger AC,4441,SC Ritzing,7445,Österreich,0.0,3.Liga
+873,12/13,Stefan Takats,52631,27,Österreich,Wolfsberger AC,4441,SV Sachsenburg,18420,Österreich,0.0,
+874,13/14,Marin Leovac,51604,25,Kroatien,FK Austria Wien,14,HNK Rijeka,144,Kroatien,250000.0,1.Liga
+875,13/14,Remo Mally,59088,22,Österreich,FK Austria Wien,14,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+876,13/14,Tomas Simkovic,16586,26,Österreich,FK Austria Wien,14,Tobol Kostanay,10481,Kasachstan,0.0,
+877,13/14,Dare Vrsic,19579,29,Slowenien,FK Austria Wien,14,NK Maribor,790,Slowenien,0.0,
+878,13/14,Cristiano,207600,26,Brasilien,Red Bull Salzburg,409,Ventforet Kofu,10999,Japan,300000.0,1.Liga
+879,13/14,Jakob Jantscher,52269,24,Österreich,Red Bull Salzburg,409,NEC Nijmegen,467,Niederlande,250000.0,1.Liga
+880,13/14,Ibrahim Sekagya,51478,32,Uganda,Red Bull Salzburg,409,New York Red Bulls,623,Vereinigte Staaten,0.0,
+881,13/14,Georg Teigl,81698,22,Österreich,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,0.0,3.Liga
+882,13/14,Alexander Aschauer,72111,21,Österreich,Red Bull Salzburg,409,First Vienna FC,2364,Österreich,0.0,2.Liga
+883,13/14,Joaquín Boghossian,76597,26,Uruguay,Red Bull Salzburg,409,Quilmes Atlético Club,1826,Argentinien,0.0,1.Liga
+884,13/14,Joaquín Boghossian,76597,26,Uruguay,Red Bull Salzburg,409,Quilmes Atlético Club,1826,Argentinien,0.0,1.Liga
+885,13/14,Daniel Offenbacher,83505,21,Österreich,Red Bull Salzburg,409,SK Sturm Graz,122,Österreich,0.0,1.Liga
+886,13/14,Christoph Martschinko,120191,19,Österreich,Red Bull Salzburg,409,SV Grödig,10131,Österreich,0.0,1.Liga
+887,13/14,Markus Heikkinen,12775,34,Finnland,SK Rapid Wien,170,IK Start,267,Norwegen,0.0,1.Liga
+888,13/14,Markus Katzer,2826,33,Österreich,SK Rapid Wien,170,FC Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+889,13/14,Atdhe Nuhiu,53436,23,Kosovo,SK Rapid Wien,170,Sheffield Wednesday,1035,England,0.0,2.Liga
+890,13/14,Stefan Kulovits,2938,30,Österreich,SK Rapid Wien,170,SV Sandhausen,254,Deutschland,0.0,2.Liga
+891,13/14,Kristijan Dobras,59031,20,Österreich,SK Rapid Wien,170,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+892,13/14,Andrey Lebedev,138601,22,Belarus,SK Rapid Wien,170,First Vienna FC,2364,Österreich,0.0,2.Liga
+893,13/14,Dominik Hofbauer,49718,22,Österreich,SK Rapid Wien,170,SKN St. Pölten,2662,Österreich,0.0,2.Liga
+894,13/14,Harald Pichler,37592,26,Österreich,SK Rapid Wien,170,SV Ried,266,Österreich,0.0,1.Liga
+895,13/14,Florian Neuhold,106864,19,Österreich,SK Sturm Graz,122,SCR Altach,3551,Österreich,10000.0,2.Liga
+896,13/14,Johannes Focher,47597,23,Deutschland,SK Sturm Graz,122,Borussia Dortmund II,17,Deutschland,0.0,3.Liga
+897,13/14,Serkan Ciftci,57012,23,Österreich,SK Sturm Graz,122,Dardanelspor,1507,Türkei,0.0,3.Liga
+898,13/14,Christoph Kröpfl,46055,23,Österreich,SK Sturm Graz,122,TSV Hartberg,4467,Österreich,0.0,2.Liga
+899,13/14,Rubin Okotie,31493,26,Österreich,SK Sturm Graz,122,FK Austria Wien,14,Österreich,0.0,1.Liga
+900,13/14,Haris Bukva,41331,25,Österreich,SK Sturm Graz,122,HNK Hajduk Split,447,Kroatien,0.0,1.Liga
+901,13/14,Stefan Stangl,84537,21,Österreich,SK Sturm Graz,122,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+902,13/14,Matthias Koch,55750,25,Österreich,SK Sturm Graz,122,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+903,13/14,Zeljko Balen,139990,23,Kroatien,SK Sturm Graz,122,SV Wildon,12404,Österreich,0.0,4.Liga
+904,13/14,Mihret Topcagic,53522,25,Österreich,Wolfsberger AC,4441,Shakhter Karaganda,10480,Kasachstan,400000.0,
+905,13/14,Michael Liendl,17057,28,Österreich,Wolfsberger AC,4441,Fortuna Düsseldorf,38,Deutschland,250000.0,2.Liga
+906,13/14,Rubén Rivera,47712,28,Spanien,Wolfsberger AC,4441,FC Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+907,13/14,Christoph Cemernjak,6319,31,Österreich,Wolfsberger AC,4441,Villacher SV,4480,Österreich,0.0,3.Liga
+908,13/14,Sandro Zakany,31380,25,Österreich,Wolfsberger AC,4441,SK Austria Klagenfurt,28760,Österreich,0.0,3.Liga
+909,13/14,Stephan Stückler,4976,27,Österreich,Wolfsberger AC,4441,TSV Hartberg,4467,Österreich,0.0,2.Liga
+910,13/14,David de Paula,35556,29,Spanien,Wolfsberger AC,4441,FK Austria Wien,14,Österreich,0.0,1.Liga
+911,13/14,Robert Zulj,122676,21,Österreich,SV Ried,266,Red Bull Salzburg,409,Österreich,400000.0,1.Liga
+912,13/14,Philipp Rensch,158113,19,Österreich,SV Ried,266,Union Vöcklamarkt,771,Österreich,0.0,3.Liga
+913,13/14,Furkan Aydogdu,67724,25,Österreich,SV Ried,266,TSV Hartberg,4467,Österreich,0.0,2.Liga
+914,13/14,Markus Hammerer,140106,23,Österreich,SV Ried,266,LASK,413,Österreich,0.0,3.Liga
+915,13/14,Maximilian Karner,35078,23,Österreich,SV Ried,266,SV Grödig,10131,Österreich,0.0,1.Liga
+916,13/14,Anel Hadzic,51311,23,Bosnien-Herzegowina,SV Ried,266,SK Sturm Graz,122,Österreich,0.0,1.Liga
+917,13/14,Markus Grössinger,138090,23,Österreich,SV Ried,266,Union Henndorf,18155,Österreich,0.0,4.Liga
+918,13/14,Edin Ibrahimovic,79587,21,Österreich,SV Ried,266,Union Vöcklamarkt,771,Österreich,0.0,3.Liga
+919,13/14,Emanuel Schreiner,59132,24,Österreich,SV Ried,266,SCR Altach,3551,Österreich,0.0,2.Liga
+920,13/14,Nacho Rodríguez,72221,30,Spanien,SV Ried,266,SD Noja ,13238,Spanien,0.0,3.Liga
+921,13/14,Wolfgang Schober,44516,23,Österreich,SV Ried,266,FC Wacker Innsbruck,2444,Österreich,0.0,1.Liga
+922,13/14,Ola Kamara,62067,24,Norwegen,SV Ried,266,FK Austria Wien,14,Österreich,0.0,1.Liga
+923,13/14,Matthias Maak,102271,21,Österreich,SC Wiener Neustadt,17444,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+924,13/14,Thomas Helly,59052,22,Österreich,SC Wiener Neustadt,17444,SC Mannsdorf,19578,Österreich,0.0,4.Liga
+925,13/14,Osman Bozkurt,16513,28,Türkei,SC Wiener Neustadt,17444,SKN St. Pölten,2662,Österreich,0.0,2.Liga
+926,13/14,Bernd Besenlehner,133006,26,Österreich,SC Wiener Neustadt,17444,ASK Eggendorf,31427,Österreich,0.0,
+927,13/14,Christian Ramsebner,37820,24,Österreich,SC Wiener Neustadt,17444,FK Austria Wien,14,Österreich,0.0,1.Liga
+928,13/14,Günter Friesenbichler,12887,34,Österreich,SC Wiener Neustadt,17444,TSV Hartberg,4467,Österreich,0.0,2.Liga
+929,13/14,Thomas Piermayr,55748,23,Österreich,SC Wiener Neustadt,17444,Lillestrøm SK,353,Norwegen,0.0,1.Liga
+930,13/14,Stefan Petrovic,106868,19,Österreich,SC Wiener Neustadt,17444,FC Pasching,935,Österreich,0.0,3.Liga
+931,13/14,Carlos Merino,7629,33,Spanien,FC Wacker Innsbruck,2444,Panthrakikos Komotini,7185,Griechenland,0.0,1.Liga
+932,13/14,Daniel Brauneis,33883,27,Österreich,FC Wacker Innsbruck,2444,SC Ritzing,7445,Österreich,0.0,3.Liga
+933,13/14,Martin Siding,126402,19,Österreich,FC Wacker Innsbruck,2444,WSG Wattens,2446,Österreich,0.0,3.Liga
+934,13/14,Martin Svejnoha,35656,35,Tschechien,FC Wacker Innsbruck,2444,WSG Wattens,2446,Österreich,0.0,3.Liga
+935,13/14,Julius Perstaller,41365,24,Österreich,FC Wacker Innsbruck,2444,SV Ried,266,Österreich,0.0,1.Liga
+936,13/14,Marcel Schreter,3721,31,Österreich,FC Wacker Innsbruck,2444,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+937,13/14,Markus Egger,59033,23,Österreich,FC Wacker Innsbruck,2444,Völser SV,12618,Österreich,0.0,4.Liga
+938,13/14,Marco Köfler,56163,22,Österreich,FC Wacker Innsbruck,2444,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+939,13/14,Sascha Wörgetter,158193,19,Österreich,FC Wacker Innsbruck,2444,WSG Wattens,2446,Österreich,0.0,3.Liga
+940,13/14,Fabian Hafner,108392,19,Österreich,FC Wacker Innsbruck,2444,Wolfsberger AC II,33549,Österreich,0.0,3.Liga
+941,13/14,Benjamin Sulimani,34736,24,Österreich,FC Admira Wacker Mödling,503,Viking FK,239,Norwegen,0.0,1.Liga
+942,13/14,Peter Pöllhuber,42302,28,Österreich,FC Admira Wacker Mödling,503,SC Wiener Viktoria,18517,Österreich,0.0,3.Liga
+943,13/14,Tito,77848,24,Spanien,FC Admira Wacker Mödling,503,RSD Alcalá ,13436,Spanien,0.0,
+944,13/14,Dani Segovia,128708,28,Spanien,FC Admira Wacker Mödling,503,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+945,13/14,Matus Mikus,111797,22,Slowakei,FC Admira Wacker Mödling,503,FC Nitra,1562,Slowakei,0.0,1.Liga
+946,13/14,Patrick Mevoungou,118746,27,Kamerun,FC Admira Wacker Mödling,503,ETO FC Győr ,6055,Ungarn,0.0,
+947,13/14,Philipp Zulechner,59196,23,Österreich,SV Grödig,10131,SC Freiburg,60,Deutschland,700000.0,1.Liga
+948,13/14,David Witteveen,40080,28,Österreich,SV Grödig,10131,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+949,13/14,Ernst Öbster,6144,29,Österreich,SV Grödig,10131,LASK,413,Österreich,0.0,3.Liga
+950,13/14,Thomas Salamon,50574,25,Österreich,SV Grödig,10131,FK Austria Wien,14,Österreich,0.0,1.Liga
+951,13/14,Aleksandar Simic,154113,20,Österreich,SV Grödig,10131,SV Austria Salzburg,11853,Österreich,0.0,3.Liga
+952,14/15,Sadio Mané,200512,22,Senegal,Red Bull Salzburg,409,FC Southampton,180,England,23000000.0,1.Liga
+953,14/15,Kevin Kampl,53418,24,Slowenien,Red Bull Salzburg,409,Borussia Dortmund,16,Deutschland,12000000.0,1.Liga
+954,14/15,Alan,73460,25,China,Red Bull Salzburg,409,Guangzhou Evergrande Taobao,10948,China,11100000.0,1.Liga
+955,14/15,Dusan Svento,34543,28,Slowakei,Red Bull Salzburg,409,1.FC Köln,3,Deutschland,600000.0,1.Liga
+956,14/15,Robert Zulj,122676,22,Österreich,Red Bull Salzburg,409,SpVgg Greuther Fürth,65,Deutschland,500000.0,2.Liga
+957,14/15,Zymer Bytyqi,213555,18,Kosovo,Red Bull Salzburg,409,Viking FK,239,Norwegen,100000.0,1.Liga
+958,14/15,Thomas Dähne,115979,20,Deutschland,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,0.0,2.Liga
+959,14/15,Stefan Hierländer,59053,23,Österreich,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,0.0,2.Liga
+960,14/15,Christopher Dibon,54607,23,Österreich,Red Bull Salzburg,409,SK Rapid Wien,170,Österreich,0.0,1.Liga
+961,14/15,Rodnei,58453,29,Brasilien,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,0.0,2.Liga
+962,14/15,Douglas da Silva,16639,30,Brasilien,Red Bull Salzburg,409,Vasco da Gama Rio de Janeiro,978,Brasilien,0.0,1.Liga
+963,14/15,Florian Klein,20276,27,Österreich,Red Bull Salzburg,409,VfB Stuttgart,79,Deutschland,0.0,1.Liga
+964,14/15,Marco Meilinger,79607,22,Österreich,Red Bull Salzburg,409,FK Austria Wien,14,Österreich,0.0,1.Liga
+965,14/15,Terrence Boyd,103064,23,Vereinigte Staaten,SK Rapid Wien,170,RasenBallsport Leipzig,23826,Deutschland,2000000.0,2.Liga
+966,14/15,Marcel Sabitzer,106987,20,Österreich,SK Rapid Wien,170,RasenBallsport Leipzig,23826,Deutschland,2000000.0,2.Liga
+967,14/15,Guido Burgstaller,49239,25,Österreich,SK Rapid Wien,170,Cardiff City,603,England,700000.0,2.Liga
+968,14/15,Lukas Grozurek,75829,23,Österreich,SK Rapid Wien,170,FC Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+969,14/15,Christopher Trimmel,75921,27,Österreich,SK Rapid Wien,170,1.FC Union Berlin,89,Deutschland,0.0,2.Liga
+970,14/15,Stephan Palla,52230,25,Philippinen,SK Rapid Wien,170,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+971,14/15,Lukas Königshofer,42483,25,Österreich,SK Rapid Wien,170,Hallescher FC,440,Deutschland,0.0,3.Liga
+972,14/15,Lukas Denner,83623,23,Österreich,SK Rapid Wien,170,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+973,14/15,Mario Leitgeb,52821,26,Österreich,SV Grödig,10131,FK Austria Wien,14,Österreich,300000.0,1.Liga
+974,14/15,Peter Tschernegg,85793,21,Österreich,SV Grödig,10131,Wolfsberger AC,4441,Österreich,75000.0,1.Liga
+975,14/15,Christian Hayden,151193,20,Österreich,SV Grödig,10131,SKN St. Pölten,2662,Österreich,0.0,2.Liga
+976,14/15,Kevin Fend,83610,24,Österreich,SV Grödig,10131,SV 07 Elversberg,64,Deutschland,0.0,4.Liga
+977,14/15,Tadej Trdina,54248,26,Slowenien,SV Grödig,10131,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+978,14/15,Hannes Sigurdsson,26426,31,Island,SV Grödig,10131,Sandnes Ulf,13025,Norwegen,0.0,2.Liga
+979,14/15,Omer Damari,112703,25,Israel,FK Austria Wien,14,RasenBallsport Leipzig,23826,Deutschland,7000000.0,2.Liga
+980,14/15,Philipp Hosiner,37788,25,Österreich,FK Austria Wien,14,FC Stade Rennes,273,Frankreich,1900000.0,1.Liga
+981,14/15,Thomas Murg,153190,19,Österreich,FK Austria Wien,14,SV Ried,266,Österreich,200000.0,1.Liga
+982,14/15,Rubin Okotie,31493,27,Österreich,FK Austria Wien,14,TSV 1860 München,72,Deutschland,150000.0,2.Liga
+983,14/15,Günther Arnberger,80159,22,Österreich,FK Austria Wien,14,First Vienna FC,2364,Österreich,0.0,3.Liga
+984,14/15,Tomas Jun,9692,31,Tschechien,FK Austria Wien,14,FK Baumit Jablonec,1322,Tschechien,0.0,1.Liga
+985,14/15,Pascal Grünwald,2882,31,Österreich,FK Austria Wien,14,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+986,14/15,Ivan Kardum,40641,27,Kroatien,FK Austria Wien,14,Slaven Belupo Koprivnica,2362,Kroatien,0.0,1.Liga
+987,14/15,Marko Stankovic,17042,28,Österreich,FK Austria Wien,14,SK Sturm Graz,122,Österreich,0.0,1.Liga
+988,14/15,Emir Dilaver,80161,23,Österreich,FK Austria Wien,14,Ferencváros Budapest,279,Ungarn,0.0,1.Liga
+989,14/15,Kaja Rogulj,46248,28,Kroatien,FK Austria Wien,14,FC Luzern,434,Schweiz,0.0,1.Liga
+990,14/15,Tamás Priskin,43716,27,Ungarn,FK Austria Wien,14,ETO FC Győr ,6055,Ungarn,0.0,1.Liga
+991,14/15,Roman Kienast,7416,30,Österreich,FK Austria Wien,14,SK Sturm Graz,122,Österreich,0.0,1.Liga
+992,14/15,Marco Djuricin,92989,22,Österreich,SK Sturm Graz,122,Red Bull Salzburg,409,Österreich,2500000.0,1.Liga
+993,14/15,Robert Beric,91415,23,Slowenien,SK Sturm Graz,122,SK Rapid Wien,170,Österreich,750000.0,1.Liga
+994,14/15,Florian Kainz,106270,21,Österreich,SK Sturm Graz,122,SK Rapid Wien,170,Österreich,350000.0,1.Liga
+995,14/15,Nikola Vujadinovic,58474,28,Montenegro,SK Sturm Graz,122,CA Osasuna,331,Spanien,0.0,2.Liga
+996,14/15,Aleksandar Todorovski,34491,30,Nordmazedonien,SK Sturm Graz,122,Zaglebie Lubin,168,Polen,0.0,2.Liga
+997,14/15,Lukas Waltl,106875,20,Österreich,SK Sturm Graz,122,TSV Hartberg,4467,Österreich,0.0,2.Liga
+998,14/15,Andreas Hölzl,17094,29,Österreich,SK Sturm Graz,122,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+999,14/15,Reinhold Ranftl,83119,22,Österreich,SK Sturm Graz,122,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+1000,14/15,Tobias Kainz,69741,21,Österreich,SK Sturm Graz,122,SC Wiener Neustadt,17444,Österreich,0.0,1.Liga
+1001,14/15,Leonhard Kaufmann,52272,25,Österreich,SK Sturm Graz,122,FC Energie Cottbus,25,Deutschland,0.0,3.Liga
+1002,14/15,Manuel Weber,16587,28,Österreich,SK Sturm Graz,122,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1003,14/15,Patrick Wolf,18816,33,Österreich,SK Sturm Graz,122,SV Allerheiligen,10281,Österreich,0.0,3.Liga
+1004,14/15,Tomislav Barbaric,46500,25,Kroatien,SK Sturm Graz,122,RNK Split,420,Kroatien,0.0,1.Liga
+1005,14/15,Ivan Lucic,164145,19,Österreich,SV Ried,266,FC Bayern München,27,Deutschland,400000.0,1.Liga
+1006,14/15,Rafael Burgos,166566,26,El Salvador,SV Ried,266,Fredrikstad FK,3837,Norwegen,0.0,2.Liga
+1007,14/15,Toni Vastic,82544,21,Österreich,SV Ried,266,FC Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+1008,14/15,Jan Zwischenbrugger,83617,24,Österreich,SV Ried,266,SCR Altach,3551,Österreich,0.0,1.Liga
+1009,14/15,Andreas Schicker,14089,28,Österreich,SV Ried,266,SV Horn,10044,Österreich,0.0,2.Liga
+1010,14/15,René Gartler,14825,28,Österreich,SV Ried,266,SV Sandhausen,254,Deutschland,0.0,2.Liga
+1011,14/15,Gerard Oliva,171439,24,Spanien,SV Ried,266,Real Murcia,171,Spanien,0.0,3.Liga
+1012,14/15,Thomas Hinum,35503,26,Österreich,SV Ried,266,LASK,413,Österreich,0.0,2.Liga
+1013,14/15,Sandro Gotal,68010,22,Österreich,Wolfsberger AC,4441,HNK Hajduk Split,447,Kroatien,0.0,1.Liga
+1014,14/15,José Antonio Solano,70991,29,Spanien,Wolfsberger AC,4441,SV Horn,10044,Österreich,0.0,2.Liga
+1015,14/15,Gernot Suppan,31195,28,Österreich,Wolfsberger AC,4441,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+1016,14/15,Kevin Vaschauner,229569,22,Österreich,Wolfsberger AC,4441,FC Blau-Weiß Linz,2157,Österreich,0.0,3.Liga
+1017,14/15,Christian Falk,40338,27,Österreich,Wolfsberger AC,4441,Rot-Weiß Erfurt,111,Deutschland,0.0,3.Liga
+1018,14/15,Nenad Jovanovic,17034,34,Österreich,Wolfsberger AC,4441,ASKÖ Oedt,24830,Österreich,0.0,
+1019,14/15,Martin Salentinig,80226,21,Österreich,Wolfsberger AC,4441,Annabichler SV,20098,Österreich,0.0,4.Liga
+1020,14/15,Michele Polverino,19863,29,Liechtenstein,Wolfsberger AC,4441,FC Vaduz,163,Schweiz,0.0,1.Liga
+1021,14/15,Danijel Micic,40077,25,Österreich,Wolfsberger AC,4441,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+1022,14/15,Dani Segovia,128708,29,Spanien,Wolfsberger AC,4441,SKN St. Pölten,2662,Österreich,0.0,2.Liga
+1023,14/15,Jürgen Säumel,3066,29,Österreich,SC Wiener Neustadt,17444,FC Wacker Innsbruck,2444,Österreich,25000.0,2.Liga
+1024,14/15,Stefan Rakowitz,76422,24,Österreich,SC Wiener Neustadt,17444,SC Ritzing,7445,Österreich,0.0,3.Liga
+1025,14/15,Stefan Maierhofer,32660,32,Österreich,SC Wiener Neustadt,17444,FC Millwall,1028,England,0.0,2.Liga
+1026,14/15,Marco Angeler,106729,25,Österreich,SC Wiener Neustadt,17444,ASK Eggendorf,31427,Österreich,0.0,
+1027,14/15,Markus Glänzer,225318,26,Österreich,SC Wiener Neustadt,17444,Wolfsberger AC II,33549,Österreich,0.0,3.Liga
+1028,14/15,Manfred Rottensteiner,122987,21,Österreich,SC Wiener Neustadt,17444,1. SC Sollenau,8086,Österreich,0.0,3.Liga
+1029,14/15,Michael Berger,106141,23,Österreich,SC Wiener Neustadt,17444,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1030,14/15,David Witteveen,40080,29,Österreich,SC Wiener Neustadt,17444,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+1031,14/15,Arvedin Terzic,64017,25,Österreich,SC Wiener Neustadt,17444,Floridsdorfer AC,7443,Österreich,0.0,2.Liga
+1032,14/15,Thomas Fröschl,58937,25,Österreich,SC Wiener Neustadt,17444,SV Ried,266,Österreich,0.0,1.Liga
+1033,14/15,Stefan Stangl,84537,22,Österreich,SC Wiener Neustadt,17444,SK Rapid Wien,170,Österreich,0.0,1.Liga
+1034,14/15,Thomas Pichlmann,13925,33,Österreich,SC Wiener Neustadt,17444,US Grosseto FC,4333,Italien,0.0,3.Liga
+1035,14/15,Manuel Wallner,51213,25,Österreich,SC Wiener Neustadt,17444,SK Austria Klagenfurt,28760,Österreich,0.0,3.Liga
+1036,14/15,Stefan Schwab,79612,23,Österreich,FC Admira Wacker Mödling,503,SK Rapid Wien,170,Österreich,400000.0,1.Liga
+1037,14/15,Thorsten Schick,55574,24,Österreich,FC Admira Wacker Mödling,503,SK Sturm Graz,122,Österreich,250000.0,1.Liga
+1038,14/15,Daniel Drescher,49510,24,Österreich,FC Admira Wacker Mödling,503,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1039,14/15,Rubén Rivera,47712,29,Spanien,FC Admira Wacker Mödling,503,Real Avilés CF,20844,Spanien,0.0,3.Liga
+1040,14/15,Lukas Thürauer,54246,27,Österreich,FC Admira Wacker Mödling,503,SKN St. Pölten,2662,Österreich,0.0,2.Liga
+1041,14/15,Wilfried Domoraud,104249,26,Frankreich,FC Admira Wacker Mödling,503,Athlétic Club Arlésien,11300,Frankreich,0.0,2.Liga
+1042,14/15,Florian Neuhold,106864,20,Österreich,SCR Altach,3551,LASK,413,Österreich,0.0,2.Liga
+1043,14/15,Felipe Dorta,226067,18,Österreich,SCR Altach,3551,LASK,413,Österreich,0.0,2.Liga
+1044,14/15,Julian Erhart,121183,22,Österreich,SCR Altach,3551,FC Höchst,8323,Österreich,0.0,3.Liga
+1045,15/16,Stefan Ilsanker,40074,26,Österreich,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,3000000.0,2.Liga
+1046,15/16,Péter Gulácsi,57071,25,Ungarn,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,3000000.0,2.Liga
+1047,15/16,Felipe Pires,327911,20,Brasilien,Red Bull Salzburg,409,TSG 1899 Hoffenheim,533,Deutschland,1000000.0,1.Liga
+1048,15/16,Havard Nielsen,136181,22,Norwegen,Red Bull Salzburg,409,SC Freiburg,60,Deutschland,600000.0,2.Liga
+1049,15/16,André Ramalho,175792,23,Brasilien,Red Bull Salzburg,409,Bayer 04 Leverkusen,15,Deutschland,0.0,1.Liga
+1050,15/16,Nils Quaschner,94559,21,Deutschland,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,0.0,2.Liga
+1051,15/16,Robert Beric,91415,24,Slowenien,SK Rapid Wien,170,AS Saint-Étienne,618,Frankreich,7500000.0,1.Liga
+1052,15/16,Dominik Wydra,120199,21,Österreich,SK Rapid Wien,170,SC Paderborn 07,127,Deutschland,600000.0,2.Liga
+1053,15/16,Marko Maric,183793,19,Kroatien,SK Rapid Wien,170,TSG 1899 Hoffenheim,533,Deutschland,500000.0,1.Liga
+1054,15/16,Brian Behrendt,85660,23,Deutschland,SK Rapid Wien,170,Arminia Bielefeld,10,Deutschland,300000.0,2.Liga
+1055,15/16,Eldis Bajrami,106969,22,Österreich,SK Rapid Wien,170,FC Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+1056,15/16,Ronald Gercaliu,15308,29,Österreich,SCR Altach,3551,KF Tirana,2049,Albanien,0.0,1.Liga
+1057,15/16,Ivan Kovacec,156629,27,Kroatien,SCR Altach,3551,Ulsan Hyundai,3535,Südkorea,0.0,1.Liga
+1058,15/16,Darijo Pecirep,155596,23,Kroatien,SCR Altach,3551,SV Wallern,2232,Österreich,0.0,3.Liga
+1059,15/16,Darko Bodul,39373,26,Österreich,SCR Altach,3551,Dundee United FC,1519,Schottland,0.0,1.Liga
+1060,15/16,Juan Barrera,118412,26,Nicaragua,SCR Altach,3551,Comunicaciones FC,9709,Guatemala,0.0,
+1061,15/16,Anel Hadzic,51311,26,Bosnien-Herzegowina,SK Sturm Graz,122,Eskisehirspor,825,Türkei,300000.0,1.Liga
+1062,15/16,Benedikt Pliquett,4173,30,Deutschland,SK Sturm Graz,122,Atlético Baleares,18687,Spanien,0.0,3.Liga
+1063,15/16,Igor Oshchypko,58425,29,Ukraine,SK Sturm Graz,122,Zaria Balti,21508,Moldawien,0.0,1.Liga
+1064,15/16,Daniel Beichler,45405,26,Österreich,SK Sturm Graz,122,SKN St. Pölten,2662,Österreich,0.0,2.Liga
+1065,15/16,Josip Tadic,29899,28,Kroatien,SK Sturm Graz,122,Balikesirspor,20698,Türkei,0.0,2.Liga
+1066,15/16,Attila Simon,57210,32,Ungarn,Wolfsberger AC,4441,Gyirmót FC Győr,22610,Ungarn,0.0,2.Liga
+1067,15/16,Stefan Schwendinger,120193,20,Österreich,Wolfsberger AC,4441,SK Austria Klagenfurt,28760,Österreich,0.0,2.Liga
+1068,15/16,Manuel Kerhe,52369,28,Österreich,Wolfsberger AC,4441,LASK,413,Österreich,0.0,2.Liga
+1069,15/16,René Seebacher,50526,26,Österreich,Wolfsberger AC,4441,SC Wiener Neustadt,17444,Österreich,0.0,2.Liga
+1070,15/16,Christoph Kobleder,67879,25,Österreich,Wolfsberger AC,4441,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+1071,15/16,Peter Zulj,128105,22,Österreich,Wolfsberger AC,4441,FC Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+1072,15/16,Thomas Murg,153190,21,Österreich,SV Ried,266,SK Rapid Wien,170,Österreich,700000.0,1.Liga
+1073,15/16,Oliver Kragl,56513,25,Deutschland,SV Ried,266,Frosinone Calcio,8970,Italien,400000.0,1.Liga
+1074,15/16,Stefan Lainer,85791,22,Österreich,SV Ried,266,Red Bull Salzburg,409,Österreich,200000.0,1.Liga
+1075,15/16,Thomas Burghuber,158085,21,Österreich,SV Ried,266,SV Austria Salzburg,11853,Österreich,0.0,2.Liga
+1076,15/16,Gabriel Schneider,82540,25,Österreich,SV Ried,266,Union St. Florian,2472,Österreich,0.0,3.Liga
+1077,15/16,Emrah Krizevac,206934,19,Österreich,SV Ried,266,FC Viktoria 1889 Berlin,40373,Deutschland,0.0,4.Liga
+1078,15/16,Harald Pichler,37592,28,Österreich,SV Ried,266,SV Grödig,10131,Österreich,0.0,1.Liga
+1079,15/16,Lorenz Höbarth,59058,23,Österreich,SV Ried,266,ASKÖ Oedt,24830,Österreich,0.0,
+1080,15/16,Thomas Fröschl,58937,26,Österreich,SV Ried,266,LASK,413,Österreich,0.0,2.Liga
+1081,15/16,Julius Perstaller,41365,26,Österreich,SV Ried,266,FC Hansa Rostock,30,Deutschland,0.0,3.Liga
+1082,15/16,Markus Suttner,31514,28,Österreich,FK Austria Wien,14,FC Ingolstadt 04,4795,Deutschland,700000.0,1.Liga
+1083,15/16,Mario Leitgeb,52821,27,Österreich,FK Austria Wien,14,FC St. Gallen 1879,257,Schweiz,0.0,1.Liga
+1084,15/16,James Holland,43158,26,Australien,FK Austria Wien,14,MSV Duisburg,52,Deutschland,0.0,2.Liga
+1085,15/16,Heinz Lindner,59082,24,Österreich,FK Austria Wien,14,Eintracht Frankfurt,24,Deutschland,0.0,1.Liga
+1086,15/16,Christian Ramsebner,37820,26,Österreich,FK Austria Wien,14,LASK,413,Österreich,0.0,2.Liga
+1087,15/16,Sascha Horvath,186365,18,Österreich,FK Austria Wien,14,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1088,15/16,Florian Mader,2881,32,Österreich,FK Austria Wien,14,SKN St. Pölten,2662,Österreich,0.0,2.Liga
+1089,15/16,Martin Harrer,80164,23,Österreich,FK Austria Wien,14,SCR Altach,3551,Österreich,0.0,1.Liga
+1090,15/16,Philipp Koblischek,101635,23,Österreich,FK Austria Wien,14,SV Horn,10044,Österreich,0.0,3.Liga
+1091,15/16,Peter Michorl,158106,20,Österreich,FK Austria Wien,14,LASK,413,Österreich,0.0,2.Liga
+1092,15/16,Sebastian Wimmer,130745,21,Österreich,FK Austria Wien,14,VfL Wolfsburg II,143,Deutschland,0.0,4.Liga
+1093,15/16,Daniel Royer,74762,25,Österreich,FK Austria Wien,14,FC Midtjylland,865,Dänemark,0.0,1.Liga
+1094,15/16,Ola Kamara,62067,26,Norwegen,FK Austria Wien,14,Columbus Crew SC,813,Vereinigte Staaten,0.0,
+1095,15/16,Cican Stankovic,127679,22,Österreich,SV Grödig,10131,Red Bull Salzburg,409,Österreich,1250000.0,1.Liga
+1096,15/16,Lucas Venuto,327912,20,Brasilien,SV Grödig,10131,FK Austria Wien,14,Österreich,500000.0,1.Liga
+1097,15/16,Philipp Huspek,59057,24,Österreich,SV Grödig,10131,SK Rapid Wien,170,Österreich,0.0,1.Liga
+1098,15/16,Maximilian Karner,35078,25,Österreich,SV Grödig,10131,Levski Sofia,156,Bulgarien,0.0,1.Liga
+1099,15/16,Ione Cabrera,45771,29,Spanien,SV Grödig,10131,LASK,413,Österreich,0.0,2.Liga
+1100,15/16,Adnan Adilovic,214983,21,Österreich,SV Grödig,10131,FC Kufstein,2235,Österreich,0.0,3.Liga
+1101,15/16,Sunday Emmanuel,336874,23,Nigeria,SV Grödig,10131,CD Feirense,3349,Portugal,0.0,2.Liga
+1102,15/16,Simon Handle,106265,22,Deutschland,SV Grödig,10131,FC Erzgebirge Aue,94,Deutschland,0.0,3.Liga
+1103,15/16,Marvin Potzmann,106869,21,Österreich,SV Grödig,10131,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1104,15/16,Stefan Nutz,106171,23,Österreich,SV Grödig,10131,SK Rapid Wien,170,Österreich,0.0,1.Liga
+1105,15/16,Tomi Correa,71554,30,Spanien,SV Grödig,10131,SK Rapid Wien,170,Österreich,0.0,1.Liga
+1106,15/16,Christoph Martschinko,120191,21,Österreich,SV Grödig,10131,TSG 1899 Hoffenheim,533,Deutschland,0.0,1.Liga
+1107,15/16,Bernd Gschweidl,167350,20,Österreich,SV Grödig,10131,SKN St. Pölten,2662,Österreich,0.0,2.Liga
+1108,15/16,Stefan Posch,223974,18,Österreich,FC Admira Wacker Mödling,503,TSG 1899 Hoffenheim U19,8925,Deutschland,200000.0,Jugendliga
+1109,15/16,Markus Katzer,2826,35,Österreich,FC Admira Wacker Mödling,503,First Vienna FC,2364,Österreich,0.0,3.Liga
+1110,15/16,Stephan Auer,82527,24,Österreich,FC Admira Wacker Mödling,503,SK Rapid Wien,170,Österreich,0.0,1.Liga
+1111,15/16,Dominik Burusic,104644,22,Österreich,FC Admira Wacker Mödling,503,SV Stripfing,20296,Österreich,0.0,5.Liga
+1112,15/16,Bernhard Schachner,25792,29,Österreich,FC Admira Wacker Mödling,503,SV Stripfing,20296,Österreich,0.0,5.Liga
+1113,15/16,Benjamin Sulimani,34736,26,Österreich,FC Admira Wacker Mödling,503,SV Grödig,10131,Österreich,0.0,1.Liga
+1114,15/16,Richard Windbichler,74770,24,Österreich,FC Admira Wacker Mödling,503,FK Austria Wien,14,Österreich,0.0,1.Liga
+1115,15/16,Issiaka Ouedraogo,81130,27,Burkina Faso,FC Admira Wacker Mödling,503,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1116,15/16,Konstantin Kerschbaumer,81694,23,Österreich,FC Admira Wacker Mödling,503,FC Brentford,1148,England,0.0,2.Liga
+1117,15/16,Oliver Pranjic,181723,21,Österreich,FC Admira Wacker Mödling,503,SV Horn,10044,Österreich,0.0,3.Liga
+1118,15/16,Karim Onisiwo,119234,23,Österreich,SV Mattersburg,856,1.FSV Mainz 05,39,Deutschland,0.0,1.Liga
+1119,16/17,Naby Keïta,302215,21,Guinea,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,29750000.0,1.Liga
+1120,16/17,Dayot Upamecano,344695,18,Frankreich,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,18500000.0,1.Liga
+1121,16/17,Jonathan Soriano,7893,31,Spanien,Red Bull Salzburg,409,Beijing Guoan,3176,China,15000000.0,1.Liga
+1122,16/17,Martin Hinteregger,85789,23,Österreich,Red Bull Salzburg,409,FC Augsburg,167,Deutschland,10500000.0,1.Liga
+1123,16/17,Bernardo,364258,21,Brasilien,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,6000000.0,1.Liga
+1124,16/17,Peter Ankersen,146889,25,Dänemark,Red Bull Salzburg,409,FC Kopenhagen,190,Dänemark,1500000.0,Playoff/Relegation
+1125,16/17,Benno Schmitz,160968,21,Deutschland,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,800000.0,1.Liga
+1126,16/17,Yordy Reyna,200779,23,Peru,Red Bull Salzburg,409,Vancouver Whitecaps FC,6321,Vereinigte Staaten,0.0,
+1127,16/17,Florian Kainz,106270,23,Österreich,SK Rapid Wien,170,SV Werder Bremen,86,Deutschland,3500000.0,1.Liga
+1128,16/17,Stefan Stangl,84537,24,Österreich,SK Rapid Wien,170,Red Bull Salzburg,409,Österreich,1650000.0,1.Liga
+1129,16/17,Thanos Petsos,82110,25,Griechenland,SK Rapid Wien,170,SV Werder Bremen,86,Deutschland,0.0,1.Liga
+1130,16/17,Deni Alar,42004,26,Österreich,SK Rapid Wien,170,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1131,16/17,Michael Schimpelsberger,59185,25,Österreich,SK Rapid Wien,170,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+1132,16/17,Philipp Huspek,59057,25,Österreich,SK Rapid Wien,170,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1133,16/17,Stefan Nutz,106171,24,Österreich,SK Rapid Wien,170,SV Ried,266,Österreich,0.0,1.Liga
+1134,16/17,Dominik Starkl,158214,22,Österreich,SK Rapid Wien,170,FC Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+1135,16/17,Roi Kehat,32928,24,Israel,FK Austria Wien,14,Maccabi Haifa,1064,Israel,1000000.0,1.Liga
+1136,16/17,Marco Meilinger,79607,24,Österreich,FK Austria Wien,14,Aalborg BK,1053,Dänemark,0.0,1.Liga
+1137,16/17,Vance Sikov,24976,30,Nordmazedonien,FK Austria Wien,14,Neftchi Baku,8031,Aserbaidschan,0.0,1.Liga
+1138,16/17,Fabian Koch,59069,27,Österreich,FK Austria Wien,14,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1139,16/17,Alexander Gorgon,45425,27,Österreich,FK Austria Wien,14,HNK Rijeka,144,Kroatien,0.0,1.Liga
+1140,16/17,Marco Stark,108418,23,Österreich,FK Austria Wien,14,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+1141,16/17,Marios Pechlivanis,379782,21,Zypern,FK Austria Wien,14,Olympiakos Nikosia,1402,Zypern,0.0,
+1142,16/17,Richard Windbichler,74770,25,Österreich,FK Austria Wien,14,Ulsan Hyundai,3535,Südkorea,0.0,1.Liga
+1143,16/17,Jörg Siebenhandl,59009,26,Österreich,FC Admira Wacker Mödling,503,Würzburger Kickers,1557,Deutschland,500000.0,2.Liga
+1144,16/17,Philipp Malicsek,223969,19,Österreich,FC Admira Wacker Mödling,503,SK Rapid Wien,170,Österreich,400000.0,1.Liga
+1145,16/17,Christoph Schösswendter,68379,27,Österreich,FC Admira Wacker Mödling,503,SK Rapid Wien,170,Österreich,0.0,1.Liga
+1146,16/17,Andreas Dlopst,147399,22,Österreich,FC Admira Wacker Mödling,503,ATSV Wolfsberg,18140,Österreich,0.0,3.Liga
+1147,16/17,Daniel Gremsl,119230,23,Österreich,FC Admira Wacker Mödling,503,TSV Hartberg,4467,Österreich,0.0,3.Liga
+1148,16/17,Peter Zulj,128105,23,Österreich,FC Admira Wacker Mödling,503,SV Ried,266,Österreich,0.0,1.Liga
+1149,16/17,Markus Rusek,158155,22,Österreich,FC Admira Wacker Mödling,503,SC Wiener Neustadt,17444,Österreich,0.0,2.Liga
+1150,16/17,René Schicker,6143,31,Österreich,FC Admira Wacker Mödling,503,SV Stripfing,20296,Österreich,0.0,4.Liga
+1151,16/17,Marvin Egho,274984,22,Österreich,FC Admira Wacker Mödling,503,SV Ried,266,Österreich,0.0,1.Liga
+1152,16/17,Uros Matic,90885,26,Serbien,SK Sturm Graz,122,FC Kopenhagen,190,Dänemark,3000000.0,Playoff/Relegation
+1153,16/17,Michael Madl,20381,28,Österreich,SK Sturm Graz,122,FC Fulham,931,England,1500000.0,2.Liga
+1154,16/17,Bright Edomwonyi,229857,22,Nigeria,SK Sturm Graz,122,Caykur Rizespor,126,Türkei,1200000.0,1.Liga
+1155,16/17,Michael Esser,61989,28,Deutschland,SK Sturm Graz,122,SV Darmstadt 98,105,Deutschland,350000.0,1.Liga
+1156,16/17,David Schloffer,106273,24,Österreich,SK Sturm Graz,122,FSV Wacker Nordhausen,490,Deutschland,0.0,4.Liga
+1157,16/17,Wilson Kamavuaka,55512,26,DR Kongo,SK Sturm Graz,122,Panetolikos GFS,6418,Griechenland,0.0,1.Liga
+1158,16/17,Andreas Pfingstner,111462,23,Österreich,SK Sturm Graz,122,SC Wiener Neustadt,17444,Österreich,0.0,2.Liga
+1159,16/17,Thorsten Schick,55574,26,Österreich,SK Sturm Graz,122,BSC Young Boys,452,Schweiz,0.0,1.Liga
+1160,16/17,Daniel Offenbacher,83505,24,Österreich,SK Sturm Graz,122,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1161,16/17,Christian Klem,58948,25,Österreich,SK Sturm Graz,122,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1162,16/17,Tanju Kayhan,56026,26,Österreich,SK Sturm Graz,122,Göztepe,1467,Türkei,0.0,2.Liga
+1163,16/17,David Schnaderbeck,140158,24,Österreich,SK Sturm Graz,122,SV Lebring,21429,Österreich,0.0,4.Liga
+1164,16/17,Danijel Klaric,184425,21,Kroatien,SK Sturm Graz,122,Fidelis Andria,4085,Italien,0.0,3.Liga
+1165,16/17,Issiaka Ouedraogo,81130,27,Burkina Faso,Wolfsberger AC,4441,Hatta Club,17195,Vereinigte Arabische Emirate,300000.0,1.Liga
+1166,16/17,Manuel Seidl,56052,27,Österreich,Wolfsberger AC,4441,SV Mattersburg,856,Österreich,0.0,1.Liga
+1167,16/17,Ibrahim Bingöl,155052,22,Österreich,Wolfsberger AC,4441,Keciörengücü,12388,Türkei,0.0,3.Liga
+1168,16/17,Roland Putsche,80223,25,Österreich,Wolfsberger AC,4441,Cape Town City FC ,2303,Südafrika,0.0,1.Liga
+1169,16/17,Carlos Silvio,38192,31,Brasilien,Wolfsberger AC,4441,FC Winterthur,242,Schweiz,0.0,2.Liga
+1170,16/17,Michael Berger,106141,26,Österreich,Wolfsberger AC,4441,Floridsdorfer AC,7443,Österreich,0.0,2.Liga
+1171,16/17,Petar Filipovic,85922,25,Deutschland,SV Ried,266,FK Austria Wien,14,Österreich,300000.0,1.Liga
+1172,16/17,Manuel Gavilán,67537,25,Spanien,SV Ried,266,CD Eldense,12567,Spanien,0.0,3.Liga
+1173,16/17,Markus Schöller,163686,21,Österreich,SV Ried,266,SV Schalding-Heining,9624,Deutschland,0.0,4.Liga
+1174,16/17,Daniel Sikorski,30615,28,Österreich,SV Ried,266,FK Khimki,3719,Russland,0.0,2.Liga
+1175,16/17,Niklas Kölbl,296511,18,Österreich,SV Ried,266,SPG FC Pasching/LASK Linz Juniors,935,Österreich,0.0,3.Liga
+1176,16/17,Michele Polverino,19863,31,Liechtenstein,SV Ried,266,FC Rapperswil-Jona,8463,Schweiz,0.0,3.Liga
+1177,16/17,Julian Baumgartner,158084,21,Österreich,SV Ried,266,SV Wallern,2232,Österreich,0.0,4.Liga
+1178,16/17,Jakob Kreuzer,159582,21,Österreich,SV Ried,266,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+1179,16/17,Denis Streker,132323,25,Deutschland,SV Ried,266,FSV Frankfurt,293,Deutschland,0.0,3.Liga
+1180,16/17,Luca Mayr-Fälten,202415,20,Österreich,SV Ried,266,South Carolina Gamecocks (University of SC),9781,Vereinigte Staaten,0.0,
+1181,16/17,Felix Roth,38439,28,Deutschland,SCR Altach,3551,SC Freiburg II,245,Deutschland,0.0,5.Liga
+1182,16/17,Alexander Pöllhuber,18727,31,Österreich,SCR Altach,3551,SK Bischofshofen,4436,Österreich,0.0,4.Liga
+1183,16/17,Dominik Hofbauer,49718,25,Österreich,SCR Altach,3551,Arka Gdynia,6107,Polen,0.0,1.Liga
+1184,16/17,Martin Schwärzler,156704,21,Österreich,SCR Altach,3551,FC Bizau,9815,Österreich,0.0,4.Liga
+1185,16/17,Mihret Topcagic,53522,28,Österreich,SCR Altach,3551,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1186,16/17,César Ortiz,68896,27,Spanien,SCR Altach,3551,SV Mattersburg,856,Österreich,0.0,1.Liga
+1187,16/17,Manuel Prietl,152317,24,Österreich,SV Mattersburg,856,Arminia Bielefeld,10,Deutschland,0.0,2.Liga
+1188,16/17,Ingo Klemen,40723,29,Österreich,SV Mattersburg,856,SV Stripfing,20296,Österreich,0.0,4.Liga
+1189,16/17,Alexander Taschner,167352,21,Österreich,SV Mattersburg,856,SV Stegersbach,9128,Österreich,0.0,4.Liga
+1190,16/17,Cheikhou Dieng,225536,22,Senegal,SKN St. Pölten,2662,Basaksehir FK,6890,Türkei,500000.0,1.Liga
+1191,16/17,Burak Yilmaz,164148,21,Österreich,SKN St. Pölten,2662,SK Austria Klagenfurt,28760,Österreich,0.0,3.Liga
+1192,16/17,Tomasz Wisio,3013,35,Polen,SKN St. Pölten,2662,GKS Katowice,6456,Polen,0.0,2.Liga
+1193,16/17,Andreas Dober,16158,30,Österreich,SKN St. Pölten,2662,SK Rapid Wien II,7001,Österreich,0.0,3.Liga
+1194,16/17,Alhassane Keita,197734,24,Guinea,SKN St. Pölten,2662,CS Marítimo,1301,Portugal,0.0,1.Liga
+1195,16/17,Dani Segovia,128708,31,Spanien,SKN St. Pölten,2662,Neftchi Baku,8031,Aserbaidschan,0.0,1.Liga
+1196,16/17,Jeroen Lumu,203914,21,Niederlande,SKN St. Pölten,2662,Samsunspor,152,Türkei,0.0,2.Liga
+1197,16/17,Michael Drga,163292,21,Österreich,SKN St. Pölten,2662,SV Mattersburg II (-2020),7557,Österreich,0.0,4.Liga
+1198,16/17,Bernd Gschweidl,167350,20,Österreich,SKN St. Pölten,2662,SC Wiener Neustadt,17444,Österreich,0.0,2.Liga
+1199,16/17,Mark Prettenthaler,28949,33,Österreich,SKN St. Pölten,2662,SC Mannsdorf,19578,Österreich,0.0,3.Liga
+1200,16/17,Patrick Schagerl,129030,23,Österreich,SKN St. Pölten,2662,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+1201,16/17,Oliver Markoutz,159116,21,Österreich,SKN St. Pölten,2662,Floridsdorfer AC,7443,Österreich,0.0,2.Liga
+1202,16/17,Christian Hayden,151193,22,Österreich,SKN St. Pölten,2662,SK Austria Klagenfurt,28760,Österreich,0.0,3.Liga
+1203,16/17,Andree Neumayer,241817,20,Österreich,SKN St. Pölten,2662,SV Würmla,7002,Österreich,0.0,4.Liga
+1204,16/17,Sebastian Starkl,199479,20,Österreich,SKN St. Pölten,2662,Kremser SC,2082,Österreich,0.0,4.Liga
+1205,16/17,Florian Mader,2881,34,Österreich,SKN St. Pölten,2662,WSG Wattens,2446,Österreich,0.0,2.Liga
+1206,16/17,Bartolomej Kuru,6859,29,Österreich,SKN St. Pölten,2662,ASK-BSC Bruck/Leitha,14601,Österreich,0.0,4.Liga
+1207,16/17,Kai Heerings,86270,27,Niederlande,SKN St. Pölten,2662,FC 08 Homburg,459,Deutschland,0.0,4.Liga
+1208,16/17,Jannick Schibany,106871,23,Österreich,SKN St. Pölten,2662,First Vienna FC,2364,Österreich,0.0,3.Liga
+1209,17/18,Wanderson,236202,22,Brasilien,Red Bull Salzburg,409,FK Krasnodar,16704,Russland,8000000.0,1.Liga
+1210,17/18,Konrad Laimer,223967,20,Österreich,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,7000000.0,1.Liga
+1211,17/18,Paulo Miranda,80499,29,Brasilien,Red Bull Salzburg,409,Grêmio Porto Alegre,210,Brasilien,800000.0,1.Liga
+1212,17/18,Christian Schwegler,4931,33,Schweiz,Red Bull Salzburg,409,FC Luzern,434,Schweiz,0.0,1.Liga
+1213,17/18,Ante Roguljic,226090,21,Kroatien,Red Bull Salzburg,409,Pafos FC,45457,Zypern,0.0,1.Liga
+1214,17/18,Michael Brandner,159095,22,Österreich,Red Bull Salzburg,409,SC Wiener Neustadt,17444,Österreich,0.0,2.Liga
+1215,17/18,Lawrence Ati Zigi,254285,20,Ghana,Red Bull Salzburg,409,FC Sochaux-Montbéliard,750,Frankreich,0.0,2.Liga
+1216,17/18,Josip Radosevic,160506,23,Kroatien,Red Bull Salzburg,409,HNK Hajduk Split,447,Kroatien,0.0,1.Liga
+1217,17/18,Olarenwaju Kayode,131694,24,Nigeria,FK Austria Wien,14,Manchester City,281,England,3800000.0,1.Liga
+1218,17/18,Petar Filipovic,85922,26,Deutschland,FK Austria Wien,14,Konyaspor,2293,Türkei,1250000.0,1.Liga
+1219,17/18,Jens Stryger Larsen,69646,26,Dänemark,FK Austria Wien,14,Udinese Calcio,410,Italien,500000.0,1.Liga
+1220,17/18,Tino Casali,169271,21,Österreich,FK Austria Wien,14,SV Mattersburg,856,Österreich,0.0,1.Liga
+1221,17/18,Marko Kvasina,240778,20,Österreich,FK Austria Wien,14,FC Twente Enschede,317,Niederlande,0.0,1.Liga
+1222,17/18,Ismael Tajouri-Shradi,158120,23,Libyen,FK Austria Wien,14,New York City FC,40058,Vereinigte Staaten,0.0,
+1223,17/18,Charalampos Lykogiannis,136514,24,Griechenland,SK Sturm Graz,122,Cagliari Calcio,1390,Italien,800000.0,1.Liga
+1224,17/18,Romano Schmid,346853,17,Österreich,SK Sturm Graz,122,Red Bull Salzburg,409,Österreich,600000.0,1.Liga
+1225,17/18,Sascha Horvath,186365,20,Österreich,SK Sturm Graz,122,SG Dynamo Dresden,129,Deutschland,400000.0,2.Liga
+1226,17/18,Benjamin Rosenberger,197084,21,Österreich,SK Sturm Graz,122,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+1227,17/18,Andreas Gruber,194477,22,Österreich,SK Sturm Graz,122,SV Mattersburg,856,Österreich,0.0,1.Liga
+1228,17/18,Marko Stankovic,17042,31,Österreich,SK Sturm Graz,122,SV Ried,266,Österreich,0.0,2.Liga
+1229,17/18,Simon Piesinger,89541,25,Österreich,SK Sturm Graz,122,SCR Altach,3551,Österreich,0.0,1.Liga
+1230,17/18,Seifedin Chabbi,106862,23,Österreich,SK Sturm Graz,122,SV Ried,266,Österreich,0.0,2.Liga
+1231,17/18,Kristijan Dobras,59031,24,Österreich,SK Sturm Graz,122,SCR Altach,3551,Österreich,0.0,1.Liga
+1232,17/18,Nicolas Moumi Ngamaleu,266768,23,Kamerun,SCR Altach,3551,BSC Young Boys,452,Schweiz,2500000.0,1.Liga
+1233,17/18,Lucas Galvão,104540,26,Brasilien,SCR Altach,3551,SK Rapid Wien,170,Österreich,700000.0,1.Liga
+1234,17/18,Nikola Dovedan,120189,22,Österreich,SCR Altach,3551,1.FC Heidenheim 1846,2036,Deutschland,400000.0,2.Liga
+1235,17/18,Martin Harrer,80164,25,Österreich,SCR Altach,3551,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+1236,17/18,Emanuel Sakic,75413,26,Österreich,SCR Altach,3551,Atromitos Athen,3060,Griechenland,0.0,1.Liga
+1237,17/18,Stefan Umjenovic,181725,21,Österreich,SCR Altach,3551,Floridsdorfer AC,7443,Österreich,0.0,2.Liga
+1238,17/18,Daniel Luxbacher,81710,25,Österreich,SCR Altach,3551,SKN St. Pölten,2662,Österreich,0.0,1.Liga
+1239,17/18,Lukas Jäger,120206,23,Österreich,SCR Altach,3551,1.FC Nürnberg,4,Deutschland,0.0,2.Liga
+1240,17/18,Gabriel Lüchinger,159714,24,Schweiz,SCR Altach,3551,SV Ried,266,Österreich,0.0,2.Liga
+1241,17/18,Christian Schilling,85792,25,Österreich,SCR Altach,3551,SV Ried,266,Österreich,0.0,2.Liga
+1242,17/18,Maximilian Wöber,263361,19,Österreich,SK Rapid Wien,170,Ajax Amsterdam,610,Niederlande,7500000.0,1.Liga
+1243,17/18,Srdjan Grahovac,123158,25,Bosnien-Herzegowina,SK Rapid Wien,170,FC Astana,22220,Kasachstan,700000.0,1.Liga
+1244,17/18,Thomas Schrammel,37648,30,Österreich,SK Rapid Wien,170,SK Sturm Graz,122,Österreich,250000.0,1.Liga
+1245,17/18,Christoph Schösswendter,68379,28,Österreich,SK Rapid Wien,170,1.FC Union Berlin,89,Deutschland,30000.0,2.Liga
+1246,17/18,Zsolt Rátkai,265220,19,Ungarn,SK Rapid Wien,170,FCM Traiskirchen,20113,Österreich,0.0,3.Liga
+1247,17/18,Jan Novota,50316,33,Slowakei,SK Rapid Wien,170,Debreceni VSC,84,Ungarn,0.0,1.Liga
+1248,17/18,Philipp Prosenik,81714,24,Österreich,SK Rapid Wien,170,SV Ried,266,Österreich,0.0,2.Liga
+1249,17/18,Eren Keles,275003,23,Österreich,SK Rapid Wien,170,SKN St. Pölten,2662,Österreich,0.0,1.Liga
+1250,17/18,Arnór Ingvi Traustason,153237,24,Island,SK Rapid Wien,170,Malmö FF,496,Schweden,0.0,1.Liga
+1251,17/18,Christoph Monschein,300095,24,Österreich,FC Admira Wacker Mödling,503,FK Austria Wien,14,Österreich,600000.0,1.Liga
+1252,17/18,Christoph Knasmüllner,59068,25,Österreich,FC Admira Wacker Mödling,503,FC Barnsley,349,England,500000.0,2.Liga
+1253,17/18,Dzon Delarge,192801,27,Kongo,FC Admira Wacker Mödling,503,Bursaspor,20,Türkei,400000.0,1.Liga
+1254,17/18,Nico Löffler,271050,19,Österreich,FC Admira Wacker Mödling,503,VfB Lübeck,78,Deutschland,0.0,4.Liga
+1255,17/18,Toni Vastic,82544,24,Österreich,FC Admira Wacker Mödling,503,FK Austria Wien II,4383,Österreich,0.0,3.Liga
+1256,17/18,Markus Pavic,274940,22,Österreich,FC Admira Wacker Mödling,503,NK Rudes,11083,Kroatien,0.0,1.Liga
+1257,17/18,Ilter Ayyildiz,115284,25,Österreich,FC Admira Wacker Mödling,503,Amed SK,12382,Türkei,0.0,3.Liga
+1258,17/18,Srdjan Spiridonovic,124774,23,Österreich,FC Admira Wacker Mödling,503,Panionios Athen,169,Griechenland,0.0,1.Liga
+1259,17/18,Mustafa Yavuz,158124,23,Österreich,FC Admira Wacker Mödling,503,SC Wiener Neustadt,17444,Österreich,0.0,2.Liga
+1260,17/18,Patrick Farkas,81675,24,Österreich,SV Mattersburg,856,Red Bull Salzburg,409,Österreich,0.0,1.Liga
+1261,17/18,Sven Sprangler,181714,22,Österreich,SV Mattersburg,856,TSV Hartberg,4467,Österreich,0.0,2.Liga
+1262,17/18,Julian Rosenstingl,163356,22,Österreich,SV Mattersburg,856,SC Ritzing,7445,Österreich,0.0,
+1263,17/18,Francesco Lovric,158102,21,Deutschland,SV Mattersburg,856,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+1264,17/18,Alexander Ibser,82532,26,Österreich,SV Mattersburg,856,ASK Ebreichsdorf,18519,Österreich,0.0,3.Liga
+1265,17/18,Vitalijs Maksimenko,122152,26,Lettland,SV Mattersburg,856,Bruk-Bet Termalica Nieciecza,15906,Polen,0.0,1.Liga
+1266,17/18,Florian Templ,124055,28,Österreich,SV Mattersburg,856,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+1267,17/18,Thorsten Röcher,174856,26,Österreich,SV Mattersburg,856,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1268,17/18,Michael Drga,163292,22,Österreich,SV Mattersburg,856,SKU Amstetten,12210,Österreich,0.0,3.Liga
+1269,17/18,Peter Tschernegg,85793,24,Österreich,Wolfsberger AC,4441,FC St. Gallen 1879,257,Schweiz,220000.0,1.Liga
+1270,17/18,Tadej Trdina,54248,29,Slowenien,Wolfsberger AC,4441,SV Allerheiligen,10281,Österreich,0.0,3.Liga
+1271,17/18,Philip Hellqvist,62134,26,Schweden,Wolfsberger AC,4441,Kalmar FF,3654,Schweden,0.0,1.Liga
+1272,17/18,Mario Mosböck,245062,21,Österreich,SKN St. Pölten,2662,SC Wiener Neustadt,17444,Österreich,0.0,2.Liga
+1273,17/18,Adi Mehremic,192897,25,Bosnien-Herzegowina,SKN St. Pölten,2662,FK Zeljeznicar Sarajevo,2573,Bosnien-Herzegowina,0.0,
+1274,17/18,Christopher Drazan,45419,26,Österreich,SKN St. Pölten,2662,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+1275,17/18,Lonsana Doumbouya,274061,27,Guinea,SKN St. Pölten,2662,PT Prachuap FC,50659,Thailand,0.0,1.Liga
+1276,17/18,Paul Pirvulescu,81494,28,Rumänien,SKN St. Pölten,2662,Wisla Plock,2118,Polen,0.0,1.Liga
+1277,17/18,Lukas Thürauer,54246,30,Österreich,SKN St. Pölten,2662,Kremser SC,2082,Österreich,0.0,4.Liga
+1278,17/18,Marco Perchtold,45459,28,Österreich,SKN St. Pölten,2662,Grazer AK 1902,316,Österreich,0.0,4.Liga
+1279,17/18,Martin Grasegger,59043,28,Österreich,SKN St. Pölten,2662,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+1280,17/18,Ümit Korkmaz,37977,31,Österreich,SKN St. Pölten,2662,FC Karabakh Wien,24547,Österreich,0.0,3.Liga
+1281,17/18,Marcel Holzmann,54847,26,Österreich,SKN St. Pölten,2662,FC Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+1282,17/18,Manuel Hartl,31189,31,Österreich,SKN St. Pölten,2662,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+1283,17/18,Felix Gschossmann,286798,20,Österreich,SKN St. Pölten,2662,SKU Amstetten,12210,Österreich,0.0,3.Liga
+1284,17/18,Paulo Otávio,221611,22,Brasilien,LASK,413,FC Ingolstadt 04,4795,Deutschland,1350000.0,2.Liga
+1285,17/18,Nikola Dovedan,120189,22,Österreich,LASK,413,SCR Altach,3551,Österreich,100000.0,1.Liga
+1286,17/18,Stefan Hager,158179,22,Österreich,LASK,413,SC Wiener Neustadt,17444,Österreich,0.0,2.Liga
+1287,17/18,Fabian Miesenböck,151525,23,Österreich,LASK,413,SC Wiener Neustadt,17444,Österreich,0.0,2.Liga
+1288,17/18,Manuel Kerhe,52369,30,Österreich,LASK,413,SV Ried,266,Österreich,0.0,2.Liga
+1289,17/18,Maximilian Penz,106867,23,Österreich,LASK,413,SpVgg Neckarelz,8983,Deutschland,0.0,6.Liga
+1290,17/18,Tomas Malec,108426,24,Slowakei,LASK,413,DAC Dunajska Streda,4529,Slowakei,0.0,1.Liga
+1291,18/19,Lucas Venuto,327912,24,Brasilien,FK Austria Wien,14,Vancouver Whitecaps FC,6321,Vereinigte Staaten,400000.0,
+1292,18/19,Raphael Holzhauser,104414,25,Österreich,FK Austria Wien,14,Grasshopper Club Zürich,504,Schweiz,0.0,1.Liga
+1293,18/19,David de Paula,35556,34,Spanien,FK Austria Wien,14,FC Barakaldo,3708,Spanien,0.0,3.Liga
+1294,18/19,Patrizio Stronati,264559,23,Tschechien,FK Austria Wien,14,FC Banik Ostrau,377,Tschechien,0.0,1.Liga
+1295,18/19,Peter Zulj,128105,25,Österreich,SK Sturm Graz,122,RSC Anderlecht,58,Belgien,2500000.0,1.Liga
+1296,18/19,Thorsten Röcher,174856,27,Österreich,SK Sturm Graz,122,FC Ingolstadt 04,4795,Deutschland,1250000.0,2.Liga
+1297,18/19,Deni Alar,42004,28,Österreich,SK Sturm Graz,122,SK Rapid Wien,170,Österreich,600000.0,1.Liga
+1298,18/19,Christian Schulz,1586,35,Deutschland,SK Sturm Graz,122,Hannover 96 II,1065,Deutschland,0.0,4.Liga
+1299,18/19,Marvin Potzmann,106869,24,Österreich,SK Sturm Graz,122,SK Rapid Wien,170,Österreich,0.0,1.Liga
+1300,18/19,James Jeggo,179467,26,Australien,SK Sturm Graz,122,FK Austria Wien,14,Österreich,0.0,1.Liga
+1301,18/19,Patrick Puchegger,207766,23,Österreich,SK Sturm Graz,122,SKN St. Pölten,2662,Österreich,0.0,1.Liga
+1302,18/19,Christian Schoissengeyr,157242,23,Dominikanische Republik,SK Sturm Graz,122,FK Austria Wien,14,Österreich,0.0,1.Liga
+1303,18/19,Marc Andre Schmerböck,145010,24,Österreich,SK Sturm Graz,122,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1304,18/19,Luan,349820,22,Brasilien,SK Sturm Graz,122,SKN St. Pölten,2662,Österreich,0.0,1.Liga
+1305,18/19,Fabian Schubert,276998,24,Österreich,SK Sturm Graz,122,TSV Hartberg,4467,Österreich,0.0,1.Liga
+1306,18/19,Gabriele Piras,365590,19,Italien,SK Sturm Graz,122,SV Lafnitz,19536,Österreich,0.0,2.Liga
+1307,18/19,Dever Orgill,103621,28,Jamaika,Wolfsberger AC,4441,MKE Ankaragücü,868,Türkei,800000.0,1.Liga
+1308,18/19,Raphael Sallinger,225360,22,Österreich,Wolfsberger AC,4441,TSV Hartberg,4467,Österreich,0.0,1.Liga
+1309,18/19,Rene Robitsch,77507,28,Österreich,Wolfsberger AC,4441,SC St. Veit,67711,Österreich,0.0,
+1310,18/19,Florian Flecker,272159,22,Österreich,Wolfsberger AC,4441,TSV Hartberg,4467,Österreich,0.0,1.Liga
+1311,18/19,Stephan Palla,52230,29,Philippinen,Wolfsberger AC,4441,SKN St. Pölten,2662,Österreich,0.0,1.Liga
+1312,18/19,Christoph Rabitsch,204113,22,Österreich,Wolfsberger AC,4441,Dundee United FC,1519,Schottland,0.0,2.Liga
+1313,18/19,Christian Klem,58948,27,Österreich,Wolfsberger AC,4441,SV Lafnitz,19536,Österreich,0.0,2.Liga
+1314,18/19,Dominik Frieser,273553,24,Österreich,Wolfsberger AC,4441,LASK,413,Österreich,0.0,1.Liga
+1315,18/19,Daniel Drescher,49510,28,Österreich,Wolfsberger AC,4441,SKN St. Pölten,2662,Österreich,0.0,1.Liga
+1316,18/19,Daniel Offenbacher,83505,26,Österreich,Wolfsberger AC,4441,FK Suduva Marijampole,8047,Litauen,0.0,1.Liga
+1317,18/19,Mihret Topcagic,53522,30,Österreich,Wolfsberger AC,4441,FK Suduva Marijampole,8047,Litauen,0.0,1.Liga
+1318,18/19,Issiaka Ouedraogo,81130,29,Burkina Faso,Wolfsberger AC,4441,SKN St. Pölten,2662,Österreich,0.0,1.Liga
+1319,18/19,Amadou Haidara,402008,20,Mali,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,19000000.0,1.Liga
+1320,18/19,Duje Caleta-Car,238266,21,Kroatien,Red Bull Salzburg,409,Olympique Marseille,244,Frankreich,19000000.0,1.Liga
+1321,18/19,Valentino Lazaro,186368,22,Österreich,Red Bull Salzburg,409,Hertha BSC,44,Deutschland,10500000.0,1.Liga
+1322,18/19,Valon Berisha,145115,25,Kosovo,Red Bull Salzburg,409,Lazio Rom,398,Italien,7600000.0,1.Liga
+1323,18/19,Dimitri Oberlin,212718,20,Schweiz,Red Bull Salzburg,409,FC Basel 1893,26,Schweiz,4100000.0,1.Liga
+1324,18/19,Romano Schmid,346853,18,Österreich,Red Bull Salzburg,409,SV Werder Bremen,86,Deutschland,1000000.0,1.Liga
+1325,18/19,Reinhold Yabo,74856,26,Deutschland,Red Bull Salzburg,409,Arminia Bielefeld,10,Deutschland,250000.0,2.Liga
+1326,18/19,Airton,377799,24,Brasilien,Red Bull Salzburg,409,Esporte Clube Pelotas (RS),27288,Brasilien,0.0,
+1327,18/19,Marc Rzatkowski,53681,28,Deutschland,Red Bull Salzburg,409,New York Red Bulls,623,Vereinigte Staaten,0.0,
+1328,18/19,Marco Djuricin,92989,25,Österreich,Red Bull Salzburg,409,Grasshopper Club Zürich,504,Schweiz,0.0,1.Liga
+1329,18/19,Pavao Pervan,51977,30,Österreich,LASK,413,VfL Wolfsburg,82,Deutschland,500000.0,1.Liga
+1330,18/19,René Gartler,14825,32,Österreich,LASK,413,SKN St. Pölten,2662,Österreich,0.0,1.Liga
+1331,18/19,Alexander Riemann,79822,26,Deutschland,LASK,413,VfL Osnabrück,81,Deutschland,0.0,3.Liga
+1332,18/19,Filip Dmitrovic,241764,22,Serbien,LASK,413,SV Ried,266,Österreich,0.0,2.Liga
+1333,18/19,Tobias Pellegrini,186372,22,Österreich,LASK,413,WSC Hertha Wels,23158,Österreich,0.0,3.Liga
+1334,18/19,Rajko Rep,80525,28,Slowenien,LASK,413,TSV Hartberg,4467,Österreich,0.0,1.Liga
+1335,18/19,Lukas Grgic,224871,22,Österreich,LASK,413,SV Ried,266,Österreich,0.0,2.Liga
+1336,18/19,Martin Adamec,344998,19,Slowakei,SKN St. Pölten,2662,Jagiellonia Bialystok,2300,Polen,0.0,
+1337,18/19,Damir Mehmedovic,286601,21,Österreich,SKN St. Pölten,2662,SV Lafnitz,19536,Österreich,0.0,2.Liga
+1338,18/19,Osarenren Okungbowa,165407,24,Österreich,SKN St. Pölten,2662,Floridsdorfer AC,7443,Österreich,0.0,2.Liga
+1339,18/19,Eren Keles,275003,24,Österreich,SKN St. Pölten,2662,Adanaspor,6,Türkei,0.0,2.Liga
+1340,18/19,Michael Huber,72146,28,Österreich,SKN St. Pölten,2662,TSV Hartberg,4467,Österreich,0.0,1.Liga
+1341,18/19,Manuel Martic,203645,22,Österreich,SKN St. Pölten,2662,SK Rapid Wien,170,Österreich,0.0,1.Liga
+1342,18/19,David Stec,181715,24,Österreich,SKN St. Pölten,2662,Pogon Stettin,324,Polen,0.0,
+1343,18/19,Daniel Nussbaumer,307824,18,Österreich,SCR Altach,3551,VfB Stuttgart II,102,Deutschland,0.0,4.Liga
+1344,18/19,Bernhard Janeczek,76565,26,Österreich,SCR Altach,3551,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+1345,18/19,Patrick Salomon,51541,30,Österreich,SCR Altach,3551,SV Mattersburg,856,Österreich,0.0,1.Liga
+1346,18/19,Nikola Zivotic,218354,22,Österreich,SCR Altach,3551,SV Lafnitz,19536,Österreich,0.0,2.Liga
+1347,18/19,Boris Prokopic,48076,30,Österreich,SCR Altach,3551,FC Vaduz,163,Schweiz,0.0,2.Liga
+1348,18/19,Albert Vallci,261935,23,Österreich,FC Wacker Innsbruck,2444,Red Bull Salzburg,409,Österreich,750000.0,1.Liga
+1349,18/19,Dominik Baumgartner,206906,22,Österreich,FC Wacker Innsbruck,2444,VfL Bochum,80,Deutschland,300000.0,2.Liga
+1350,18/19,Florian Jamnig,50690,27,Österreich,FC Wacker Innsbruck,2444,LASK,413,Österreich,250000.0,1.Liga
+1351,18/19,Harald Pichler,37592,31,Österreich,FC Wacker Innsbruck,2444,Klagenfurter AC 1909,1525,Österreich,0.0,4.Liga
+1352,18/19,Dimitry Imbongo,81533,28,Frankreich,FC Wacker Innsbruck,2444,Alemannia Aachen,8,Deutschland,0.0,4.Liga
+1353,18/19,Sebastian Pointner,265522,22,Österreich,FC Wacker Innsbruck,2444,FC Kitzbühel,20437,Österreich,0.0,3.Liga
+1354,18/19,Michael Novak,77487,27,Österreich,SV Mattersburg,856,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1355,18/19,Markus Böcskör,6178,35,Österreich,SV Mattersburg,856,SC Bad Sauerbrunn,20332,Österreich,0.0,4.Liga
+1356,18/19,Markus Pink,78006,27,Österreich,SV Mattersburg,856,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1357,18/19,Daniel Kerschbaumer,77554,29,Österreich,SV Mattersburg,856,SK Vorwärts Steyr,1521,Österreich,0.0,2.Liga
+1358,18/19,Manuel Maranda,287995,20,Österreich,FC Admira Wacker Mödling,503,FC Wacker Innsbruck II,18344,Österreich,0.0,2.Liga
+1359,18/19,Martin Kraus,147661,25,Österreich,FC Admira Wacker Mödling,503,SC Neusiedl/See,9114,Österreich,0.0,3.Liga
+1360,18/19,Alexander Merkel,86926,26,Kasachstan,FC Admira Wacker Mödling,503,Heracles Almelo,1304,Niederlande,0.0,1.Liga
+1361,18/19,Dennis Verwüster,263360,20,Österreich,FC Admira Wacker Mödling,503,FC Mauerwerk,24547,Österreich,0.0,3.Liga
+1362,18/19,Maximilian Sax,115072,25,Österreich,FC Admira Wacker Mödling,503,FK Austria Wien,14,Österreich,0.0,1.Liga
+1363,18/19,Macky Bagnack,166662,23,Kamerun,FC Admira Wacker Mödling,503,NK Olimpija Ljubljana,4772,Slowenien,0.0,1.Liga
+1364,18/19,Thomas Ebner,122781,26,Österreich,FC Admira Wacker Mödling,503,FK Austria Wien,14,Österreich,0.0,1.Liga
+1365,18/19,Ione Cabrera,45771,32,Spanien,FC Admira Wacker Mödling,503,WSG Wattens,2446,Österreich,0.0,2.Liga
+1366,18/19,Markus Lackner,82536,27,Österreich,FC Admira Wacker Mödling,503,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1367,18/19,Markus Wostry,122792,25,Österreich,FC Admira Wacker Mödling,503,LASK,413,Österreich,0.0,1.Liga
+1368,18/19,Lukas Grozurek,75829,26,Österreich,FC Admira Wacker Mödling,503,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1369,18/19,Louis Schaub,147485,23,Österreich,SK Rapid Wien,170,1.FC Köln,3,Deutschland,3500000.0,2.Liga
+1370,18/19,Giorgi Kvilitaia,186233,24,Georgien,SK Rapid Wien,170,KAA Gent,157,Belgien,3000000.0,1.Liga
+1371,18/19,Lucas Galvão,104540,27,Brasilien,SK Rapid Wien,170,FC Ingolstadt 04,4795,Deutschland,2400000.0,2.Liga
+1372,18/19,Veton Berisha,181985,24,Norwegen,SK Rapid Wien,170,SK Brann,1100,Norwegen,800000.0,1.Liga
+1373,18/19,Aleksandar Kostic,263654,23,Österreich,SK Rapid Wien,170,FK Radnicki Nis,7567,Serbien,0.0,
+1374,18/19,Philipp Malicsek,223969,21,Österreich,SK Rapid Wien,170,Floridsdorfer AC,7443,Österreich,0.0,2.Liga
+1375,18/19,Mario Pavelic,106866,24,Österreich,SK Rapid Wien,170,HNK Rijeka,144,Kroatien,0.0,1.Liga
+1376,18/19,Andreas Kuen,186798,23,Österreich,SK Rapid Wien,170,SV Mattersburg,856,Österreich,0.0,1.Liga
+1377,18/19,Matej Jelic,49188,27,Kroatien,SK Rapid Wien,170,Slaven Belupo Koprivnica,2362,Kroatien,0.0,1.Liga
+1378,18/19,Jérémy Guillemenot,290016,21,Schweiz,SK Rapid Wien,170,FC St. Gallen 1879,257,Schweiz,0.0,1.Liga
+1379,18/19,Christoph Haas,157390,26,Österreich,SK Rapid Wien,170,SV Horn,10044,Österreich,0.0,2.Liga
+1380,18/19,Stefan Meusburger,230574,24,Österreich,TSV Hartberg,4467,FC Wacker Innsbruck,2444,Österreich,0.0,1.Liga
+1381,18/19,Maximilian Mayer,307637,19,Österreich,TSV Hartberg,4467,Floridsdorfer AC,7443,Österreich,0.0,2.Liga
+1382,18/19,David Zink,277089,26,Österreich,TSV Hartberg,4467,SC Kalsdorf,2466,Österreich,0.0,3.Liga
+1383,18/19,Adin Husic,332121,22,Bosnien-Herzegowina,TSV Hartberg,4467,TUS Bad Waltersdorf,18143,Österreich,0.0,
+1384,18/19,Roko Mislov,50808,30,Kroatien,TSV Hartberg,4467,SKN St. Pölten,2662,Österreich,0.0,1.Liga
+1385,18/19,Sven Sprangler,181714,23,Österreich,TSV Hartberg,4467,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1386,18/19,Stefan Gölles,307381,26,Österreich,TSV Hartberg,4467,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1387,18/19,Manfred Gollner,89055,27,Österreich,TSV Hartberg,4467,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1388,18/19,Manfred Fischer,269093,22,Österreich,TSV Hartberg,4467,SCR Altach,3551,Österreich,0.0,1.Liga
+1389,19/20,Dario Maresic,307807,19,Österreich,SK Sturm Graz,122,Stade Reims,1421,Frankreich,3000000.0,1.Liga
+1390,19/20,Raphael Obermair,330699,23,Philippinen,SK Sturm Graz,122,FC Carl Zeiss Jena,113,Deutschland,0.0,3.Liga
+1391,19/20,Philipp Hosiner,37788,30,Österreich,SK Sturm Graz,122,Chemnitzer FC,21,Deutschland,0.0,3.Liga
+1392,19/20,Fabian Ehmann,290088,20,Österreich,SK Sturm Graz,122,Aris Thessaloniki,605,Griechenland,0.0,1.Liga
+1393,19/20,Filipe Ferreira,182936,28,Portugal,SK Sturm Graz,122,CD Tondela,7179,Portugal,0.0,1.Liga
+1394,19/20,Sandi Lovric,268429,21,Slowenien,SK Sturm Graz,122,FC Lugano,2790,Schweiz,0.0,1.Liga
+1395,19/20,Lukas Skrivanek,223981,22,Österreich,SK Sturm Graz,122,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+1396,19/20,Oliver Filip,263347,21,Österreich,SK Sturm Graz,122,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+1397,19/20,Fabian Koch,59069,30,Österreich,SK Sturm Graz,122,WSG Tirol,2446,Österreich,0.0,1.Liga
+1398,19/20,Markus Pink,78006,28,Österreich,SK Sturm Graz,122,FC Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+1399,19/20,Mert Müldür,353922,20,Türkei,SK Rapid Wien,170,US Sassuolo,6574,Italien,4700000.0,1.Liga
+1400,19/20,Boli Bolingoli,168156,24,Belgien,SK Rapid Wien,170,Celtic Glasgow,371,Schottland,3340000.0,1.Liga
+1401,19/20,Aliou Badji,479589,22,Senegal,SK Rapid Wien,170,El Ahly Kairo,7,Ägypten,2000000.0,1.Liga
+1402,19/20,Marvin Potzmann,106869,25,Österreich,SK Rapid Wien,170,LASK,413,Österreich,500000.0,1.Liga
+1403,19/20,Alex Sobczyk,287191,22,Österreich,SK Rapid Wien,170,Spartak Trnava,365,Slowakei,0.0,1.Liga
+1404,19/20,Albin Gashi,223958,22,Österreich,SK Rapid Wien,170,Floridsdorfer AC,7443,Österreich,0.0,2.Liga
+1405,19/20,Ivan Mocinic,191819,26,Kroatien,SK Rapid Wien,170,NK Istra 1961,999,Kroatien,0.0,1.Liga
+1406,19/20,Manuel Martic,203645,24,Österreich,SK Rapid Wien,170,NK Inter Zapresic,918,Kroatien,0.0,1.Liga
+1407,19/20,Manuel Thurnwald,307485,21,Österreich,SK Rapid Wien,170,SCR Altach,3551,Österreich,0.0,1.Liga
+1408,19/20,Erling Haaland,418560,19,Norwegen,Red Bull Salzburg,409,Borussia Dortmund,16,Deutschland,20000000.0,1.Liga
+1409,19/20,Munas Dabbur,145866,27,Israel,Red Bull Salzburg,409,FC Sevilla,368,Spanien,17000000.0,1.Liga
+1410,19/20,Diadié Samassékou,315604,23,Mali,Red Bull Salzburg,409,TSG 1899 Hoffenheim,533,Deutschland,14000000.0,1.Liga
+1411,19/20,Stefan Lainer,85791,26,Österreich,Red Bull Salzburg,409,Borussia Mönchengladbach,18,Deutschland,12500000.0,1.Liga
+1412,19/20,Hannes Wolf,321070,20,Österreich,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,12000000.0,1.Liga
+1413,19/20,Xaver Schlager,223979,21,Österreich,Red Bull Salzburg,409,VfL Wolfsburg,82,Deutschland,12000000.0,1.Liga
+1414,19/20,Marin Pongracic,282144,22,Kroatien,Red Bull Salzburg,409,VfL Wolfsburg,82,Deutschland,9000000.0,1.Liga
+1415,19/20,Takumi Minamino,165793,24,Japan,Red Bull Salzburg,409,FC Liverpool,31,England,8500000.0,1.Liga
+1416,19/20,Anderson Niangbo,294814,20,Elfenbeinküste,Red Bull Salzburg,409,KAA Gent,157,Belgien,4000000.0,1.Liga
+1417,19/20,Igor,380350,21,Brasilien,Red Bull Salzburg,409,SPAL,2722,Italien,3000000.0,1.Liga
+1418,19/20,Mathias Honsak,283497,22,Österreich,Red Bull Salzburg,409,SV Darmstadt 98,105,Deutschland,750000.0,2.Liga
+1419,19/20,David Atanga,254284,22,Ghana,Red Bull Salzburg,409,Holstein Kiel,269,Deutschland,500000.0,2.Liga
+1420,19/20,Asger Sörensen,260846,23,Dänemark,Red Bull Salzburg,409,1.FC Nürnberg,4,Deutschland,500000.0,2.Liga
+1421,19/20,Fredrik Gulbrandsen,110708,26,Norwegen,Red Bull Salzburg,409,Basaksehir FK,6890,Türkei,0.0,1.Liga
+1422,19/20,Christoph Leitgeb,29695,34,Österreich,Red Bull Salzburg,409,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1423,19/20,Mahamadou Dembélé,394326,20,Frankreich,Red Bull Salzburg,409,ESTAC Troyes,1095,Frankreich,0.0,2.Liga
+1424,19/20,Victor Sá,381724,25,Brasilien,LASK,413,VfL Wolfsburg,82,Deutschland,3500000.0,1.Liga
+1425,19/20,Maximilian Ullmann,239934,23,Österreich,LASK,413,SK Rapid Wien,170,Österreich,600000.0,1.Liga
+1426,19/20,Bruno,367255,25,Brasilien,LASK,413,Olympiakos Piräus,683,Griechenland,500000.0,1.Liga
+1427,19/20,Florian Jamnig,50690,28,Österreich,LASK,413,SCR Altach,3551,Österreich,200000.0,1.Liga
+1428,19/20,Dogan Erdogan,239733,22,Türkei,LASK,413,Trabzonspor,449,Türkei,200000.0,1.Liga
+1429,19/20,Andriko Smolinski,333645,19,Deutschland,LASK,413,Hannover 96 II,1065,Deutschland,0.0,4.Liga
+1430,19/20,Ugochukwu Oduenyi,450196,23,Nigeria,LASK,413,SV Ried,266,Österreich,0.0,2.Liga
+1431,19/20,Kyle Butler,418130,21,Jamaika,LASK,413,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+1432,19/20,Markus Blutsch,159571,24,Österreich,LASK,413,ASKÖ Oedt,24830,Österreich,0.0,4.Liga
+1433,19/20,Nicolas Schmid,291097,22,Österreich,LASK,413,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+1434,19/20,Kennedy Boateng,451317,22,Togo,LASK,413,SV Ried,266,Österreich,0.0,2.Liga
+1435,19/20,Dusan Jokovic,541372,20,Serbien,LASK,413,NK Lokomotiva Zagreb,11194,Kroatien,0.0,1.Liga
+1436,19/20,Yusuf Otubanjo,131710,27,Nigeria,LASK,413,FC Ararat-Armenia,53453,Armenien,0.0,1.Liga
+1437,19/20,Michael Sollbauer,74179,29,Österreich,Wolfsberger AC,4441,FC Barnsley,349,England,600000.0,2.Liga
+1438,19/20,Marcel Ritzmaier,84162,26,Österreich,Wolfsberger AC,4441,FC Barnsley,349,England,500000.0,2.Liga
+1439,19/20,Bernd Gschweidl,167350,23,Österreich,Wolfsberger AC,4441,SCR Altach,3551,Österreich,0.0,1.Liga
+1440,19/20,Gerald Nutz,159158,25,Österreich,Wolfsberger AC,4441,Grazer AK 1902,316,Österreich,0.0,2.Liga
+1441,19/20,Sasa Jovanovic,143564,26,Serbien,Wolfsberger AC,4441,FK Indjija,11044,Serbien,0.0,1.Liga
+1442,19/20,Ash Kigbu,380912,20,England,Wolfsberger AC,4441,Stoke City U21,24219,England,0.0,
+1443,19/20,Fabian Schubert,276998,24,Österreich,TSV Hartberg,4467,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+1444,19/20,Tino-Sven Susic,140790,27,Bosnien-Herzegowina,TSV Hartberg,4467,FK Sarajevo,282,Bosnien-Herzegowina,0.0,1.Liga
+1445,19/20,Christian Ilic,297198,22,Kroatien,TSV Hartberg,4467,Motherwell FC,987,Schottland,0.0,1.Liga
+1446,19/20,Florian Sittsam,158159,24,Österreich,TSV Hartberg,4467,SV Horn,10044,Österreich,0.0,2.Liga
+1447,19/20,Marcel Holzer,289053,20,Österreich,TSV Hartberg,4467,Wolfsberger AC II,33549,Österreich,0.0,3.Liga
+1448,19/20,Florian Flecker,272159,23,Österreich,TSV Hartberg,4467,1.FC Union Berlin,89,Deutschland,0.0,1.Liga
+1449,19/20,Nino Köpf,394029,19,Österreich,TSV Hartberg,4467,Deutschlandsberger SC,10979,Österreich,0.0,3.Liga
+1450,19/20,Tarkan Serbest,158118,25,Türkei,FK Austria Wien,14,Kasimpasa,10484,Türkei,350000.0,1.Liga
+1451,19/20,Thomas Salamon,50574,30,Österreich,FK Austria Wien,14,SV Horn,10044,Österreich,0.0,2.Liga
+1452,19/20,Kevin Friesenbichler,106848,25,Österreich,FK Austria Wien,14,VfL Osnabrück,81,Deutschland,0.0,2.Liga
+1453,19/20,Petar Gluhakovic,186361,23,Österreich,FK Austria Wien,14,NK Lokomotiva Zagreb,11194,Kroatien,0.0,1.Liga
+1454,19/20,Mohammed Kadiri,442942,23,Ghana,FK Austria Wien,14,Dynamo Kiew,338,Ukraine,0.0,1.Liga
+1455,19/20,Sasa Kalajdzic,369567,21,Österreich,FC Admira Wacker Mödling,503,VfB Stuttgart,79,Deutschland,6000000.0,2.Liga
+1456,19/20,Patrick Schmidt,297590,21,Österreich,FC Admira Wacker Mödling,503,FC Barnsley,349,England,1200000.0,2.Liga
+1457,19/20,Marin Jakolis,261963,22,Kroatien,FC Admira Wacker Mödling,503,HNK Hajduk Split,447,Kroatien,100000.0,1.Liga
+1458,19/20,Stephan Zwierschitz,81701,28,Österreich,FC Admira Wacker Mödling,503,FK Austria Wien,14,Österreich,0.0,1.Liga
+1459,19/20,Manuel Kuttin,91410,25,Österreich,FC Admira Wacker Mödling,503,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1460,19/20,Pyry Soiri,224458,24,Finnland,FC Admira Wacker Mödling,503,Esbjerg fB,3426,Dänemark,0.0,1.Liga
+1461,19/20,Rene Renner,212333,25,Österreich,SV Mattersburg,856,LASK,413,Österreich,500000.0,1.Liga
+1462,19/20,Philipp Prosenik,81714,26,Österreich,SV Mattersburg,856,Floridsdorfer AC,7443,Österreich,0.0,2.Liga
+1463,19/20,Michael Perlak,53439,33,Österreich,SV Mattersburg,856,1. Wiener Neustädter SC,17444,Österreich,0.0,3.Liga
+1464,19/20,Jefté Betancor,198015,25,Spanien,SV Mattersburg,856,SV Ried,266,Österreich,0.0,2.Liga
+1465,19/20,César Ortiz,68896,30,Spanien,SV Mattersburg,856,CD Toledo,2929,Spanien,0.0,
+1466,19/20,Raffael Behounek,321095,22,Österreich,SV Mattersburg,856,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+1467,19/20,Andreas Dober,16158,33,Österreich,WSG Tirol,2446,ASV Siegendorf,18291,Österreich,0.0,4.Liga
+1468,19/20,David Stoppacher,286821,22,Österreich,WSG Tirol,2446,Dunarea Calarasi,37239,Rumänien,0.0,2.Liga
+1469,19/20,Milan Jurdik,131974,28,Tschechien,WSG Tirol,2446,Floridsdorfer AC,7443,Österreich,0.0,2.Liga
+1470,19/20,Lukas Katnik,45977,30,Österreich,WSG Tirol,2446,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+1471,19/20,Husein Balic,241803,23,Österreich,SKN St. Pölten,2662,LASK,413,Österreich,300000.0,1.Liga
+1472,19/20,Taxiarchis Fountas,192409,23,Griechenland,SKN St. Pölten,2662,SK Rapid Wien,170,Österreich,0.0,1.Liga
+1473,19/20,Roko Mislov,50808,31,Kroatien,SKN St. Pölten,2662,Miedz Legnica,8936,Polen,0.0,2.Liga
+1474,19/20,Roope Riski,107577,28,Finnland,SKN St. Pölten,2662,HJK Helsinki,1008,Finnland,0.0,1.Liga
+1475,19/20,René Gartler,14825,34,Österreich,SKN St. Pölten,2662,FC Juniors OÖ,935,Österreich,0.0,2.Liga
+1476,19/20,Manuel Haas,186363,23,Österreich,SKN St. Pölten,2662,NK Inter Zapresic,918,Kroatien,0.0,1.Liga
+1477,19/20,Aleksandar Vucenovic,384224,22,Österreich,SKN St. Pölten,2662,SKF Sered,31297,Slowakei,0.0,1.Liga
+1478,19/20,Kristijan Dobras,59031,26,Österreich,SCR Altach,3551,Melbourne Victory,7006,Australien,0.0,1.Liga
+1479,19/20,Brian Mwila,513871,25,Sambia,SCR Altach,3551,F91 Düdelingen,853,Luxemburg,0.0,1.Liga
+1480,19/20,Bernd Gschweidl,167350,24,Österreich,SCR Altach,3551,SV Ried,266,Österreich,0.0,2.Liga
+1481,19/20,Matthias Puschl,241695,23,Österreich,SCR Altach,3551,SV Lafnitz,19536,Österreich,0.0,2.Liga
+1482,19/20,Volkan Akyildiz,332537,24,Türkei,SCR Altach,3551,Nazilli Belediyespor,13473,Türkei,0.0,4.Liga
+1483,19/20,Andreas Lukse,29586,31,Österreich,SCR Altach,3551,1.FC Nürnberg,4,Deutschland,0.0,2.Liga
+1484,19/20,Stefan Nutz,106171,27,Österreich,SCR Altach,3551,SV Ried,266,Österreich,0.0,2.Liga
+1485,19/20,Sherko Karim,295469,23,Irak,SCR Altach,3551,Al-Shorta SC,13593,Irak,0.0,
+1486,19/20,Benedikt Zech,83616,28,Österreich,SCR Altach,3551,Pogon Stettin,324,Polen,0.0,1.Liga
+1487,19/20,Adrian Grbic,167342,22,Österreich,SCR Altach,3551,Clermont Foot 63,3524,Frankreich,0.0,2.Liga
+1488,19/20,Andreas Lienhart,32394,33,Österreich,SCR Altach,3551,TSV Hartberg,4467,Österreich,0.0,1.Liga
+1489,19/20,Simon Piesinger,89541,27,Österreich,SCR Altach,3551,Randers FC,5724,Dänemark,0.0,1.Liga
+1490,19/20,Valentino Müller,307817,20,Österreich,SCR Altach,3551,LASK,413,Österreich,0.0,1.Liga
+1491,19/20,Michael Cheukoua,514366,22,Kamerun,SCR Altach,3551,SV Horn,10044,Österreich,0.0,2.Liga
+1492,20/21,Emanuel Sakic,75413,29,Österreich,SK Sturm Graz,122,Aris Thessaloniki,605,Griechenland,100000.0,1.Liga
+1493,20/21,Anastasios Avlonitis,60164,30,Griechenland,SK Sturm Graz,122,Ascoli Calcio,408,Italien,0.0,2.Liga
+1494,20/21,Lukas Grozurek,75829,28,Österreich,SK Sturm Graz,122,SKN St. Pölten,2662,Österreich,0.0,1.Liga
+1495,20/21,Markus Lackner,82536,29,Österreich,SK Sturm Graz,122,SV Ried,266,Österreich,0.0,1.Liga
+1496,20/21,Lukas Fadinger,394018,19,Österreich,SK Sturm Graz,122,TSV Hartberg,4467,Österreich,0.0,1.Liga
+1497,20/21,Juan Domínguez,72195,30,Spanien,SK Sturm Graz,122,PAS Giannina,2671,Griechenland,0.0,1.Liga
+1498,20/21,Isaac Donkor,240197,25,Ghana,SK Sturm Graz,122,Adanaspor,6,Türkei,0.0,2.Liga
+1499,20/21,Lukas Spendlhofer,126114,27,Österreich,SK Sturm Graz,122,Ascoli Calcio,408,Italien,0.0,2.Liga
+1500,20/21,Emeka Eze,498517,24,Nigeria,SK Sturm Graz,122,Ankara Keciörengücü,12388,Türkei,0.0,2.Liga
+1501,20/21,Thomas Murg,153190,25,Österreich,SK Rapid Wien,170,PAOK Thessaloniki,1091,Griechenland,2000000.0,1.Liga
+1502,20/21,Andrija Pavlovic,188131,26,Serbien,SK Rapid Wien,170,Bröndby IF,206,Dänemark,67000.0,Playoff/Relegation
+1503,20/21,Stefan Schwab,79612,29,Österreich,SK Rapid Wien,170,PAOK Thessaloniki,1091,Griechenland,0.0,1.Liga
+1504,20/21,Stephan Auer,82527,29,Österreich,SK Rapid Wien,170,FC Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+1505,20/21,Melih Ibrahimoglu,391555,20,Türkei,SK Rapid Wien,170,Heracles Almelo,1304,Niederlande,0.0,1.Liga
+1506,20/21,Dominik Szoboszlai,451276,20,Ungarn,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,22000000.0,1.Liga
+1507,20/21,Hee-chan Hwang,292246,24,Südkorea,Red Bull Salzburg,409,RasenBallsport Leipzig,23826,Deutschland,12000000.0,1.Liga
+1508,20/21,Smail Prevljak,328264,25,Bosnien-Herzegowina,Red Bull Salzburg,409,KAS Eupen,1245,Belgien,2000000.0,1.Liga
+1509,20/21,Luca Meisl,307641,21,Österreich,Red Bull Salzburg,409,SV Ried,266,Österreich,0.0,1.Liga
+1510,20/21,Dominik Frieser,273553,26,Österreich,LASK,413,FC Barnsley,349,England,800000.0,2.Liga
+1511,20/21,Stefan Haudum,156681,26,Österreich,LASK,413,SCR Altach,3551,Österreich,275000.0,1.Liga
+1512,20/21,Reuben Acquah,254280,23,Ghana,LASK,413,NK Lokomotiva Zagreb,11194,Kroatien,0.0,1.Liga
+1513,20/21,Markus Wostry,122792,28,Österreich,LASK,413,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+1514,20/21,Felix Luckeneder,156691,26,Österreich,LASK,413,TSV Hartberg,4467,Österreich,0.0,1.Liga
+1515,20/21,Kelvin Yeboah,589737,20,Italien,WSG Tirol,2446,SK Sturm Graz,122,Österreich,1200000.0,1.Liga
+1516,20/21,Clemens Walch,37831,33,Österreich,WSG Tirol,2446,SPG Silz/Mötz,32174,Österreich,0.0,4.Liga
+1517,20/21,Lukas Grgic,224871,24,Österreich,WSG Tirol,2446,LASK,413,Österreich,0.0,1.Liga
+1518,20/21,Stefan Maierhofer,32660,37,Österreich,WSG Tirol,2446,FC Admira Wacker Mödling,503,Österreich,0.0,1.Liga
+1519,20/21,Michael Svoboda,438961,21,Österreich,WSG Tirol,2446,Venezia FC,607,Italien,0.0,2.Liga
+1520,20/21,Dino Kovacec,238281,26,Kroatien,WSG Tirol,2446,SKU Amstetten,12210,Österreich,0.0,2.Liga
+1521,20/21,Sebastian Santin,192082,26,Österreich,WSG Tirol,2446,FC Vaduz,163,Schweiz,0.0,1.Liga
+1522,20/21,Shon Weissman,247652,24,Israel,Wolfsberger AC,4441,Real Valladolid,366,Spanien,4000000.0,1.Liga
+1523,20/21,Lukas Schmitz,49867,31,Deutschland,Wolfsberger AC,4441,VVV-Venlo,1426,Niederlande,0.0,1.Liga
+1524,20/21,Manfred Gollner,89055,29,Österreich,Wolfsberger AC,4441,TSV Hartberg,4467,Österreich,0.0,1.Liga
+1525,20/21,Stefan Gölles,307381,28,Österreich,Wolfsberger AC,4441,TSV Hartberg,4467,Österreich,0.0,1.Liga
+1526,20/21,Marc Andre Schmerböck,145010,26,Österreich,Wolfsberger AC,4441,TSV Hartberg,4467,Österreich,0.0,1.Liga
+1527,20/21,Alexandar Borkovic,321050,21,Österreich,FK Austria Wien,14,TSG 1899 Hoffenheim II,983,Deutschland,600000.0,4.Liga
+1528,20/21,James Jeggo,179467,28,Australien,FK Austria Wien,14,Aris Thessaloniki,605,Griechenland,0.0,1.Liga
+1529,20/21,Caner Cavlan,136550,28,Niederlande,FK Austria Wien,14,FC Emmen,1283,Niederlande,0.0,1.Liga
+1530,20/21,Alon Turgeman,177249,29,Israel,FK Austria Wien,14,Hapoel Haifa,810,Israel,0.0,1.Liga
+1531,20/21,Nemanja Zikic,321892,20,Serbien,SV Ried,266,SV Wals-Grünau,18627,Österreich,0.0,3.Liga
+1532,20/21,Flavio,313478,24,Kap Verde,SV Ried,266,Floridsdorfer AC,7443,Österreich,0.0,2.Liga
+1533,20/21,Canillas,383246,24,Spanien,SV Ried,266,FC Algeciras,3705,Spanien,0.0,
+1534,20/21,Jefté Betancor,198015,27,Spanien,SV Ried,266,FC Voluntari,40843,Rumänien,0.0,1.Liga
+1535,20/21,Mario Vojkovic,220727,25,Österreich,SV Ried,266,NK Istra 1961,999,Kroatien,0.0,1.Liga
+1536,20/21,Ivan Kovacec,156629,32,Kroatien,SV Ried,266,NK Zagorec,11195,Kroatien,0.0,
+1537,20/21,Valentin Grubeck,159581,25,Österreich,SV Ried,266,SKU Amstetten,12210,Österreich,0.0,2.Liga
+1538,20/21,Arne Ammerer,240653,24,Österreich,SV Ried,266,SKU Amstetten,12210,Österreich,0.0,2.Liga
+1539,20/21,Sinan Bakis,134631,26,Türkei,FC Admira Wacker Mödling,503,Heracles Almelo,1304,Niederlande,600000.0,1.Liga
+1540,20/21,Morten Hjulmand,461496,21,Dänemark,FC Admira Wacker Mödling,503,US Lecce,1005,Italien,170000.0,2.Liga
+1541,20/21,Markus Pink,78006,29,Österreich,FC Admira Wacker Mödling,503,SK Austria Klagenfurt,28760,Österreich,0.0,2.Liga
+1542,20/21,Stefan Maierhofer,32660,38,Österreich,FC Admira Wacker Mödling,503,Würzburger Kickers,1557,Deutschland,0.0,2.Liga
+1543,20/21,Seth Paintsil,372813,24,Ghana,FC Admira Wacker Mödling,503,SV Ried,266,Österreich,0.0,1.Liga
+1544,20/21,Jonathan Scherzer,196782,25,Österreich,FC Admira Wacker Mödling,503,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1545,20/21,Kolja Pusch,85946,27,Deutschland,FC Admira Wacker Mödling,503,KFC Uerdingen 05,95,Deutschland,0.0,3.Liga
+1546,20/21,Fabian Menig,124507,26,Deutschland,FC Admira Wacker Mödling,503,Hallescher FC,440,Deutschland,0.0,3.Liga
+1547,20/21,Daniel Toth,51097,33,Österreich,FC Admira Wacker Mödling,503,SV Stripfing,20296,Österreich,0.0,3.Liga
+1548,20/21,Fabio Strauss,154140,26,Österreich,FC Admira Wacker Mödling,503,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+1549,20/21,Muhammed Cham,422281,20,Österreich,FC Admira Wacker Mödling,503,Clermont Foot 63,3524,Frankreich,0.0,2.Liga
+1550,20/21,Sandro Ingolitsch,286627,23,Österreich,SKN St. Pölten,2662,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1551,20/21,Lukas Grozurek,75829,29,Österreich,SKN St. Pölten,2662,Dinamo Batumi,11344,Georgien,0.0,1.Liga
+1552,20/21,Alan,515639,23,Brasilien,SKN St. Pölten,2662,Kasimpasa,10484,Türkei,0.0,1.Liga
+1553,20/21,Patrick Puchegger,207766,25,Österreich,SKN St. Pölten,2662,SKU Amstetten,12210,Österreich,0.0,2.Liga
+1554,20/21,Lukas Wackerle,193764,24,Österreich,SKN St. Pölten,2662,SC Schwaz,17663,Österreich,0.0,3.Liga
+1555,20/21,Lorenz Grabovac,278216,23,Österreich,SKN St. Pölten,2662,First Vienna FC,2364,Österreich,0.0,4.Liga
+1556,20/21,Nico Gorzel,307591,22,Deutschland,SKN St. Pölten,2662,Türkgücü München,12456,Deutschland,0.0,3.Liga
+1557,20/21,Matthias Maak,102271,28,Österreich,SCR Altach,3551,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+1558,20/21,Florian Jamnig,50690,29,Österreich,SCR Altach,3551,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+1559,20/21,Benjamin Ozegovic,319825,21,Österreich,SCR Altach,3551,WSG Tirol,2446,Österreich,0.0,1.Liga
+1560,20/21,Sidney Sam,39102,32,Deutschland,SCR Altach,3551,Antalyaspor,589,Türkei,0.0,1.Liga
+1561,20/21,Christian Gebauer,275423,26,Österreich,SCR Altach,3551,Arminia Bielefeld,10,Deutschland,0.0,1.Liga
+1562,20/21,Philipp Schmiedl,246063,23,Österreich,SCR Altach,3551,SönderjyskE,5817,Dänemark,0.0,Playoff/Relegation
+1563,20/21,Alexander Burgstaller,307554,21,Österreich,TSV Hartberg,4467,FC Wacker Innsbruck II,18344,Österreich,0.0,3.Liga
+1564,20/21,Borna Petrovic,375859,22,Kroatien,TSV Hartberg,4467,NK Varazdin,599,Kroatien,0.0,1.Liga
+1565,20/21,David Cancola,228879,23,Österreich,TSV Hartberg,4467,FC Slovan Liberec,697,Tschechien,0.0,1.Liga
+1566,20/21,Peter Tschernegg,85793,28,Österreich,TSV Hartberg,4467,Grazer AK 1902,316,Österreich,0.0,2.Liga
+1567,20/21,Siegfried Rasswalder,33889,33,Österreich,TSV Hartberg,4467,ESV Knittelfeld,27453,Österreich,0.0,
+1568,20/21,Sandro Gotal,68010,29,Österreich,TSV Hartberg,4467,SV Donaustauf,33844,Deutschland,0.0,5.Liga
+1569,20/21,Manuel Pfeifer,354069,20,Österreich,TSV Hartberg,4467,SV Lafnitz II,49839,Österreich,0.0,4.Liga
+1570,20/21,Christoph Kröpfl,46055,30,Österreich,TSV Hartberg,4467,SV Lafnitz,19536,Österreich,0.0,2.Liga
+1571,20/21,Jodel Dossou,221151,28,Benin,TSV Hartberg,4467,Clermont Foot 63,3524,Frankreich,0.0,2.Liga
+1572,20/21,Lukas Gabbichler,341762,22,Österreich,TSV Hartberg,4467,Grazer AK 1902,316,Österreich,0.0,2.Liga
+1573,21/22,Benedikt Pichler,331362,24,Österreich,FK Austria Wien,14,Holstein Kiel,269,Deutschland,1000000.0,2.Liga
+1574,21/22,Patrick Wimmer,533295,20,Österreich,FK Austria Wien,14,Arminia Bielefeld,10,Deutschland,700000.0,1.Liga
+1575,21/22,Agim Zeka,342824,22,Albanien,FK Austria Wien,14,FC Drita Gjilan,33741,Kosovo,0.0,1.Liga
+1576,21/22,Manprit Sarkaria,288690,24,Österreich,FK Austria Wien,14,SK Sturm Graz,122,Österreich,0.0,
+1577,21/22,Stephan Zwierschitz,81701,30,Österreich,FK Austria Wien,14,FC Admira Wacker Mödling,503,Österreich,0.0,
+1578,21/22,Stefan Radulovic,527529,19,Österreich,FK Austria Wien,14,LASK,413,Österreich,0.0,
+1579,21/22,Christoph Monschein,300095,28,Österreich,FK Austria Wien,14,LASK,413,Österreich,0.0,
+1580,21/22,Maudo Jarjué,450462,24,Gambia,FK Austria Wien,14,IF Elfsborg,1101,Schweden,0.0,1.Liga
+1581,21/22,Kelvin Yeboah,589737,21,Italien,SK Sturm Graz,122,Genua CFC,252,Italien,6500000.0,1.Liga
+1582,21/22,Kevin Friesenbichler,106848,27,Österreich,SK Sturm Graz,122,FK RFS,33783,Lettland,0.0,1.Liga
+1583,21/22,Bekim Balaj,99137,30,Albanien,SK Sturm Graz,122,FK Nizhniy Novgorod,49702,Russland,0.0,1.Liga
+1584,21/22,Michael John Lema,317450,21,Österreich,SK Sturm Graz,122,TSV Hartberg,4467,Österreich,0.0,
+1585,21/22,Tobias Koch,434103,20,Österreich,SK Sturm Graz,122,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+1586,21/22,Oliver Bacher,357748,21,Österreich,SK Sturm Graz,122,First Vienna FC,2364,Österreich,0.0,3.Liga
+1587,21/22,Winfred Amoah,394020,21,Österreich,SK Sturm Graz,122,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+1588,21/22,Ercan Kara,320701,26,Österreich,SK Rapid Wien,170,Orlando City SC,45604,Vereinigte Staaten,800000.0,
+1589,21/22,Maximilian Ullmann,239934,25,Österreich,SK Rapid Wien,170,Venezia FC,607,Italien,500000.0,1.Liga
+1590,21/22,Taxiarchis Fountas,192409,26,Griechenland,SK Rapid Wien,170,D.C. United,2440,Vereinigte Staaten,364000.0,
+1591,21/22,Dejan Ljubicic,287188,23,Österreich,SK Rapid Wien,170,1.FC Köln,3,Deutschland,0.0,1.Liga
+1592,21/22,Mario Sonnleitner,18297,34,Österreich,SK Rapid Wien,170,TSV Hartberg,4467,Österreich,0.0,
+1593,21/22,Mateo Barac,329629,26,Kroatien,SK Rapid Wien,170,FK Sochi,41231,Russland,0.0,1.Liga
+1594,21/22,Deni Alar,42004,31,Österreich,SK Rapid Wien,170,SKN St. Pölten,2662,Österreich,0.0,2.Liga
+1595,21/22,Richard Strebinger,93768,29,Österreich,SK Rapid Wien,170,Legia Warschau,255,Polen,0.0,1.Liga
+1596,21/22,Patson Daka,365172,22,Sambia,Red Bull Salzburg,409,Leicester City,1003,England,30000000.0,1.Liga
+1597,21/22,Enock Mwepu,490307,23,Sambia,Red Bull Salzburg,409,Brighton & Hove Albion,1237,England,23000000.0,1.Liga
+1598,21/22,Mergim Berisha,307924,23,Deutschland,Red Bull Salzburg,409,Fenerbahce,36,Türkei,5000000.0,1.Liga
+1599,21/22,André Ramalho,175792,29,Brasilien,Red Bull Salzburg,409,PSV Eindhoven,383,Niederlande,2500000.0,1.Liga
+1600,21/22,Peter Pokorny,490595,19,Slowakei,Red Bull Salzburg,409,Real Sociedad B,9899,Spanien,2000000.0,2.Liga
+1601,21/22,Majeed Ashimeru,360140,23,Ghana,Red Bull Salzburg,409,RSC Anderlecht,58,Belgien,1500000.0,1.Liga
+1602,21/22,Cican Stankovic,127679,28,Österreich,Red Bull Salzburg,409,AEK Athen,2441,Griechenland,1150000.0,1.Liga
+1603,21/22,Masaya Okugawa,307052,25,Japan,Red Bull Salzburg,409,Arminia Bielefeld,10,Deutschland,1000000.0,1.Liga
+1604,21/22,Carlos Coronel,378871,25,Brasilien,Red Bull Salzburg,409,New York Red Bulls,623,Vereinigte Staaten,580000.0,
+1605,21/22,David Affengruber,452483,20,Österreich,Red Bull Salzburg,409,SK Sturm Graz,122,Österreich,400000.0,
+1606,21/22,Patrick Farkas,81675,28,Österreich,Red Bull Salzburg,409,FC Luzern,434,Schweiz,300000.0,1.Liga
+1607,21/22,Luis Phelipe,673830,21,Brasilien,Red Bull Salzburg,409,AC Goianiense,15172,Brasilien,0.0,1.Liga
+1608,21/22,Samuel Tetteh,358752,24,Ghana,Red Bull Salzburg,409,Adanaspor,6,Türkei,0.0,2.Liga
+1609,21/22,Stefan Peric,223973,24,Österreich,Wolfsberger AC,4441,HNK Sibenik,223,Kroatien,0.0,1.Liga
+1610,21/22,Tarik Muharemovic,679423,18,Bosnien-Herzegowina,Wolfsberger AC,4441,Juventus Turin U19,11008,Italien,0.0,Jugendliga
+1611,21/22,Mario Pavelic,106866,27,Österreich,Wolfsberger AC,4441,FK Zalgiris Vilnius,602,Litauen,0.0,1.Liga
+1612,21/22,Cheikhou Dieng,225536,28,Senegal,Wolfsberger AC,4441,Zaglebie Lubin,168,Polen,0.0,1.Liga
+1613,21/22,Gustav Henriksson,368565,23,Schweden,Wolfsberger AC,4441,IF Elfsborg,1101,Schweden,0.0,1.Liga
+1614,21/22,Marcel Holzer,289053,23,Österreich,Wolfsberger AC,4441,Wiener Sport-Club,676,Österreich,0.0,3.Liga
+1615,21/22,Markus Rusek,158155,27,Österreich,SK Austria Klagenfurt,28760,Grazer AK 1902,316,Österreich,0.0,2.Liga
+1616,21/22,Philipp Hütter,55566,31,Österreich,SK Austria Klagenfurt,28760,DSV Leoben,307,Österreich,0.0,4.Liga
+1617,21/22,McMoordy Hüther,397670,22,Deutschland,SK Austria Klagenfurt,28760,VSG Altglienicke,17847,Deutschland,0.0,4.Liga
+1618,21/22,Alexander Killar,598939,19,Österreich,SK Austria Klagenfurt,28760,Annabichler SV,20098,Österreich,0.0,
+1619,21/22,Marco Grüll,391766,22,Österreich,SV Ried,266,SK Rapid Wien,170,Österreich,0.0,
+1620,21/22,Valdir,697809,23,Brasilien,SV Ried,266,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+1621,21/22,Seth Paintsil,372813,25,Ghana,SV Ried,266,TSV Hartberg,4467,Österreich,0.0,
+1622,21/22,Kennedy Boateng,451317,24,Togo,SV Ried,266,CD Santa Clara,2423,Portugal,0.0,1.Liga
+1623,21/22,Reinaldo,901103,23,Brasilien,SV Ried,266,Schwarz-Weiß Bregenz,936,Österreich,0.0,3.Liga
+1624,21/22,Constantin Reiner,286643,24,Österreich,SV Ried,266,Piast Gliwice,6112,Polen,0.0,1.Liga
+1625,21/22,Bernd Gschweidl,167350,25,Österreich,SV Ried,266,SKN St. Pölten,2662,Österreich,0.0,2.Liga
+1626,21/22,Filip Borsos,445038,21,Ungarn,SV Ried,266,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+1627,21/22,Manuel Haas,186363,25,Österreich,SV Ried,266,VfL Osnabrück,81,Deutschland,0.0,3.Liga
+1628,21/22,Mamoudou Karamoko,646782,22,Frankreich,LASK,413,FC Kopenhagen,190,Dänemark,1500000.0,Playoff/Relegation
+1629,21/22,Mads Emil Madsen,422950,23,Dänemark,LASK,413,SK Slavia Prag,62,Tschechien,1000000.0,1.Liga
+1630,21/22,Gernot Trauner,59145,29,Österreich,LASK,413,Feyenoord Rotterdam,234,Niederlande,1000000.0,1.Liga
+1631,21/22,Reinhold Ranftl,83119,29,Österreich,LASK,413,FC Schalke 04,33,Deutschland,650000.0,2.Liga
+1632,21/22,Yevgen Cheberko,343153,23,Ukraine,LASK,413,NK Osijek,327,Kroatien,500000.0,1.Liga
+1633,21/22,David Schnegg,378260,22,Österreich,LASK,413,Venezia FC,607,Italien,250000.0,1.Liga
+1634,21/22,Valentino Müller,307817,22,Österreich,LASK,413,WSG Tirol,2446,Österreich,100000.0,
+1635,21/22,Lukas Grgic,224871,26,Österreich,LASK,413,HNK Hajduk Split,447,Kroatien,100000.0,1.Liga
+1636,21/22,Thomas Turner,316729,23,Österreich,LASK,413,SK Vorwärts Steyr,1521,Österreich,0.0,2.Liga
+1637,21/22,Christian Ramsebner,37820,32,Österreich,LASK,413,SKN St. Pölten,2662,Österreich,0.0,2.Liga
+1638,21/22,Dominik Reiter,307667,23,Österreich,LASK,413,SCR Altach,3551,Österreich,0.0,
+1639,21/22,Emanuel Aiwu,394152,20,Österreich,FC Admira Wacker Mödling,503,SK Rapid Wien,170,Österreich,750000.0,
+1640,21/22,Marco Hausjell,354054,22,Österreich,FC Admira Wacker Mödling,503,Würzburger Kickers,1557,Deutschland,0.0,3.Liga
+1641,21/22,Stephan Auer,82527,31,Österreich,FC Admira Wacker Mödling,503,First Vienna FC,2364,Österreich,0.0,3.Liga
+1642,21/22,Aleksandar Cirkovic,452218,19,Serbien,FC Admira Wacker Mödling,503,Gimnàstic de Tarragona ,5648,Spanien,0.0,3.Liga
+1643,21/22,Christian Gartner,108391,27,Österreich,FC Admira Wacker Mödling,503,Alemannia Aachen,8,Deutschland,0.0,4.Liga
+1644,21/22,Tomislav Tomic,190272,30,Bosnien-Herzegowina,FC Admira Wacker Mödling,503,NK Olimpija Ljubljana,4772,Slowenien,0.0,1.Liga
+1645,21/22,Christoph Haas,157390,28,Österreich,FC Admira Wacker Mödling,503,SV Ried,266,Österreich,0.0,
+1646,21/22,Niko Datkovic,178056,28,Kroatien,FC Admira Wacker Mödling,503,CD Mirandés,13222,Spanien,0.0,2.Liga
+1647,21/22,Rene Hellermann,394103,21,Österreich,FC Admira Wacker Mödling,503,SC Imst,18160,Österreich,0.0,3.Liga
+1648,21/22,Marco Kadlec,394150,21,Österreich,FC Admira Wacker Mödling,503,FC Juniors OÖ,935,Österreich,0.0,2.Liga
+1649,21/22,Luca Kronberger,519011,19,Österreich,FC Admira Wacker Mödling,503,SK Sturm Graz,122,Österreich,0.0,
+1650,21/22,Andrew Wooten,67407,31,Vereinigte Staaten,FC Admira Wacker Mödling,503,VfL Osnabrück,81,Deutschland,0.0,3.Liga
+1651,21/22,Leon Klassen,441987,21,Russland,WSG Tirol,2446,Spartak Moskau,232,Russland,900000.0,1.Liga
+1652,21/22,Nemanja Celic,353899,22,Österreich,WSG Tirol,2446,SV Darmstadt 98,105,Deutschland,400000.0,2.Liga
+1653,21/22,Florian Rieder,317847,25,Österreich,WSG Tirol,2446,SK Austria Klagenfurt,28760,Österreich,0.0,
+1654,21/22,Bruno Soares,104545,32,Brasilien,WSG Tirol,2446,1.FC Saarbrücken,1,Deutschland,0.0,3.Liga
+1655,21/22,Florian Toplitsch,83584,29,Österreich,WSG Tirol,2446,Völser SV,12618,Österreich,0.0,4.Liga
+1656,21/22,David Gugganig,223960,24,Österreich,WSG Tirol,2446,Wolfsberger AC,4441,Österreich,0.0,
+1657,21/22,Stefan Hager,158179,26,Österreich,WSG Tirol,2446,FC Wacker Innsbruck,2444,Österreich,0.0,2.Liga
+1658,21/22,Julian Gölles,339826,21,Österreich,WSG Tirol,2446,FC Blau-Weiß Linz,2157,Österreich,0.0,2.Liga
+1659,21/22,Ignacio Jauregui,282469,25,Argentinien,WSG Tirol,2446,Real Balompédica Linense ,12605,Spanien,0.0,3.Liga
+1660,21/22,Benjamin Pranter,58963,31,Österreich,WSG Tirol,2446,SC Schwaz,17663,Österreich,0.0,3.Liga
+1661,21/22,Thanos Petsos,82110,30,Griechenland,WSG Tirol,2446,FC Riga,48325,Lettland,0.0,1.Liga
+1662,21/22,Aljaz Casar,682519,20,Slowenien,SCR Altach,3551,TSG 1899 Hoffenheim II,983,Deutschland,0.0,4.Liga
+1663,21/22,Manfred Fischer,269093,25,Österreich,SCR Altach,3551,FK Austria Wien,14,Österreich,0.0,
+1664,21/22,Martin Kobras,51719,35,Österreich,SCR Altach,3551,FC Rotenberg,82280,Österreich,0.0,3.Liga
+1665,21/22,Danilo Carando,128477,32,Argentinien,SCR Altach,3551,Club Cienciano,2729,Peru,0.0,1.Liga
+1666,21/22,Danilo Carando,128477,32,Argentinien,SCR Altach,3551,Club Cienciano,2729,Peru,0.0,1.Liga
+1667,21/22,Anderson,494830,24,Brasilien,SCR Altach,3551,SC Austria Lustenau,541,Österreich,0.0,2.Liga
+1668,21/22,Emir Karic,286596,24,Österreich,SCR Altach,3551,SV Darmstadt 98,105,Deutschland,0.0,2.Liga
+1669,21/22,Berkay Dabanli,121528,31,Deutschland,SCR Altach,3551,Kocaelispor,120,Türkei,0.0,2.Liga
+1670,21/22,Daniel Nussbaumer,307824,21,Österreich,SCR Altach,3551,Académico Viseu FC,7788,Portugal,0.0,2.Liga
+1671,21/22,Mario Stefel,356558,25,Österreich,SCR Altach,3551,FC Dornbirn,7448,Österreich,0.0,2.Liga
+1672,21/22,Samuel Oum Gouet,452238,23,Kamerun,SCR Altach,3551,KV Mechelen,354,Belgien,0.0,1.Liga
+1673,21/22,Daniel Maderner,195741,25,Österreich,SCR Altach,3551,Waasland-Beveren,28643,Belgien,0.0,2.Liga
+1674,21/22,Julian Klar,394142,20,Österreich,SCR Altach,3551,SV Horn,10044,Österreich,0.0,2.Liga
+1675,21/22,Sascha Horvath,186365,25,Österreich,TSV Hartberg,4467,LASK,413,Österreich,400000.0,
+1676,21/22,Seifedin Chabbi,106862,27,Österreich,TSV Hartberg,4467,SV Ried,266,Österreich,0.0,
+1677,21/22,Emmanuel Igbonekwu,826497,19,Nigeria,TSV Hartberg,4467,Malmö FF U19,7917,Schweden,0.0,
+1678,21/22,Nemanja Belakovic,348119,25,Serbien,TSV Hartberg,4467,FK Liepaja,43162,Lettland,0.0,1.Liga
+1679,21/22,Bakary Nimaga,257730,26,Mali,TSV Hartberg,4467,Zalaegerszegi TE FC,1391,Ungarn,0.0,1.Liga
+1680,21/22,David Stec,181715,27,Österreich,TSV Hartberg,4467,Lechia Gdansk,4000,Polen,0.0,1.Liga
+1681,21/22,Felix Luckeneder,156691,27,Österreich,TSV Hartberg,4467,LASK,413,Österreich,0.0,
+1682,21/22,Abdoul Yoda,811856,20,Burkina Faso,TSV Hartberg,4467,Hobro IK,5818,Dänemark,0.0,2.Liga
+1683,21/22,Michael John Lema,317450,22,Österreich,TSV Hartberg,4467,SV Lafnitz,19536,Österreich,0.0,2.Liga
+1684,21/22,Rajko Rep,80525,31,Slowenien,TSV Hartberg,4467,Sepsi OSK Sf. Gheorghe,54585,Rumänien,0.0,1.Liga
+1685,21/22,Florian Flecker,272159,25,Österreich,TSV Hartberg,4467,LASK,413,Österreich,0.0,
+1686,21/22,Michael Huber,72146,31,Österreich,TSV Hartberg,4467,Grazer AK 1902,316,Österreich,0.0,2.Liga
+1687,22/23,Brenden Aaronson,393323,21,Vereinigte Staaten,Red Bull Salzburg,409,Leeds United,399,England,32840000.0,1.Liga
+1688,22/23,Karim Adeyemi,496094,20,Deutschland,Red Bull Salzburg,409,Borussia Dortmund,16,Deutschland,30000000.0,1.Liga
+1689,22/23,Mohamed Camara,543382,22,Mali,Red Bull Salzburg,409,AS Monaco,162,Frankreich,15000000.0,1.Liga
+1690,22/23,Rasmus Kristensen,369684,24,Dänemark,Red Bull Salzburg,409,Leeds United,399,England,13000000.0,1.Liga
+1691,22/23,Maximilian Wöber,263361,24,Österreich,Red Bull Salzburg,409,Leeds United,399,England,12000000.0,1.Liga
+1692,22/23,Albert Vallci,261935,27,Österreich,Red Bull Salzburg,409,FC St. Gallen 1879,257,Schweiz,1100000.0,1.Liga
+1693,22/23,Youba Diarra,564451,24,Mali,Red Bull Salzburg,409,FC Cádiz,2687,Spanien,1100000.0,1.Liga
+1694,22/23,Darko Todorovic,293231,25,Bosnien-Herzegowina,Red Bull Salzburg,409,Akhmat Grozny,3725,Russland,400000.0,1.Liga
+1695,22/23,Jasper van der Werff,322519,23,Schweiz,Red Bull Salzburg,409,SC Paderborn 07,127,Deutschland,200000.0,2.Liga
+1696,22/23,Jérôme Onguéné,272638,24,Kamerun,Red Bull Salzburg,409,Eintracht Frankfurt,24,Deutschland,0.0,1.Liga
+1697,22/23,Gideon Mensah,397171,24,Ghana,Red Bull Salzburg,409,AJ Auxerre,290,Frankreich,0.0,1.Liga
+1698,22/23,Ousmane Diakité,402007,22,Mali,Red Bull Salzburg,409,TSV Hartberg,4467,Österreich,0.0,1.Liga
+1699,22/23,Rasmus Højlund,610442,19,Dänemark,SK Sturm Graz,122,Atalanta Bergamo,800,Italien,17000000.0,1.Liga
+1700,22/23,Francisco Mwepu,632872,22,Sambia,SK Sturm Graz,122,FC Cádiz Mirandilla,11669,Spanien,0.0,4.Liga
+1701,22/23,Andreas Kuen,186798,27,Österreich,SK Sturm Graz,122,Atromitos Athen,3060,Griechenland,0.0,1.Liga
+1702,22/23,Lukas Jäger,120206,28,Österreich,SK Sturm Graz,122,SCR Altach,3551,Österreich,0.0,1.Liga
+1703,22/23,Christopher Giuliani,307590,23,Österreich,SK Sturm Graz,122,SV Kapfenberg,2394,Österreich,0.0,2.Liga
+1704,22/23,Vincent Trummer,365589,22,Österreich,SK Sturm Graz,122,SV Lafnitz,19536,Österreich,0.0,2.Liga
+1705,22/23,Markus Suttner,31514,35,Österreich,FK Austria Wien,14,SK Wullersdorf,37051,Österreich,0.0,
+1706,22/23,Vesel Demaku,346846,22,Österreich,FK Austria Wien,14,SK Sturm Graz,122,Österreich,0.0,1.Liga
+1707,22/23,Christian Schoissengeyr,157242,27,Dominikanische Republik,FK Austria Wien,14,NK Domzale,6248,Slowenien,0.0,1.Liga
+1708,22/23,Patrick Pentz,223972,25,Österreich,FK Austria Wien,14,Stade Reims,1421,Frankreich,0.0,1.Liga
+1709,22/23,Ammar Helac,307598,24,Österreich,FK Austria Wien,14,SC Austria Lustenau,541,Österreich,0.0,1.Liga
+1710,22/23,Marco Djuricin,92989,29,Österreich,FK Austria Wien,14,HNK Rijeka,144,Kroatien,0.0,1.Liga
+1711,22/23,Luka Lochoshvili,345189,24,Georgien,Wolfsberger AC,4441,US Cremonese,2239,Italien,1600000.0,1.Liga
+1712,22/23,Michael Liendl,17057,36,Österreich,Wolfsberger AC,4441,Grazer AK 1902,316,Österreich,0.0,2.Liga
+1713,22/23,Alexander Kofler,55569,35,Österreich,Wolfsberger AC,4441,ATUS Velden,32478,Österreich,0.0,
+1714,22/23,Christopher Wernitznig,77117,32,Österreich,Wolfsberger AC,4441,SK Austria Klagenfurt,28760,Österreich,0.0,1.Liga
+1715,22/23,Guram Giorbelidze,330277,26,Georgien,Wolfsberger AC,4441,Zaglebie Lubin,168,Polen,0.0,1.Liga
+1716,22/23,Yusuf Demir,548031,19,Österreich,SK Rapid Wien,170,Galatasaray,141,Türkei,6000000.0,1.Liga
+1717,22/23,Emanuel Aiwu,394152,21,Österreich,SK Rapid Wien,170,US Cremonese,2239,Italien,3500000.0,1.Liga
+1718,22/23,Robert Ljubicic,353634,22,Kroatien,SK Rapid Wien,170,GNK Dinamo Zagreb,419,Kroatien,3000000.0,1.Liga
+1719,22/23,Koya Kitagawa,290705,25,Japan,SK Rapid Wien,170,Shimizu S-Pulse,1062,Japan,450000.0,
+1720,22/23,Benjamin Kanuric,580612,19,Österreich,SK Rapid Wien,170,Arminia Bielefeld,10,Deutschland,300000.0,2.Liga
+1721,22/23,Filip Stojkovic,139751,29,Montenegro,SK Rapid Wien,170,LASK,413,Österreich,0.0,1.Liga
+1722,22/23,Srdjan Grahovac,123158,29,Bosnien-Herzegowina,SK Rapid Wien,170,Caykur Rizespor,126,Türkei,0.0,2.Liga
+1723,22/23,Leo Greiml,434110,20,Österreich,SK Rapid Wien,170,FC Schalke 04,33,Deutschland,0.0,1.Liga
+1724,22/23,Dalibor Velimirovic,437891,21,Österreich,SK Rapid Wien,170,First Vienna FC,2364,Österreich,0.0,2.Liga
+1725,22/23,Kelvin Arase,321048,23,Österreich,SK Rapid Wien,170,Karlsruher SC,48,Deutschland,0.0,2.Liga
+1726,22/23,Lukas Fridrikas,291090,24,Österreich,SK Austria Klagenfurt,28760,SC Austria Lustenau,541,Österreich,0.0,1.Liga
+1727,22/23,Patrick Greil,197043,25,Österreich,SK Austria Klagenfurt,28760,SK Rapid Wien,170,Österreich,0.0,1.Liga
+1728,22/23,Rajko Rep,80525,32,Slowenien,SK Austria Klagenfurt,28760,Bruk-Bet Termalica Nieciecza,15906,Polen,0.0,2.Liga
+1729,22/23,Darijo Pecirep,155596,30,Kroatien,SK Austria Klagenfurt,28760,SV Stripfing,20296,Österreich,0.0,3.Liga
+1730,22/23,Florian Freissegger,453885,21,Österreich,SK Austria Klagenfurt,28760,DSV Leoben,307,Österreich,0.0,3.Liga
+1731,22/23,Ivan Saravanja,425693,25,Kroatien,SK Austria Klagenfurt,28760,Akritas Chlorakas,31010,Zypern,0.0,1.Liga
+1732,22/23,Nik Prelec,469690,21,Slowenien,WSG Tirol,2446,Cagliari Calcio,1390,Italien,1300000.0,2.Liga
+1733,22/23,Fabian Koch,59069,33,Österreich,WSG Tirol,2446,FC Natters,19571,Österreich,0.0,4.Liga
+1734,22/23,Mario Andric,289042,24,Österreich,WSG Tirol,2446,FC Kufstein,2235,Österreich,0.0,3.Liga
+1735,22/23,Markus Wallner,197100,25,Österreich,WSG Tirol,2446,SV Horn,10044,Österreich,0.0,2.Liga
+1736,22/23,Felix Kerber,524490,19,Österreich,WSG Tirol,2446,FC Dornbirn,7448,Österreich,0.0,2.Liga
+1737,22/23,Hyun-seok Hong,562948,23,Südkorea,LASK,413,KAA Gent,157,Belgien,1500000.0,1.Liga
+1738,22/23,Marko Raguz,307664,24,Österreich,LASK,413,FK Austria Wien,14,Österreich,1300000.0,1.Liga
+1739,22/23,Andrés Andrade,403808,23,Panama,LASK,413,Arminia Bielefeld,10,Deutschland,1250000.0,2.Liga
+1740,22/23,Andreas Gruber,194477,27,Österreich,LASK,413,FK Austria Wien,14,Österreich,450000.0,1.Liga
+1741,22/23,James Holland,43158,33,Australien,LASK,413,FK Austria Wien,14,Österreich,150000.0,1.Liga
+1742,22/23,Ibrahima Dramé,649028,20,Senegal,LASK,413,Young Violets Austria Wien,4383,Österreich,75000.0,2.Liga
+1743,22/23,Strahinja Kerkez,745328,19,Zypern,LASK,413,AS Trencin,7918,Slowakei,0.0,1.Liga
+1744,22/23,Christoph Monschein,300095,29,Österreich,LASK,413,SV Ried,266,Österreich,0.0,1.Liga
+1745,22/23,Yoav Hofmayster,620907,21,Israel,LASK,413,Ironi Kiryat Shmona,6028,Israel,0.0,1.Liga
+1746,22/23,Petar Filipovic,85922,31,Deutschland,LASK,413,AEL Limassol,786,Zypern,0.0,1.Liga
+1747,22/23,Alexander Schmidt,307939,24,Österreich,LASK,413,FC Vizela,6912,Portugal,0.0,1.Liga
+1748,22/23,Armin Gremsl,159758,28,Österreich,SCR Altach,3551,Arminia Bielefeld,10,Deutschland,0.0,2.Liga
+1749,22/23,Guy Dahan,396646,22,Israel,SCR Altach,3551,Maccabi Petah Tikva,3785,Israel,0.0,2.Liga
+1750,22/23,David Bumberger,321850,23,Österreich,SCR Altach,3551,SK Vorwärts Steyr,1521,Österreich,0.0,2.Liga
+1751,22/23,Lukas Prokop,321061,23,Österreich,SCR Altach,3551,DSV Leoben,307,Österreich,0.0,3.Liga
+1752,22/23,Lars Nussbaumer,407503,21,Österreich,SCR Altach,3551,FC Dornbirn,7448,Österreich,0.0,2.Liga
+1753,22/23,Ante Bajic,282918,26,Österreich,SV Ried,266,SK Rapid Wien,170,Österreich,350000.0,1.Liga
+1754,22/23,Marcel Canadi,223953,24,Österreich,SV Ried,266,HNK Sibenik,223,Kroatien,0.0,1.Liga
+1755,22/23,Agyemang Diawusie,317024,24,Deutschland,SV Ried,266,SpVgg Bayreuth,752,Deutschland,0.0,3.Liga
+1756,22/23,Oliver Kragl,56513,32,Deutschland,SV Ried,266,ACR Messina,1104,Italien,0.0,3.Liga
+1757,22/23,Christoph Haas,157390,29,Österreich,SV Ried,266,FC Admira Wacker Mödling,503,Österreich,0.0,2.Liga
+1758,22/23,Lukas Schlosser,394067,21,Österreich,SV Ried,266,Union Gurten,19644,Österreich,0.0,3.Liga
+1759,22/23,Luca Meisl,307641,23,Österreich,SV Ried,266,Beerschot V.A.,41274,Belgien,0.0,2.Liga
+1760,22/23,Daniel Offenbacher,83505,30,Österreich,SV Ried,266,NK Domzale,6248,Slowenien,0.0,1.Liga
+1761,22/23,Lukas Gütlbauer,371430,21,Österreich,SV Ried,266,Wolfsberger AC,4441,Österreich,0.0,1.Liga
+1762,22/23,Milos Jovicic,195803,27,Österreich,SV Ried,266,Grazer AK 1902,316,Österreich,0.0,2.Liga
+1763,22/23,Gabriel Lemoine,375717,21,Belgien,TSV Hartberg,4467,RAAL La Louvière ,3901,Belgien,0.0,3.Liga
+1764,22/23,Albert Ejupi,204291,30,Schweden,TSV Hartberg,4467,Hapoel Hadera,51931,Israel,0.0,1.Liga
+1765,22/23,Stefan Gölles,307381,30,Österreich,TSV Hartberg,4467,SV Lafnitz,19536,Österreich,0.0,2.Liga
+1766,22/23,Donis Avdijaj,196227,25,Kosovo,TSV Hartberg,4467,FC Zürich,260,Schweiz,0.0,1.Liga
+1767,22/23,Thomas Kofler,307617,24,Österreich,TSV Hartberg,4467,SC Imst,18160,Österreich,0.0,3.Liga
+1768,22/23,Bryan Teixeira,657635,22,Kap Verde,SC Austria Lustenau,541,SK Sturm Graz,122,Österreich,1200000.0,1.Liga
+1769,22/23,Wallace,689739,24,Brasilien,SC Austria Lustenau,541,HNK Gorica,24575,Kroatien,0.0,1.Liga
+1770,22/23,Nicolai Bösch,307732,24,Österreich,SC Austria Lustenau,541,SV Lochau,13986,Österreich,0.0,4.Liga
+1771,22/23,Haris Tabakovic,203123,28,Schweiz,SC Austria Lustenau,541,FK Austria Wien,14,Österreich,0.0,1.Liga
+1772,22/23,Dragan Marceta,372268,22,Österreich,SC Austria Lustenau,541,SK Vorwärts Steyr,1521,Österreich,0.0,2.Liga
+1773,22/23,Florian Eres,343970,24,Österreich,SC Austria Lustenau,541,SK Vorwärts Steyr,1521,Österreich,0.0,2.Liga
+1774,22/23,Carlos Berlinger,610697,18,Österreich,SC Austria Lustenau,541,Schwarz-Weiß Bregenz,936,Österreich,0.0,3.Liga
+1775,22/23,Florian Rusch,610767,18,Österreich,SC Austria Lustenau,541,SC Rabenstein,26879,Österreich,0.0,5.Liga
