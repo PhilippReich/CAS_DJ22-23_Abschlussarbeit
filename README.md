@@ -25,7 +25,7 @@ Die 1751 Super-League-Abgänge konnte ich mit der Python-Bibliothek Pandas und [
 Da bei watson.ch keine Spezialisten aus dem Bereich DataViz arbeiten, beschloss sich die Visualisierungen mithilfe von Datawrapper zu realisieren. Als besonders herausfordernd entpuppte sich das schon vor Beginn der Arbeit gesetzte Ziel einer Karte mit Transferlinien in jedes Zielland. Hierfür mussten auf [geojson.io](https://geojson.io/#map=2.01/7.83/19.4) zunächst alle Verbindungslinien im GEOJSON-Format gezeichnet und dann in Datawrapper importiert werden. Leider ist die [so entstandene Karte](https://www.datawrapper.de/_/kJ9PU/) nicht zoombar, weshalb ich mit zwei Reitern («Europa» und «Rest der Welt») arbeiten musste. Bei den restlichen Visualisierungen gab es mit Datawrapper keinerlei Probleme.
 
 ## 4 Artikel
-[Publikation auf watson.ch](https://www.watson.ch/!720904551/)
+[Publikation auf watson.ch vom 7. Februar 2023](https://www.watson.ch/!720904551/)
 
 ## 5 Aufwandslogbuch
 - Datenbeschaffung/Programmieren: 24 Std.
