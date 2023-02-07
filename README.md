@@ -1,7 +1,7 @@
 # CAS_DJ22-23_Abschlussarbeit
 Dokumentation der Abschlussarbeit für den CAS Datenjournalismus 2022/23
 
-# [Transfer-Analyse – so sehr Ausbildungsliga ist die Super League wirklich](https://www.watson.ch/!720904551/)
+# [Export-Quote in die Top-5-Ligen – die Super League hängt alle ab](https://www.watson.ch/!720904551/)
 
 ![Teaserbild](https://github.com/PhilippReich/CAS_DJ22-23_Abschlussarbeit/blob/main/Teaserbild.jpg)
 
